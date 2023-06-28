@@ -1,71 +1,68 @@
 html {
-    height: 100%;
-    font-family: 'Crimson Pro', serif;
-  }
+  height: 100%;
+  font-family: 'Crimson Pro', serif;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+}
   
-  body {
-    height: 100%;
-    margin: 0;
-  }
+.header {
+  height: 48px;
+  display: flex;
+  align-items: center;
+  background-color: #141414;
+  color: white;
+  font-weight: 400;
+  font-size: 0.9rem;
+}
   
-  #header {
-    height: 48px;
-    display: flex;
-    align-items: center;
-    background-color: #141414;
-    color: white;
-    font-weight: 400;
-    font-size: 0.9rem;
+.header__content {
+  margin-left: 12px;
+}
+
+.header__title {
+  font-size: 1.1rem;
+  color: white;
+  font-weight: 400;
+
+  & span {
+    color: #F0C600;
   }
+}
   
-  #headerContent {
-    margin-left: 10px;
-  }
+.page {
+  display: flex;
+  height: calc( 100vh - 48px);
+}
 
-  .header__title {
-    font-size: 1.1rem;
-    color: white;
-    font-weight: 400;
+.sideBar {
+  width: 48px;
+}
 
-    & span {
-        color: #F0C600;
-    }
-  }
-  
-  #page {
-    display: flex;
-    height: calc( 100vh - 48px);
-    /* calculate the height. Header is 30px */
-  }
+.sideBar__element {
+  padding: 12px;
+  position: relative;
+  background: white;
+}
 
-  .sideBarWrapper {
-    width: 48px;
-  }
+.sideBar__element--stage {
+  height: 50vh;
+  background: #F0C600;
+}
 
-  .sideBar {
-    padding: 12px 0;
-    position: relative;
-  }
+.sideBar__title {
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin: 0;
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
 
-  .sideBar--upper {
-    height: 50vh;
-    background: #F0C600;
+  & span {
+      font-weight: 700;
   }
-
-  .sideBar--under {
-    background: white;
-  }
-
-  .sideBar__title {
-    font-size: 1.1rem;
-    font-weight: 400;
-    writing-mode: vertical-lr;
-    transform: rotate(180deg);
-
-    & span {
-        font-weight: 700;
-    }
-  }
+}
   
   #content {
     background: grey;
