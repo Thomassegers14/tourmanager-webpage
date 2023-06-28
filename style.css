@@ -65,15 +65,90 @@ body {
 }
   
   #content {
-    background: grey;
+    background: #9E9E9E;
     flex: 1 0 auto;
-    padding: 24px 12px 0;
+    padding: 24px 24px 0;
     /* enable grow, disable shrink */
   }
 
+  .graph__title {
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 0;
+  }
+
+  .graph__subtitle {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 0.8rem;
+    color: white;
+    margin-top: 6px;
+  }
+
   .rankGraph {
-    background-color: white;
-    opacity: 0.5;
     width: 100%;
     height: 50vh;
+    border-bottom: 1px solid white;
+  }
+
+  .axis {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 0.6rem;
+    color: white;
+  }
+
+  .axis__y {
+    font-weight: 700;
+    font-size: 0.8rem;
+    color: black;
+  }
+
+  .axis line {
+    stroke: white;
+    opacity: 0.6;
+  }
+
+  .axis__y line {
+    opacity: 0.2;
+  }
+
+  .rankLine {
+    stroke-width: 2px;
+    stroke: #F0C600;
+    fill: none;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+
+    @media(min-width: 768px) {
+      stroke-width: 4px;
+    }
+  }
+
+  .rankLine--leader {
+    stroke: black;
+  }
+
+  .rankDot {
+    fill: #F0C600;
+    stroke: #9E9E9E;
+  }
+
+  .rankDot--leader {
+    fill: black;
+  }
+
+  .rankText {
+    color: black;
+    stroke: #9E9E9E;
+    stroke-width: 3px;
+    stroke-linecap: round;
+    font-family: Roboto,sans-serif;
+    font-size: .7rem;
+    font-weight: 700;
+    paint-order: stroke;
+  }
+
+  .rankText--points {
+    font-weight: 400;
+    font-size: 0.6rem;
   }
