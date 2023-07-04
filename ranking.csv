@@ -1,51 +1,127 @@
-stage,participant,result,total_points,rank,category
-1,SEGERS Thomas,89.02131596743129,89.02131596743129,2,rest
-1,TEST Damiaan,89.0026319550816,89.0026319550816,3,rest
-1,VAN BROECK Gunther,10.713588896673173,10.713588896673173,10,rest
-1,BAL romain,44.9712420955766,44.9712420955766,6,rest
-1,EECKHAUT Tom,23.312774824444205,23.312774824444205,8,rest
-1,WAUTERS Stefaan,17.449164123274386,17.449164123274386,9,rest
-1,VAN DAMME Hubert,52.73280549165793,52.73280549165793,5,rest
-1,BOSMAN Vivienne,99.70228053047322,99.70228053047322,1,leader
-1,DE MAEYER Laurens,33.19236170803197,33.19236170803197,7,rest
-1,DE RYCKE Andreas,67.76678705425002,67.76678705425002,4,rest
-2,SEGERS Thomas,48.12336459965445,137.14468056708574,3,rest
-2,TEST Damiaan,91.25894368323497,180.26157563831657,2,rest
-2,VAN BROECK Gunther,99.86072691506706,110.57431581174023,6,rest
-2,BAL romain,44.35695714713074,89.32819924270734,9,rest
-2,EECKHAUT Tom,89.59881442552432,112.91158924996853,5,rest
-2,WAUTERS Stefaan,60.785046787466854,78.23421091074124,10,rest
-2,VAN DAMME Hubert,51.74088840279728,104.47369389445521,8,rest
-2,BOSMAN Vivienne,85.68957094429061,185.39185147476383,1,leader
-2,DE MAEYER Laurens,72.08964319177903,105.282004899811,7,rest
-2,DE RYCKE Andreas,53.91736772097647,121.68415477522649,4,rest
-3,SEGERS Thomas,69.3890609361697,206.53374150325544,2,rest
-3,TEST Damiaan,21.10250699846074,201.3640826367773,3,rest
-3,VAN BROECK Gunther,20.252317152917385,130.82663296465762,9,rest
-3,BAL romain,93.5048051038757,182.83300434658304,5,rest
-3,EECKHAUT Tom,34.983108803164214,147.89469805313274,8,rest
-3,WAUTERS Stefaan,20.1728786022868,98.40708951302804,10,rest
-3,VAN DAMME Hubert,51.740678830072284,156.2143727245275,7,rest
-3,BOSMAN Vivienne,96.83552701934241,282.22737849410623,1,leader
-3,DE MAEYER Laurens,84.3249152104836,189.6069201102946,4,rest
-3,DE RYCKE Andreas,48.92858143383637,170.61273620906286,6,rest
-4,SEGERS Thomas,60.259750723838806,266.79349222709425,2,rest
-4,TEST Damiaan,37.07350020064041,238.43758283741772,4,rest
-4,VAN BROECK Gunther,53.38047236483544,184.20710532949306,9,rest
-4,BAL romain,39.83634185208939,222.66934619867243,6,rest
-4,EECKHAUT Tom,76.44546031067148,224.34015836380422,5,rest
-4,WAUTERS Stefaan,75.63606423861347,174.0431537516415,10,rest
-4,VAN DAMME Hubert,62.07376304222271,218.2881357667502,7,rest
-4,BOSMAN Vivienne,79.385084715439,361.61246320954524,1,leader
-4,DE MAEYER Laurens,5.905980166513473,195.51290027680807,8,rest
-4,DE RYCKE Andreas,70.16055866680108,240.77329487586394,3,rest
-5,SEGERS Thomas,66.46297462517396,333.2564668522682,2,rest
-5,TEST Damiaan,42.82468578405678,281.2622686214745,5,rest
-5,VAN BROECK Gunther,96.6432965064887,280.85040183598176,6,rest
-5,BAL romain,20.019343761494383,242.6886899601668,7,rest
-5,EECKHAUT Tom,77.00288846925832,301.34304683306254,3,rest
-5,WAUTERS Stefaan,52.68909620936029,226.7322499610018,10,rest
-5,VAN DAMME Hubert,10.998733495594934,229.28686926234514,9,rest
-5,BOSMAN Vivienne,35.657701461110264,397.2701646706555,1,leader
-5,DE MAEYER Laurens,43.0470095295459,238.55990980635397,8,rest
-5,DE RYCKE Andreas,45.081945015117526,285.85523989098147,4,rest
+stage_id,participant,points,stage,total_points,rank
+race/tour-de-france/2023/stage-1,69 G-Motmans,18,1,18,34
+race/tour-de-france/2023/stage-1,AUDENAERT Tim,38,1,38,17
+race/tour-de-france/2023/stage-1,AUDENAERT Zoë,32,1,32,23
+race/tour-de-france/2023/stage-1,BAL romain,0,1,0,42
+race/tour-de-france/2023/stage-1,BOSMAN Vivienne,28,1,28,29
+race/tour-de-france/2023/stage-1,DE BLANGER Clovis,46,1,46,8
+race/tour-de-france/2023/stage-1,DE MAEYER Laurens,32,1,32,24
+race/tour-de-france/2023/stage-1,DE MAEYER peter,42,1,42,13
+race/tour-de-france/2023/stage-1,DE MEULENAER Dries,4,1,4,40
+race/tour-de-france/2023/stage-1,DE MEULENAER Flor,32,1,32,25
+race/tour-de-france/2023/stage-1,DE MEULENAER Siel,4,1,4,41
+race/tour-de-france/2023/stage-1,DE RYCKE Andreas,42,1,42,14
+race/tour-de-france/2023/stage-1,DECLEYRE Michiel,44,1,44,9
+race/tour-de-france/2023/stage-1,DECLEYRE Simon,38,1,38,18
+race/tour-de-france/2023/stage-1,DERYCKE Matthew,24,1,24,31
+race/tour-de-france/2023/stage-1,EECKHAUT Tom,56,1,56,4
+race/tour-de-france/2023/stage-1,GOOSSENS Inneke,32,1,32,26
+race/tour-de-france/2023/stage-1,JANSSENS Robert,42,1,42,15
+race/tour-de-france/2023/stage-1,KEBAB Rate My,17,1,17,38
+race/tour-de-france/2023/stage-1,MAES Junot,36,1,36,20
+race/tour-de-france/2023/stage-1,RELAES Damiaan,18,1,18,35
+race/tour-de-france/2023/stage-1,RELAES Francis,44,1,44,10
+race/tour-de-france/2023/stage-1,RELAES Jacob,30,1,30,27
+race/tour-de-france/2023/stage-1,RELAES Joris,54,1,54,5
+race/tour-de-france/2023/stage-1,ROOMS Ben,52,1,52,7
+race/tour-de-france/2023/stage-1,RYKX Jelle,12,1,12,39
+race/tour-de-france/2023/stage-1,SEGERS Thomas,71,1,71,3
+race/tour-de-france/2023/stage-1,SMET Arno,42,1,42,16
+race/tour-de-france/2023/stage-1,SMET Bart,18,1,18,36
+race/tour-de-france/2023/stage-1,SMET Nona,38,1,38,19
+race/tour-de-france/2023/stage-1,VAN BROECK Gunther,34,1,34,21
+race/tour-de-france/2023/stage-1,VAN DAMME Hubert,24,1,24,32
+race/tour-de-france/2023/stage-1,VAN LAECKE Kristiaan,75,1,75,2
+race/tour-de-france/2023/stage-1,VAN RAEMDONCK Hilde,18,1,18,37
+race/tour-de-france/2023/stage-1,VAN RAEMDONCK Katrien,34,1,34,22
+race/tour-de-france/2023/stage-1,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,44,1,44,11
+race/tour-de-france/2023/stage-1,VERELST Thomas,54,1,54,6
+race/tour-de-france/2023/stage-1,VERHAEGEN Arnout,44,1,44,12
+race/tour-de-france/2023/stage-1,VERSTRAETEN Jens,24,1,24,33
+race/tour-de-france/2023/stage-1,VERSTRAETEN Wanne,30,1,30,28
+race/tour-de-france/2023/stage-1,WAUTERS Stefaan,28,1,28,30
+race/tour-de-france/2023/stage-1,WITTEMANS Tine,79,1,79,1
+race/tour-de-france/2023/stage-2,69 G-Motmans,60,2,78,27
+race/tour-de-france/2023/stage-2,AUDENAERT Tim,70,2,108,5
+race/tour-de-france/2023/stage-2,AUDENAERT Zoë,58,2,90,17
+race/tour-de-france/2023/stage-2,BAL romain,34,2,34,40
+race/tour-de-france/2023/stage-2,BOSMAN Vivienne,40,2,68,32
+race/tour-de-france/2023/stage-2,DE BLANGER Clovis,58,2,104,6
+race/tour-de-france/2023/stage-2,DE MAEYER Laurens,54,2,86,18
+race/tour-de-france/2023/stage-2,DE MAEYER peter,38,2,80,24
+race/tour-de-france/2023/stage-2,DE MEULENAER Dries,30,2,34,41
+race/tour-de-france/2023/stage-2,DE MEULENAER Flor,59,2,91,16
+race/tour-de-france/2023/stage-2,DE MEULENAER Siel,49,2,53,38
+race/tour-de-france/2023/stage-2,DE RYCKE Andreas,30,2,72,30
+race/tour-de-france/2023/stage-2,DECLEYRE Michiel,38,2,82,21
+race/tour-de-france/2023/stage-2,DECLEYRE Simon,38,2,76,29
+race/tour-de-france/2023/stage-2,DERYCKE Matthew,68,2,92,15
+race/tour-de-france/2023/stage-2,EECKHAUT Tom,30,2,86,19
+race/tour-de-france/2023/stage-2,GOOSSENS Inneke,72,2,104,7
+race/tour-de-france/2023/stage-2,JANSSENS Robert,38,2,80,25
+race/tour-de-france/2023/stage-2,KEBAB Rate My,42,2,59,35
+race/tour-de-france/2023/stage-2,MAES Junot,85,2,121,2
+race/tour-de-france/2023/stage-2,RELAES Damiaan,13,2,31,42
+race/tour-de-france/2023/stage-2,RELAES Francis,38,2,82,22
+race/tour-de-france/2023/stage-2,RELAES Jacob,26,2,56,36
+race/tour-de-france/2023/stage-2,RELAES Joris,58,2,112,3
+race/tour-de-france/2023/stage-2,ROOMS Ben,44,2,96,14
+race/tour-de-france/2023/stage-2,RYKX Jelle,38,2,50,39
+race/tour-de-france/2023/stage-2,SEGERS Thomas,32,2,103,9
+race/tour-de-france/2023/stage-2,SMET Arno,30,2,72,31
+race/tour-de-france/2023/stage-2,SMET Bart,60,2,78,28
+race/tour-de-france/2023/stage-2,SMET Nona,59,2,97,13
+race/tour-de-france/2023/stage-2,VAN BROECK Gunther,46,2,80,26
+race/tour-de-france/2023/stage-2,VAN DAMME Hubert,60,2,84,20
+race/tour-de-france/2023/stage-2,VAN LAECKE Kristiaan,35,2,110,4
+race/tour-de-france/2023/stage-2,VAN RAEMDONCK Hilde,47,2,65,34
+race/tour-de-france/2023/stage-2,VAN RAEMDONCK Katrien,66,2,100,10
+race/tour-de-france/2023/stage-2,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,54,2,98,11
+race/tour-de-france/2023/stage-2,VERELST Thomas,50,2,104,8
+race/tour-de-france/2023/stage-2,VERHAEGEN Arnout,54,2,98,12
+race/tour-de-france/2023/stage-2,VERSTRAETEN Jens,44,2,68,33
+race/tour-de-france/2023/stage-2,VERSTRAETEN Wanne,26,2,56,37
+race/tour-de-france/2023/stage-2,WAUTERS Stefaan,54,2,82,23
+race/tour-de-france/2023/stage-2,WITTEMANS Tine,64,2,143,1
+race/tour-de-france/2023/stage-3,69 G-Motmans,13,3,91,28
+race/tour-de-france/2023/stage-3,AUDENAERT Tim,26,3,134,5
+race/tour-de-france/2023/stage-3,AUDENAERT Zoë,16,3,106,20
+race/tour-de-france/2023/stage-3,BAL romain,35,3,69,38
+race/tour-de-france/2023/stage-3,BOSMAN Vivienne,7,3,75,35
+race/tour-de-france/2023/stage-3,DE BLANGER Clovis,24,3,128,7
+race/tour-de-france/2023/stage-3,DE MAEYER Laurens,26,3,112,16
+race/tour-de-france/2023/stage-3,DE MAEYER peter,7,3,87,31
+race/tour-de-france/2023/stage-3,DE MEULENAER Dries,23,3,57,41
+race/tour-de-france/2023/stage-3,DE MEULENAER Flor,18,3,109,19
+race/tour-de-france/2023/stage-3,DE MEULENAER Siel,15,3,68,40
+race/tour-de-france/2023/stage-3,DE RYCKE Andreas,32,3,104,21
+race/tour-de-france/2023/stage-3,DECLEYRE Michiel,11,3,93,26
+race/tour-de-france/2023/stage-3,DECLEYRE Simon,46,3,122,10
+race/tour-de-france/2023/stage-3,DERYCKE Matthew,28,3,120,13
+race/tour-de-france/2023/stage-3,EECKHAUT Tom,7,3,93,27
+race/tour-de-france/2023/stage-3,GOOSSENS Inneke,18,3,122,11
+race/tour-de-france/2023/stage-3,JANSSENS Robert,7,3,87,32
+race/tour-de-france/2023/stage-3,KEBAB Rate My,13,3,72,37
+race/tour-de-france/2023/stage-3,MAES Junot,18,3,139,3
+race/tour-de-france/2023/stage-3,RELAES Damiaan,14,3,45,42
+race/tour-de-france/2023/stage-3,RELAES Francis,13,3,95,25
+race/tour-de-france/2023/stage-3,RELAES Jacob,46,3,102,22
+race/tour-de-france/2023/stage-3,RELAES Joris,24,3,136,4
+race/tour-de-france/2023/stage-3,ROOMS Ben,15,3,111,17
+race/tour-de-france/2023/stage-3,RYKX Jelle,60,3,110,18
+race/tour-de-france/2023/stage-3,SEGERS Thomas,18,3,121,12
+race/tour-de-france/2023/stage-3,SMET Arno,9,3,81,34
+race/tour-de-france/2023/stage-3,SMET Bart,13,3,91,29
+race/tour-de-france/2023/stage-3,SMET Nona,22,3,119,14
+race/tour-de-france/2023/stage-3,VAN BROECK Gunther,3,3,83,33
+race/tour-de-france/2023/stage-3,VAN DAMME Hubert,16,3,100,24
+race/tour-de-france/2023/stage-3,VAN LAECKE Kristiaan,43,3,153,2
+race/tour-de-france/2023/stage-3,VAN RAEMDONCK Hilde,25,3,90,30
+race/tour-de-france/2023/stage-3,VAN RAEMDONCK Katrien,24,3,124,9
+race/tour-de-france/2023/stage-3,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,20,3,118,15
+race/tour-de-france/2023/stage-3,VERELST Thomas,24,3,128,8
+race/tour-de-france/2023/stage-3,VERHAEGEN Arnout,3,3,101,23
+race/tour-de-france/2023/stage-3,VERSTRAETEN Jens,7,3,75,36
+race/tour-de-france/2023/stage-3,VERSTRAETEN Wanne,13,3,69,39
+race/tour-de-france/2023/stage-3,WAUTERS Stefaan,51,3,133,6
+race/tour-de-france/2023/stage-3,WITTEMANS Tine,35,3,178,1

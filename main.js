@@ -17,7 +17,6 @@ Promise.all([
 })
 
 const makeRankGraph = function(data) {
-    console.log(data.filter(d => d.stage == d3.max(data, e => e.stage)))
 
     // set the dimensions and margins of the graph
     const margins = { top: 48, right: 48, bottom: 48, left: 26 }
@@ -40,13 +39,13 @@ const makeRankGraph = function(data) {
     // Build X scales and axis:
     const xScale = d3.scaleLinear()
     .range([0, innerWidth])
-    .domain([1, 10])
+    .domain([1, 5])
 
     svg.append('g')
     .attr('class', 'axis axis__x')
     .call(
         d3.axisTop(xScale)
-        .ticks(10)
+        .ticks(5)
         .tickPadding(12)
         .tickSizeOuter(0)
         .tickSize(-innerHeight)
@@ -66,14 +65,13 @@ const makeRankGraph = function(data) {
     .attr('class', 'axis axis__y')
     .call(
         d3.axisLeft(yScale)
+        .ticks(40)
         .tickPadding(12)
         .tickSizeOuter(0)
         .tickSize(-innerWidth)
         )
     
     d3.selectAll(".axis").selectAll(".domain").remove()
-
-    console.log(d3.group(data, d => d.participant))
 
     svg.selectAll("rankLine")
     .data(d3.group(data, d => d.participant))
@@ -90,8 +88,8 @@ const makeRankGraph = function(data) {
     .data(data)
     .join("circle")
     .attr("class", "rankDot")
-    .attr("cx", d => xScale(d.stage))
-    .attr("cy", d => yScale(d.rank))
+    .attr("cx", d => xScale(+d.stage))
+    .attr("cy", d => yScale(+d.rank))
     .attr("r", width > 400 ? 5 : 3)
 
     
