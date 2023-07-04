@@ -18,6 +18,9 @@ Promise.all([
 
 const makeRankGraph = function(data) {
 
+    const lastStage = d3.max(data, d => d.stage)
+    document.getElementById("currentStage").textContent = lastStage;
+
     // set the dimensions and margins of the graph
     const margins = { top: 48, right: 48, bottom: 48, left: 26 }
 
@@ -39,13 +42,13 @@ const makeRankGraph = function(data) {
     // Build X scales and axis:
     const xScale = d3.scaleLinear()
     .range([0, innerWidth])
-    .domain([1, 5])
+    .domain([1, lastStage + 2])
 
     svg.append('g')
     .attr('class', 'axis axis__x')
     .call(
         d3.axisTop(xScale)
-        .ticks(5)
+        .ticks(lastStage + 2)
         .tickPadding(12)
         .tickSizeOuter(0)
         .tickSize(-innerHeight)
