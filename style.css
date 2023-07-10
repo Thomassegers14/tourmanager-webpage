@@ -67,8 +67,11 @@ body {
   #content {
     background: #9E9E9E;
     flex: 1 0 auto;
-    padding: 24px 24px 0;
-    /* enable grow, disable shrink */
+    padding: 24px 12px 0;
+
+    @media (min-width: 768px) {
+      padding: 24px 24px 0;
+    }
   }
 
   .graph__title {
