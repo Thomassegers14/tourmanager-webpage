@@ -144,17 +144,21 @@ body {
   }
 
   .rankText {
-    color: black;
+    fill: black;
     stroke: #9E9E9E;
     stroke-width: 3px;
     stroke-linecap: round;
     font-family: Roboto,sans-serif;
-    font-size: .7rem;
+    font-size: .6rem;
     font-weight: 700;
     paint-order: stroke;
+
+    @media (min-width: 768px) {
+      font-size: 0.7rem;  
+    }
   }
 
   .rankText--points {
     font-weight: 400;
-    font-size: 0.6rem;
+    font-size: 0.5rem;
   }

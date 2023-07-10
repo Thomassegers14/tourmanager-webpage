@@ -21,11 +21,11 @@ const makeRankGraph = function(data) {
     const lastStage = d3.max(data, d => d.stage)
     document.getElementById("currentStage").textContent = lastStage;
 
-    // set the dimensions and margins of the graph
-    const margins = { top: 48, right: 48, bottom: 48, left: 26 }
-
     // set outer dimensions
     const { width, height } = d3.select('.rankGraph').node().getBoundingClientRect()
+
+    // set the dimensions and margins of the graph
+    const margins = { top: 48, right: width > 600 ? 48 : 78, bottom: 48, left: 26 }
 
     // set inner dimensions
     const innerWidth = width - margins.left - margins.right

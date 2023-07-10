@@ -34,7 +34,7 @@ race/tour-de-france/2023/stage-1,VAN DAMME Hubert,26,1,0,26,30
 race/tour-de-france/2023/stage-1,VAN LAECKE Kristiaan,74,1,0,74,3
 race/tour-de-france/2023/stage-1,VAN RAEMDONCK Hilde,23,1,0,23,32
 race/tour-de-france/2023/stage-1,VAN RAEMDONCK Katrien,36,1,0,36,24
-race/tour-de-france/2023/stage-1,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,48,1,0,48,11
+race/tour-de-france/2023/stage-1,VDB-VRD Sofia en Ann,48,1,0,48,11
 race/tour-de-france/2023/stage-1,VERELST Thomas,58,1,0,58,6
 race/tour-de-france/2023/stage-1,VERHAEGEN Arnout,46,1,0,46,16
 race/tour-de-france/2023/stage-1,VERSTRAETEN Jens,27,1,0,27,29
@@ -76,7 +76,7 @@ race/tour-de-france/2023/stage-2,VAN DAMME Hubert,62,2,0,88,24
 race/tour-de-france/2023/stage-2,VAN LAECKE Kristiaan,39,2,0,113,6
 race/tour-de-france/2023/stage-2,VAN RAEMDONCK Hilde,49,2,0,72,32
 race/tour-de-france/2023/stage-2,VAN RAEMDONCK Katrien,68,2,0,104,13
-race/tour-de-france/2023/stage-2,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,57,2,0,105,12
+race/tour-de-france/2023/stage-2,VDB-VRD Sofia en Ann,57,2,0,105,12
 race/tour-de-france/2023/stage-2,VERELST Thomas,55,2,0,113,7
 race/tour-de-france/2023/stage-2,VERHAEGEN Arnout,58,2,0,104,14
 race/tour-de-france/2023/stage-2,VERSTRAETEN Jens,48,2,0,75,31
@@ -118,7 +118,7 @@ race/tour-de-france/2023/stage-3,VAN DAMME Hubert,21,3,0,109,26
 race/tour-de-france/2023/stage-3,VAN LAECKE Kristiaan,45,3,0,158,2
 race/tour-de-france/2023/stage-3,VAN RAEMDONCK Hilde,28,3,0,100,29
 race/tour-de-france/2023/stage-3,VAN RAEMDONCK Katrien,29,3,0,133,11
-race/tour-de-france/2023/stage-3,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,26,3,0,131,14
+race/tour-de-france/2023/stage-3,VDB-VRD Sofia en Ann,26,3,0,131,14
 race/tour-de-france/2023/stage-3,VERELST Thomas,29,3,0,142,6
 race/tour-de-france/2023/stage-3,VERHAEGEN Arnout,8,3,0,112,22
 race/tour-de-france/2023/stage-3,VERSTRAETEN Jens,12,3,0,87,33
@@ -160,7 +160,7 @@ race/tour-de-france/2023/stage-4,VAN DAMME Hubert,12,4,0,121,27
 race/tour-de-france/2023/stage-4,VAN LAECKE Kristiaan,54,4,0,212,2
 race/tour-de-france/2023/stage-4,VAN RAEMDONCK Hilde,22,4,0,122,25
 race/tour-de-france/2023/stage-4,VAN RAEMDONCK Katrien,12,4,0,145,16
-race/tour-de-france/2023/stage-4,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,16,4,0,147,15
+race/tour-de-france/2023/stage-4,VDB-VRD Sofia en Ann,16,4,0,147,15
 race/tour-de-france/2023/stage-4,VERELST Thomas,36,4,0,178,3
 race/tour-de-france/2023/stage-4,VERHAEGEN Arnout,8,4,0,120,28
 race/tour-de-france/2023/stage-4,VERSTRAETEN Jens,10,4,0,97,34
@@ -202,7 +202,7 @@ race/tour-de-france/2023/stage-5,VAN DAMME Hubert,9,5,0,130,35
 race/tour-de-france/2023/stage-5,VAN LAECKE Kristiaan,60,5,0,272,2
 race/tour-de-france/2023/stage-5,VAN RAEMDONCK Hilde,92,5,0,214,15
 race/tour-de-france/2023/stage-5,VAN RAEMDONCK Katrien,49,5,0,194,22
-race/tour-de-france/2023/stage-5,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,21,5,0,168,29
+race/tour-de-france/2023/stage-5,VDB-VRD Sofia en Ann,21,5,0,168,29
 race/tour-de-france/2023/stage-5,VERELST Thomas,90,5,0,268,3
 race/tour-de-france/2023/stage-5,VERHAEGEN Arnout,45,5,0,165,31
 race/tour-de-france/2023/stage-5,VERSTRAETEN Jens,9,5,0,106,37
@@ -244,7 +244,7 @@ race/tour-de-france/2023/stage-6,VAN DAMME Hubert,58,6,0,188,33
 race/tour-de-france/2023/stage-6,VAN LAECKE Kristiaan,55,6,0,327,4
 race/tour-de-france/2023/stage-6,VAN RAEMDONCK Hilde,47,6,0,261,19
 race/tour-de-france/2023/stage-6,VAN RAEMDONCK Katrien,51,6,0,245,22
-race/tour-de-france/2023/stage-6,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,37,6,0,205,32
+race/tour-de-france/2023/stage-6,VDB-VRD Sofia en Ann,37,6,0,205,32
 race/tour-de-france/2023/stage-6,VERELST Thomas,50,6,0,318,5
 race/tour-de-france/2023/stage-6,VERHAEGEN Arnout,49,6,0,214,31
 race/tour-de-france/2023/stage-6,VERSTRAETEN Jens,36,6,0,142,37
@@ -286,7 +286,7 @@ race/tour-de-france/2023/stage-7,VAN DAMME Hubert,7,7,0,195,34
 race/tour-de-france/2023/stage-7,VAN LAECKE Kristiaan,45,7,0,372,4
 race/tour-de-france/2023/stage-7,VAN RAEMDONCK Hilde,37,7,0,298,20
 race/tour-de-france/2023/stage-7,VAN RAEMDONCK Katrien,18,7,0,263,26
-race/tour-de-france/2023/stage-7,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,28,7,0,233,31
+race/tour-de-france/2023/stage-7,VDB-VRD Sofia en Ann,28,7,0,233,31
 race/tour-de-france/2023/stage-7,VERELST Thomas,28,7,0,346,8
 race/tour-de-france/2023/stage-7,VERHAEGEN Arnout,29,7,0,243,30
 race/tour-de-france/2023/stage-7,VERSTRAETEN Jens,28,7,0,170,38
@@ -328,7 +328,7 @@ race/tour-de-france/2023/stage-8,VAN DAMME Hubert,37,8,0,232,34
 race/tour-de-france/2023/stage-8,VAN LAECKE Kristiaan,38,8,0,410,4
 race/tour-de-france/2023/stage-8,VAN RAEMDONCK Hilde,31,8,0,329,20
 race/tour-de-france/2023/stage-8,VAN RAEMDONCK Katrien,30,8,0,293,23
-race/tour-de-france/2023/stage-8,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,59,8,0,292,24
+race/tour-de-france/2023/stage-8,VDB-VRD Sofia en Ann,59,8,0,292,24
 race/tour-de-france/2023/stage-8,VERELST Thomas,10,8,0,356,15
 race/tour-de-france/2023/stage-8,VERHAEGEN Arnout,11,8,0,254,33
 race/tour-de-france/2023/stage-8,VERSTRAETEN Jens,39,8,0,209,37
@@ -370,7 +370,7 @@ race/tour-de-france/2023/stage-9,VAN DAMME Hubert,27,9,0,259,34
 race/tour-de-france/2023/stage-9,VAN LAECKE Kristiaan,11,9,0,421,4
 race/tour-de-france/2023/stage-9,VAN RAEMDONCK Hilde,21,9,0,350,19
 race/tour-de-france/2023/stage-9,VAN RAEMDONCK Katrien,8,9,0,301,29
-race/tour-de-france/2023/stage-9,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,21,9,0,313,26
+race/tour-de-france/2023/stage-9,VDB-VRD Sofia en Ann,21,9,0,313,26
 race/tour-de-france/2023/stage-9,VERELST Thomas,8,9,0,364,15
 race/tour-de-france/2023/stage-9,VERHAEGEN Arnout,59,9,0,313,27
 race/tour-de-france/2023/stage-9,VERSTRAETEN Jens,7,9,0,216,37
