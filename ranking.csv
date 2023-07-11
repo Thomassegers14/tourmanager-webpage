@@ -1,379 +1,431 @@
 stage_id,participant,points,stage,strafpunten,total_points,rank
-race/tour-de-france/2023/stage-1,69 G-Motmans,21,1,0,21,33
-race/tour-de-france/2023/stage-1,AUDENAERT Tim,42,1,0,42,18
-race/tour-de-france/2023/stage-1,AUDENAERT Zoë,34,1,0,34,26
-race/tour-de-france/2023/stage-1,BAL romain,0,1,0,0,39
-race/tour-de-france/2023/stage-1,BOSMAN Vivienne,-16,1,20,-16,40
-race/tour-de-france/2023/stage-1,DE BLANGER Clovis,48,1,0,48,8
-race/tour-de-france/2023/stage-1,DE MAEYER Laurens,36,1,0,36,23
-race/tour-de-france/2023/stage-1,DE MAEYER peter,47,1,0,47,12
-race/tour-de-france/2023/stage-1,DE MEULENAER Dries,4,1,0,4,38
-race/tour-de-france/2023/stage-1,DE MEULENAER Flor,37,1,0,37,22
-race/tour-de-france/2023/stage-1,DE MEULENAER Siel,7,1,0,7,37
-race/tour-de-france/2023/stage-1,DE RYCKE Andreas,47,1,0,47,13
-race/tour-de-france/2023/stage-1,DECLEYRE Michiel,48,1,0,48,9
-race/tour-de-france/2023/stage-1,DECLEYRE Simon,42,1,0,42,19
-race/tour-de-france/2023/stage-1,DERYCKE Matthew,16,1,10,16,35
-race/tour-de-france/2023/stage-1,EECKHAUT Tom,60,1,0,60,4
-race/tour-de-france/2023/stage-1,GOOSSENS Inneke,34,1,0,34,27
-race/tour-de-france/2023/stage-1,JANSSENS Robert,46,1,0,46,14
-race/tour-de-france/2023/stage-1,KEBAB Rate My,16,1,0,16,36
-race/tour-de-france/2023/stage-1,MAES Junot,41,1,0,41,20
-race/tour-de-france/2023/stage-1,RELAES Damiaan,24,1,0,24,31
-race/tour-de-france/2023/stage-1,RELAES Francis,48,1,0,48,10
-race/tour-de-france/2023/stage-1,RELAES Jacob,35,1,0,35,25
-race/tour-de-france/2023/stage-1,RELAES Joris,58,1,0,58,5
-race/tour-de-france/2023/stage-1,ROOMS Ben,57,1,0,57,7
-race/tour-de-france/2023/stage-1,RYKX Jelle,-27,1,40,-27,42
+race/tour-de-france/2023/stage-1,69 G-Motmans,21,1,0,21,34
+race/tour-de-france/2023/stage-1,AUDENAERT Tim,42,1,0,42,19
+race/tour-de-france/2023/stage-1,AUDENAERT Zoë,34,1,0,34,27
+race/tour-de-france/2023/stage-1,BAL romain,0,1,0,0,40
+race/tour-de-france/2023/stage-1,BOSMAN Vivienne,-16,1,20,-16,41
+race/tour-de-france/2023/stage-1,DE BLANGER Clovis,48,1,0,48,9
+race/tour-de-france/2023/stage-1,DE MAEYER Laurens,36,1,0,36,24
+race/tour-de-france/2023/stage-1,DE MAEYER peter,47,1,0,47,13
+race/tour-de-france/2023/stage-1,DE MEULENAER Dries,4,1,0,4,39
+race/tour-de-france/2023/stage-1,DE MEULENAER Flor,37,1,0,37,23
+race/tour-de-france/2023/stage-1,DE MEULENAER Siel,7,1,0,7,38
+race/tour-de-france/2023/stage-1,DE RYCKE Andreas,47,1,0,47,14
+race/tour-de-france/2023/stage-1,DECLEYRE Michiel,48,1,0,48,10
+race/tour-de-france/2023/stage-1,DECLEYRE Simon,42,1,0,42,20
+race/tour-de-france/2023/stage-1,DERYCKE Matthew,16,1,10,16,36
+race/tour-de-france/2023/stage-1,EECKHAUT Tom,60,1,0,60,5
+race/tour-de-france/2023/stage-1,GOOSSENS Inneke,34,1,0,34,28
+race/tour-de-france/2023/stage-1,JANSSENS Robert,46,1,0,46,15
+race/tour-de-france/2023/stage-1,KEBAB Rate My,16,1,0,16,37
+race/tour-de-france/2023/stage-1,MAES Junot,41,1,0,41,21
+race/tour-de-france/2023/stage-1,RELAES Damiaan,24,1,0,24,32
+race/tour-de-france/2023/stage-1,RELAES Francis,48,1,0,48,11
+race/tour-de-france/2023/stage-1,RELAES Jacob,35,1,0,35,26
+race/tour-de-france/2023/stage-1,RELAES Joris,58,1,0,58,6
+race/tour-de-france/2023/stage-1,ROOMS Ben,57,1,0,57,8
+race/tour-de-france/2023/stage-1,RYKX Jelle,-27,1,40,-27,43
 race/tour-de-france/2023/stage-1,SEGERS Thomas,75,1,0,75,2
-race/tour-de-france/2023/stage-1,SMET Arno,46,1,0,46,15
-race/tour-de-france/2023/stage-1,SMET Bart,20,1,0,20,34
-race/tour-de-france/2023/stage-1,SMET Nona,45,1,0,45,17
-race/tour-de-france/2023/stage-1,VAN BROECK Gunther,39,1,0,39,21
-race/tour-de-france/2023/stage-1,VAN DAMME Hubert,26,1,0,26,30
+race/tour-de-france/2023/stage-1,SMET Arno,46,1,0,46,16
+race/tour-de-france/2023/stage-1,SMET Bart,20,1,0,20,35
+race/tour-de-france/2023/stage-1,SMET Nona,45,1,0,45,18
+race/tour-de-france/2023/stage-1,VAN BROECK Gunther,39,1,0,39,22
+race/tour-de-france/2023/stage-1,VAN DAMME Hubert,26,1,0,26,31
 race/tour-de-france/2023/stage-1,VAN LAECKE Kristiaan,74,1,0,74,3
-race/tour-de-france/2023/stage-1,VAN RAEMDONCK Hilde,23,1,0,23,32
-race/tour-de-france/2023/stage-1,VAN RAEMDONCK Katrien,36,1,0,36,24
-race/tour-de-france/2023/stage-1,VDB-VRD Sofia en Ann,48,1,0,48,11
-race/tour-de-france/2023/stage-1,VERELST Thomas,58,1,0,58,6
-race/tour-de-france/2023/stage-1,VERHAEGEN Arnout,46,1,0,46,16
-race/tour-de-france/2023/stage-1,VERSTRAETEN Jens,27,1,0,27,29
-race/tour-de-france/2023/stage-1,VERSTRAETEN Wanne,32,1,0,32,28
-race/tour-de-france/2023/stage-1,WAUTERS Stefaan,-26,1,30,-26,41
+race/tour-de-france/2023/stage-1,VAN RAEMDONCK Dirk,64,1,0,64,4
+race/tour-de-france/2023/stage-1,VAN RAEMDONCK Hilde,23,1,0,23,33
+race/tour-de-france/2023/stage-1,VAN RAEMDONCK Katrien,36,1,0,36,25
+race/tour-de-france/2023/stage-1,VDB-VRD Sofia en Ann,48,1,0,48,12
+race/tour-de-france/2023/stage-1,VERELST Thomas,58,1,0,58,7
+race/tour-de-france/2023/stage-1,VERHAEGEN Arnout,46,1,0,46,17
+race/tour-de-france/2023/stage-1,VERSTRAETEN Jens,27,1,0,27,30
+race/tour-de-france/2023/stage-1,VERSTRAETEN Wanne,32,1,0,32,29
+race/tour-de-france/2023/stage-1,WAUTERS Stefaan,-26,1,30,-26,42
 race/tour-de-france/2023/stage-1,WITTEMANS Tine,83,1,0,83,1
-race/tour-de-france/2023/stage-2,69 G-Motmans,60,2,0,81,29
-race/tour-de-france/2023/stage-2,AUDENAERT Tim,73,2,0,115,4
-race/tour-de-france/2023/stage-2,AUDENAERT Zoë,60,2,0,94,17
-race/tour-de-france/2023/stage-2,BAL romain,32,2,0,32,39
-race/tour-de-france/2023/stage-2,BOSMAN Vivienne,15,2,20,-1,42
-race/tour-de-france/2023/stage-2,DE BLANGER Clovis,60,2,0,108,9
-race/tour-de-france/2023/stage-2,DE MAEYER Laurens,57,2,0,93,18
-race/tour-de-france/2023/stage-2,DE MAEYER peter,46,2,0,93,19
-race/tour-de-france/2023/stage-2,DE MEULENAER Dries,29,2,0,33,38
-race/tour-de-france/2023/stage-2,DE MEULENAER Flor,63,2,0,100,15
-race/tour-de-france/2023/stage-2,DE MEULENAER Siel,50,2,0,57,35
-race/tour-de-france/2023/stage-2,DE RYCKE Andreas,38,2,0,85,26
-race/tour-de-france/2023/stage-2,DECLEYRE Michiel,44,2,0,92,21
-race/tour-de-france/2023/stage-2,DECLEYRE Simon,43,2,0,85,27
-race/tour-de-france/2023/stage-2,DERYCKE Matthew,70,2,10,86,25
-race/tour-de-france/2023/stage-2,EECKHAUT Tom,36,2,0,96,16
-race/tour-de-france/2023/stage-2,GOOSSENS Inneke,74,2,0,108,10
-race/tour-de-france/2023/stage-2,JANSSENS Robert,44,2,0,90,23
-race/tour-de-france/2023/stage-2,KEBAB Rate My,40,2,0,56,36
-race/tour-de-france/2023/stage-2,MAES Junot,89,2,0,130,2
-race/tour-de-france/2023/stage-2,RELAES Damiaan,19,2,0,43,37
-race/tour-de-france/2023/stage-2,RELAES Francis,44,2,0,92,22
-race/tour-de-france/2023/stage-2,RELAES Jacob,33,2,0,68,33
-race/tour-de-france/2023/stage-2,RELAES Joris,61,2,0,119,3
-race/tour-de-france/2023/stage-2,ROOMS Ben,51,2,0,108,11
-race/tour-de-france/2023/stage-2,RYKX Jelle,37,2,40,10,40
-race/tour-de-france/2023/stage-2,SEGERS Thomas,39,2,0,114,5
-race/tour-de-france/2023/stage-2,SMET Arno,36,2,0,82,28
-race/tour-de-france/2023/stage-2,SMET Bart,60,2,0,80,30
-race/tour-de-france/2023/stage-2,SMET Nona,64,2,0,109,8
-race/tour-de-france/2023/stage-2,VAN BROECK Gunther,54,2,0,93,20
-race/tour-de-france/2023/stage-2,VAN DAMME Hubert,62,2,0,88,24
-race/tour-de-france/2023/stage-2,VAN LAECKE Kristiaan,39,2,0,113,6
-race/tour-de-france/2023/stage-2,VAN RAEMDONCK Hilde,49,2,0,72,32
-race/tour-de-france/2023/stage-2,VAN RAEMDONCK Katrien,68,2,0,104,13
-race/tour-de-france/2023/stage-2,VDB-VRD Sofia en Ann,57,2,0,105,12
-race/tour-de-france/2023/stage-2,VERELST Thomas,55,2,0,113,7
-race/tour-de-france/2023/stage-2,VERHAEGEN Arnout,58,2,0,104,14
-race/tour-de-france/2023/stage-2,VERSTRAETEN Jens,48,2,0,75,31
-race/tour-de-france/2023/stage-2,VERSTRAETEN Wanne,31,2,0,63,34
-race/tour-de-france/2023/stage-2,WAUTERS Stefaan,27,2,30,1,41
+race/tour-de-france/2023/stage-2,69 G-Motmans,60,2,0,81,30
+race/tour-de-france/2023/stage-2,AUDENAERT Tim,73,2,0,115,5
+race/tour-de-france/2023/stage-2,AUDENAERT Zoë,60,2,0,94,18
+race/tour-de-france/2023/stage-2,BAL romain,32,2,0,32,40
+race/tour-de-france/2023/stage-2,BOSMAN Vivienne,15,2,20,-1,43
+race/tour-de-france/2023/stage-2,DE BLANGER Clovis,60,2,0,108,10
+race/tour-de-france/2023/stage-2,DE MAEYER Laurens,57,2,0,93,19
+race/tour-de-france/2023/stage-2,DE MAEYER peter,46,2,0,93,20
+race/tour-de-france/2023/stage-2,DE MEULENAER Dries,29,2,0,33,39
+race/tour-de-france/2023/stage-2,DE MEULENAER Flor,63,2,0,100,16
+race/tour-de-france/2023/stage-2,DE MEULENAER Siel,50,2,0,57,36
+race/tour-de-france/2023/stage-2,DE RYCKE Andreas,38,2,0,85,27
+race/tour-de-france/2023/stage-2,DECLEYRE Michiel,44,2,0,92,22
+race/tour-de-france/2023/stage-2,DECLEYRE Simon,43,2,0,85,28
+race/tour-de-france/2023/stage-2,DERYCKE Matthew,70,2,10,86,26
+race/tour-de-france/2023/stage-2,EECKHAUT Tom,36,2,0,96,17
+race/tour-de-france/2023/stage-2,GOOSSENS Inneke,74,2,0,108,11
+race/tour-de-france/2023/stage-2,JANSSENS Robert,44,2,0,90,24
+race/tour-de-france/2023/stage-2,KEBAB Rate My,40,2,0,56,37
+race/tour-de-france/2023/stage-2,MAES Junot,89,2,0,130,3
+race/tour-de-france/2023/stage-2,RELAES Damiaan,19,2,0,43,38
+race/tour-de-france/2023/stage-2,RELAES Francis,44,2,0,92,23
+race/tour-de-france/2023/stage-2,RELAES Jacob,33,2,0,68,34
+race/tour-de-france/2023/stage-2,RELAES Joris,61,2,0,119,4
+race/tour-de-france/2023/stage-2,ROOMS Ben,51,2,0,108,12
+race/tour-de-france/2023/stage-2,RYKX Jelle,37,2,40,10,41
+race/tour-de-france/2023/stage-2,SEGERS Thomas,39,2,0,114,6
+race/tour-de-france/2023/stage-2,SMET Arno,36,2,0,82,29
+race/tour-de-france/2023/stage-2,SMET Bart,60,2,0,80,31
+race/tour-de-france/2023/stage-2,SMET Nona,64,2,0,109,9
+race/tour-de-france/2023/stage-2,VAN BROECK Gunther,54,2,0,93,21
+race/tour-de-france/2023/stage-2,VAN DAMME Hubert,62,2,0,88,25
+race/tour-de-france/2023/stage-2,VAN LAECKE Kristiaan,39,2,0,113,7
+race/tour-de-france/2023/stage-2,VAN RAEMDONCK Dirk,67,2,0,131,2
+race/tour-de-france/2023/stage-2,VAN RAEMDONCK Hilde,49,2,0,72,33
+race/tour-de-france/2023/stage-2,VAN RAEMDONCK Katrien,68,2,0,104,14
+race/tour-de-france/2023/stage-2,VDB-VRD Sofia en Ann,57,2,0,105,13
+race/tour-de-france/2023/stage-2,VERELST Thomas,55,2,0,113,8
+race/tour-de-france/2023/stage-2,VERHAEGEN Arnout,58,2,0,104,15
+race/tour-de-france/2023/stage-2,VERSTRAETEN Jens,48,2,0,75,32
+race/tour-de-france/2023/stage-2,VERSTRAETEN Wanne,31,2,0,63,35
+race/tour-de-france/2023/stage-2,WAUTERS Stefaan,27,2,30,1,42
 race/tour-de-france/2023/stage-2,WITTEMANS Tine,69,2,0,152,1
-race/tour-de-france/2023/stage-3,69 G-Motmans,15,3,0,96,31
-race/tour-de-france/2023/stage-3,AUDENAERT Tim,32,3,0,147,5
-race/tour-de-france/2023/stage-3,AUDENAERT Zoë,21,3,0,115,19
-race/tour-de-france/2023/stage-3,BAL romain,35,3,0,67,37
-race/tour-de-france/2023/stage-3,BOSMAN Vivienne,5,3,20,4,42
-race/tour-de-france/2023/stage-3,DE BLANGER Clovis,29,3,0,137,9
-race/tour-de-france/2023/stage-3,DE MAEYER Laurens,32,3,0,125,15
-race/tour-de-france/2023/stage-3,DE MAEYER peter,16,3,0,109,25
-race/tour-de-france/2023/stage-3,DE MEULENAER Dries,24,3,0,57,39
-race/tour-de-france/2023/stage-3,DE MEULENAER Flor,24,3,0,124,17
-race/tour-de-france/2023/stage-3,DE MEULENAER Siel,17,3,0,74,35
-race/tour-de-france/2023/stage-3,DE RYCKE Andreas,40,3,0,125,16
-race/tour-de-france/2023/stage-3,DECLEYRE Michiel,18,3,0,110,23
-race/tour-de-france/2023/stage-3,DECLEYRE Simon,49,3,0,134,10
-race/tour-de-france/2023/stage-3,DERYCKE Matthew,29,3,10,115,20
-race/tour-de-france/2023/stage-3,EECKHAUT Tom,14,3,0,110,24
-race/tour-de-france/2023/stage-3,GOOSSENS Inneke,23,3,0,131,12
-race/tour-de-france/2023/stage-3,JANSSENS Robert,14,3,0,104,28
-race/tour-de-france/2023/stage-3,KEBAB Rate My,13,3,0,69,36
-race/tour-de-france/2023/stage-3,MAES Junot,24,3,0,154,3
-race/tour-de-france/2023/stage-3,RELAES Damiaan,19,3,0,62,38
-race/tour-de-france/2023/stage-3,RELAES Francis,20,3,0,112,21
-race/tour-de-france/2023/stage-3,RELAES Jacob,51,3,0,119,18
-race/tour-de-france/2023/stage-3,RELAES Joris,30,3,0,149,4
-race/tour-de-france/2023/stage-3,ROOMS Ben,23,3,0,131,13
-race/tour-de-france/2023/stage-3,RYKX Jelle,26,3,40,36,40
-race/tour-de-france/2023/stage-3,SEGERS Thomas,25,3,0,139,7
-race/tour-de-france/2023/stage-3,SMET Arno,16,3,0,98,30
-race/tour-de-france/2023/stage-3,SMET Bart,15,3,0,95,32
-race/tour-de-france/2023/stage-3,SMET Nona,29,3,0,138,8
-race/tour-de-france/2023/stage-3,VAN BROECK Gunther,12,3,0,105,27
-race/tour-de-france/2023/stage-3,VAN DAMME Hubert,21,3,0,109,26
-race/tour-de-france/2023/stage-3,VAN LAECKE Kristiaan,45,3,0,158,2
-race/tour-de-france/2023/stage-3,VAN RAEMDONCK Hilde,28,3,0,100,29
-race/tour-de-france/2023/stage-3,VAN RAEMDONCK Katrien,29,3,0,133,11
-race/tour-de-france/2023/stage-3,VDB-VRD Sofia en Ann,26,3,0,131,14
-race/tour-de-france/2023/stage-3,VERELST Thomas,29,3,0,142,6
-race/tour-de-france/2023/stage-3,VERHAEGEN Arnout,8,3,0,112,22
-race/tour-de-france/2023/stage-3,VERSTRAETEN Jens,12,3,0,87,33
-race/tour-de-france/2023/stage-3,VERSTRAETEN Wanne,19,3,0,82,34
-race/tour-de-france/2023/stage-3,WAUTERS Stefaan,14,3,30,15,41
+race/tour-de-france/2023/stage-3,69 G-Motmans,15,3,0,96,32
+race/tour-de-france/2023/stage-3,AUDENAERT Tim,32,3,0,147,6
+race/tour-de-france/2023/stage-3,AUDENAERT Zoë,21,3,0,115,20
+race/tour-de-france/2023/stage-3,BAL romain,35,3,0,67,38
+race/tour-de-france/2023/stage-3,BOSMAN Vivienne,5,3,20,4,43
+race/tour-de-france/2023/stage-3,DE BLANGER Clovis,29,3,0,137,10
+race/tour-de-france/2023/stage-3,DE MAEYER Laurens,32,3,0,125,16
+race/tour-de-france/2023/stage-3,DE MAEYER peter,16,3,0,109,26
+race/tour-de-france/2023/stage-3,DE MEULENAER Dries,24,3,0,57,40
+race/tour-de-france/2023/stage-3,DE MEULENAER Flor,24,3,0,124,18
+race/tour-de-france/2023/stage-3,DE MEULENAER Siel,17,3,0,74,36
+race/tour-de-france/2023/stage-3,DE RYCKE Andreas,40,3,0,125,17
+race/tour-de-france/2023/stage-3,DECLEYRE Michiel,18,3,0,110,24
+race/tour-de-france/2023/stage-3,DECLEYRE Simon,49,3,0,134,11
+race/tour-de-france/2023/stage-3,DERYCKE Matthew,29,3,10,115,21
+race/tour-de-france/2023/stage-3,EECKHAUT Tom,14,3,0,110,25
+race/tour-de-france/2023/stage-3,GOOSSENS Inneke,23,3,0,131,13
+race/tour-de-france/2023/stage-3,JANSSENS Robert,14,3,0,104,29
+race/tour-de-france/2023/stage-3,KEBAB Rate My,13,3,0,69,37
+race/tour-de-france/2023/stage-3,MAES Junot,24,3,0,154,4
+race/tour-de-france/2023/stage-3,RELAES Damiaan,19,3,0,62,39
+race/tour-de-france/2023/stage-3,RELAES Francis,20,3,0,112,22
+race/tour-de-france/2023/stage-3,RELAES Jacob,51,3,0,119,19
+race/tour-de-france/2023/stage-3,RELAES Joris,30,3,0,149,5
+race/tour-de-france/2023/stage-3,ROOMS Ben,23,3,0,131,14
+race/tour-de-france/2023/stage-3,RYKX Jelle,26,3,40,36,41
+race/tour-de-france/2023/stage-3,SEGERS Thomas,25,3,0,139,8
+race/tour-de-france/2023/stage-3,SMET Arno,16,3,0,98,31
+race/tour-de-france/2023/stage-3,SMET Bart,15,3,0,95,33
+race/tour-de-france/2023/stage-3,SMET Nona,29,3,0,138,9
+race/tour-de-france/2023/stage-3,VAN BROECK Gunther,12,3,0,105,28
+race/tour-de-france/2023/stage-3,VAN DAMME Hubert,21,3,0,109,27
+race/tour-de-france/2023/stage-3,VAN LAECKE Kristiaan,45,3,0,158,3
+race/tour-de-france/2023/stage-3,VAN RAEMDONCK Dirk,30,3,0,161,2
+race/tour-de-france/2023/stage-3,VAN RAEMDONCK Hilde,28,3,0,100,30
+race/tour-de-france/2023/stage-3,VAN RAEMDONCK Katrien,29,3,0,133,12
+race/tour-de-france/2023/stage-3,VDB-VRD Sofia en Ann,26,3,0,131,15
+race/tour-de-france/2023/stage-3,VERELST Thomas,29,3,0,142,7
+race/tour-de-france/2023/stage-3,VERHAEGEN Arnout,8,3,0,112,23
+race/tour-de-france/2023/stage-3,VERSTRAETEN Jens,12,3,0,87,34
+race/tour-de-france/2023/stage-3,VERSTRAETEN Wanne,19,3,0,82,35
+race/tour-de-france/2023/stage-3,WAUTERS Stefaan,14,3,30,15,42
 race/tour-de-france/2023/stage-3,WITTEMANS Tine,42,3,0,194,1
-race/tour-de-france/2023/stage-4,69 G-Motmans,7,4,0,103,32
-race/tour-de-france/2023/stage-4,AUDENAERT Tim,26,4,0,173,5
-race/tour-de-france/2023/stage-4,AUDENAERT Zoë,12,4,0,127,21
-race/tour-de-france/2023/stage-4,BAL romain,18,4,0,85,35
-race/tour-de-france/2023/stage-4,BOSMAN Vivienne,3,4,20,7,42
-race/tour-de-france/2023/stage-4,DE BLANGER Clovis,12,4,0,149,14
-race/tour-de-france/2023/stage-4,DE MAEYER Laurens,26,4,0,151,13
-race/tour-de-france/2023/stage-4,DE MAEYER peter,14,4,0,123,24
-race/tour-de-france/2023/stage-4,DE MEULENAER Dries,17,4,0,74,38
-race/tour-de-france/2023/stage-4,DE MEULENAER Flor,15,4,0,139,18
-race/tour-de-france/2023/stage-4,DE MEULENAER Siel,8,4,0,82,37
-race/tour-de-france/2023/stage-4,DE RYCKE Andreas,38,4,0,163,7
-race/tour-de-france/2023/stage-4,DECLEYRE Michiel,11,4,0,121,26
-race/tour-de-france/2023/stage-4,DECLEYRE Simon,43,4,0,177,4
-race/tour-de-france/2023/stage-4,DERYCKE Matthew,12,4,10,127,22
-race/tour-de-france/2023/stage-4,EECKHAUT Tom,21,4,0,131,20
-race/tour-de-france/2023/stage-4,GOOSSENS Inneke,26,4,0,157,10
-race/tour-de-france/2023/stage-4,JANSSENS Robert,13,4,0,117,29
-race/tour-de-france/2023/stage-4,KEBAB Rate My,14,4,0,83,36
-race/tour-de-france/2023/stage-4,MAES Junot,15,4,0,169,6
-race/tour-de-france/2023/stage-4,RELAES Damiaan,9,4,0,71,39
-race/tour-de-france/2023/stage-4,RELAES Francis,23,4,0,135,19
-race/tour-de-france/2023/stage-4,RELAES Jacob,44,4,0,163,8
-race/tour-de-france/2023/stage-4,RELAES Joris,14,4,0,163,9
-race/tour-de-france/2023/stage-4,ROOMS Ben,13,4,0,144,17
-race/tour-de-france/2023/stage-4,RYKX Jelle,7,4,40,43,40
-race/tour-de-france/2023/stage-4,SEGERS Thomas,18,4,0,157,11
-race/tour-de-france/2023/stage-4,SMET Arno,27,4,0,125,23
-race/tour-de-france/2023/stage-4,SMET Bart,7,4,0,102,33
-race/tour-de-france/2023/stage-4,SMET Nona,19,4,0,157,12
-race/tour-de-france/2023/stage-4,VAN BROECK Gunther,12,4,0,117,30
-race/tour-de-france/2023/stage-4,VAN DAMME Hubert,12,4,0,121,27
+race/tour-de-france/2023/stage-4,69 G-Motmans,7,4,0,103,33
+race/tour-de-france/2023/stage-4,AUDENAERT Tim,26,4,0,173,6
+race/tour-de-france/2023/stage-4,AUDENAERT Zoë,12,4,0,127,22
+race/tour-de-france/2023/stage-4,BAL romain,18,4,0,85,36
+race/tour-de-france/2023/stage-4,BOSMAN Vivienne,3,4,20,7,43
+race/tour-de-france/2023/stage-4,DE BLANGER Clovis,12,4,0,149,15
+race/tour-de-france/2023/stage-4,DE MAEYER Laurens,26,4,0,151,14
+race/tour-de-france/2023/stage-4,DE MAEYER peter,14,4,0,123,25
+race/tour-de-france/2023/stage-4,DE MEULENAER Dries,17,4,0,74,39
+race/tour-de-france/2023/stage-4,DE MEULENAER Flor,15,4,0,139,19
+race/tour-de-france/2023/stage-4,DE MEULENAER Siel,8,4,0,82,38
+race/tour-de-france/2023/stage-4,DE RYCKE Andreas,38,4,0,163,8
+race/tour-de-france/2023/stage-4,DECLEYRE Michiel,11,4,0,121,27
+race/tour-de-france/2023/stage-4,DECLEYRE Simon,43,4,0,177,5
+race/tour-de-france/2023/stage-4,DERYCKE Matthew,12,4,10,127,23
+race/tour-de-france/2023/stage-4,EECKHAUT Tom,21,4,0,131,21
+race/tour-de-france/2023/stage-4,GOOSSENS Inneke,26,4,0,157,11
+race/tour-de-france/2023/stage-4,JANSSENS Robert,13,4,0,117,30
+race/tour-de-france/2023/stage-4,KEBAB Rate My,14,4,0,83,37
+race/tour-de-france/2023/stage-4,MAES Junot,15,4,0,169,7
+race/tour-de-france/2023/stage-4,RELAES Damiaan,9,4,0,71,40
+race/tour-de-france/2023/stage-4,RELAES Francis,23,4,0,135,20
+race/tour-de-france/2023/stage-4,RELAES Jacob,44,4,0,163,9
+race/tour-de-france/2023/stage-4,RELAES Joris,14,4,0,163,10
+race/tour-de-france/2023/stage-4,ROOMS Ben,13,4,0,144,18
+race/tour-de-france/2023/stage-4,RYKX Jelle,7,4,40,43,41
+race/tour-de-france/2023/stage-4,SEGERS Thomas,18,4,0,157,12
+race/tour-de-france/2023/stage-4,SMET Arno,27,4,0,125,24
+race/tour-de-france/2023/stage-4,SMET Bart,7,4,0,102,34
+race/tour-de-france/2023/stage-4,SMET Nona,19,4,0,157,13
+race/tour-de-france/2023/stage-4,VAN BROECK Gunther,12,4,0,117,31
+race/tour-de-france/2023/stage-4,VAN DAMME Hubert,12,4,0,121,28
 race/tour-de-france/2023/stage-4,VAN LAECKE Kristiaan,54,4,0,212,2
-race/tour-de-france/2023/stage-4,VAN RAEMDONCK Hilde,22,4,0,122,25
-race/tour-de-france/2023/stage-4,VAN RAEMDONCK Katrien,12,4,0,145,16
-race/tour-de-france/2023/stage-4,VDB-VRD Sofia en Ann,16,4,0,147,15
-race/tour-de-france/2023/stage-4,VERELST Thomas,36,4,0,178,3
-race/tour-de-france/2023/stage-4,VERHAEGEN Arnout,8,4,0,120,28
-race/tour-de-france/2023/stage-4,VERSTRAETEN Jens,10,4,0,97,34
-race/tour-de-france/2023/stage-4,VERSTRAETEN Wanne,29,4,0,111,31
-race/tour-de-france/2023/stage-4,WAUTERS Stefaan,5,4,30,20,41
+race/tour-de-france/2023/stage-4,VAN RAEMDONCK Dirk,27,4,0,188,3
+race/tour-de-france/2023/stage-4,VAN RAEMDONCK Hilde,22,4,0,122,26
+race/tour-de-france/2023/stage-4,VAN RAEMDONCK Katrien,12,4,0,145,17
+race/tour-de-france/2023/stage-4,VDB-VRD Sofia en Ann,16,4,0,147,16
+race/tour-de-france/2023/stage-4,VERELST Thomas,36,4,0,178,4
+race/tour-de-france/2023/stage-4,VERHAEGEN Arnout,8,4,0,120,29
+race/tour-de-france/2023/stage-4,VERSTRAETEN Jens,10,4,0,97,35
+race/tour-de-france/2023/stage-4,VERSTRAETEN Wanne,29,4,0,111,32
+race/tour-de-france/2023/stage-4,WAUTERS Stefaan,5,4,30,20,42
 race/tour-de-france/2023/stage-4,WITTEMANS Tine,24,4,0,218,1
-race/tour-de-france/2023/stage-5,69 G-Motmans,92,5,0,195,21
+race/tour-de-france/2023/stage-5,69 G-Motmans,92,5,0,195,22
 race/tour-de-france/2023/stage-5,AUDENAERT Tim,65,5,0,238,8
-race/tour-de-france/2023/stage-5,AUDENAERT Zoë,45,5,0,172,28
-race/tour-de-france/2023/stage-5,BAL romain,0,5,0,85,39
-race/tour-de-france/2023/stage-5,BOSMAN Vivienne,15,5,20,22,42
+race/tour-de-france/2023/stage-5,AUDENAERT Zoë,45,5,0,172,29
+race/tour-de-france/2023/stage-5,BAL romain,0,5,0,85,40
+race/tour-de-france/2023/stage-5,BOSMAN Vivienne,15,5,20,22,43
 race/tour-de-france/2023/stage-5,DE BLANGER Clovis,97,5,0,246,6
 race/tour-de-france/2023/stage-5,DE MAEYER Laurens,56,5,0,207,17
 race/tour-de-france/2023/stage-5,DE MAEYER peter,75,5,0,198,18
-race/tour-de-france/2023/stage-5,DE MEULENAER Dries,15,5,0,89,38
-race/tour-de-france/2023/stage-5,DE MEULENAER Flor,45,5,0,184,25
-race/tour-de-france/2023/stage-5,DE MEULENAER Siel,44,5,0,126,36
+race/tour-de-france/2023/stage-5,DE MEULENAER Dries,15,5,0,89,39
+race/tour-de-france/2023/stage-5,DE MEULENAER Flor,45,5,0,184,26
+race/tour-de-france/2023/stage-5,DE MEULENAER Siel,44,5,0,126,37
 race/tour-de-france/2023/stage-5,DE RYCKE Andreas,98,5,0,261,4
 race/tour-de-france/2023/stage-5,DECLEYRE Michiel,76,5,0,197,19
 race/tour-de-france/2023/stage-5,DECLEYRE Simon,68,5,0,245,7
-race/tour-de-france/2023/stage-5,DERYCKE Matthew,9,5,10,136,33
+race/tour-de-france/2023/stage-5,DERYCKE Matthew,9,5,10,136,34
 race/tour-de-france/2023/stage-5,EECKHAUT Tom,101,5,0,232,11
 race/tour-de-france/2023/stage-5,GOOSSENS Inneke,76,5,0,233,9
 race/tour-de-france/2023/stage-5,JANSSENS Robert,80,5,0,197,20
-race/tour-de-france/2023/stage-5,KEBAB Rate My,0,5,0,83,40
-race/tour-de-france/2023/stage-5,MAES Junot,9,5,0,178,26
-race/tour-de-france/2023/stage-5,RELAES Damiaan,89,5,0,160,32
+race/tour-de-france/2023/stage-5,KEBAB Rate My,0,5,0,83,41
+race/tour-de-france/2023/stage-5,MAES Junot,9,5,0,178,27
+race/tour-de-france/2023/stage-5,RELAES Damiaan,89,5,0,160,33
 race/tour-de-france/2023/stage-5,RELAES Francis,76,5,0,211,16
-race/tour-de-france/2023/stage-5,RELAES Jacob,27,5,0,190,24
+race/tour-de-france/2023/stage-5,RELAES Jacob,27,5,0,190,25
 race/tour-de-france/2023/stage-5,RELAES Joris,61,5,0,224,12
 race/tour-de-france/2023/stage-5,ROOMS Ben,89,5,0,233,10
-race/tour-de-france/2023/stage-5,RYKX Jelle,88,5,40,131,34
+race/tour-de-france/2023/stage-5,RYKX Jelle,88,5,40,131,35
 race/tour-de-france/2023/stage-5,SEGERS Thomas,58,5,0,215,13
 race/tour-de-france/2023/stage-5,SMET Arno,126,5,0,251,5
-race/tour-de-france/2023/stage-5,SMET Bart,71,5,0,173,27
+race/tour-de-france/2023/stage-5,SMET Bart,71,5,0,173,28
 race/tour-de-france/2023/stage-5,SMET Nona,57,5,0,214,14
-race/tour-de-france/2023/stage-5,VAN BROECK Gunther,76,5,0,193,23
-race/tour-de-france/2023/stage-5,VAN DAMME Hubert,9,5,0,130,35
+race/tour-de-france/2023/stage-5,VAN BROECK Gunther,76,5,0,193,24
+race/tour-de-france/2023/stage-5,VAN DAMME Hubert,9,5,0,130,36
 race/tour-de-france/2023/stage-5,VAN LAECKE Kristiaan,60,5,0,272,2
+race/tour-de-france/2023/stage-5,VAN RAEMDONCK Dirk,9,5,0,197,21
 race/tour-de-france/2023/stage-5,VAN RAEMDONCK Hilde,92,5,0,214,15
-race/tour-de-france/2023/stage-5,VAN RAEMDONCK Katrien,49,5,0,194,22
-race/tour-de-france/2023/stage-5,VDB-VRD Sofia en Ann,21,5,0,168,29
+race/tour-de-france/2023/stage-5,VAN RAEMDONCK Katrien,49,5,0,194,23
+race/tour-de-france/2023/stage-5,VDB-VRD Sofia en Ann,21,5,0,168,30
 race/tour-de-france/2023/stage-5,VERELST Thomas,90,5,0,268,3
-race/tour-de-france/2023/stage-5,VERHAEGEN Arnout,45,5,0,165,31
-race/tour-de-france/2023/stage-5,VERSTRAETEN Jens,9,5,0,106,37
-race/tour-de-france/2023/stage-5,VERSTRAETEN Wanne,57,5,0,168,30
-race/tour-de-france/2023/stage-5,WAUTERS Stefaan,15,5,30,35,41
+race/tour-de-france/2023/stage-5,VERHAEGEN Arnout,45,5,0,165,32
+race/tour-de-france/2023/stage-5,VERSTRAETEN Jens,9,5,0,106,38
+race/tour-de-france/2023/stage-5,VERSTRAETEN Wanne,57,5,0,168,31
+race/tour-de-france/2023/stage-5,WAUTERS Stefaan,15,5,30,35,42
 race/tour-de-france/2023/stage-5,WITTEMANS Tine,86,5,0,304,1
 race/tour-de-france/2023/stage-6,69 G-Motmans,46,6,0,241,23
 race/tour-de-france/2023/stage-6,AUDENAERT Tim,49,6,0,287,12
-race/tour-de-france/2023/stage-6,AUDENAERT Zoë,49,6,0,221,27
-race/tour-de-france/2023/stage-6,BAL romain,1,6,0,86,39
-race/tour-de-france/2023/stage-6,BOSMAN Vivienne,31,6,20,53,42
+race/tour-de-france/2023/stage-6,AUDENAERT Zoë,49,6,0,221,28
+race/tour-de-france/2023/stage-6,BAL romain,1,6,0,86,40
+race/tour-de-france/2023/stage-6,BOSMAN Vivienne,31,6,20,53,43
 race/tour-de-france/2023/stage-6,DE BLANGER Clovis,51,6,0,297,8
 race/tour-de-france/2023/stage-6,DE MAEYER Laurens,39,6,0,246,21
 race/tour-de-france/2023/stage-6,DE MAEYER peter,90,6,0,288,11
-race/tour-de-france/2023/stage-6,DE MEULENAER Dries,31,6,0,120,38
-race/tour-de-france/2023/stage-6,DE MEULENAER Flor,52,6,0,236,25
-race/tour-de-france/2023/stage-6,DE MEULENAER Siel,35,6,0,161,36
+race/tour-de-france/2023/stage-6,DE MEULENAER Dries,31,6,0,120,39
+race/tour-de-france/2023/stage-6,DE MEULENAER Flor,52,6,0,236,26
+race/tour-de-france/2023/stage-6,DE MEULENAER Siel,35,6,0,161,37
 race/tour-de-france/2023/stage-6,DE RYCKE Andreas,125,6,0,386,1
 race/tour-de-france/2023/stage-6,DECLEYRE Michiel,80,6,0,277,15
 race/tour-de-france/2023/stage-6,DECLEYRE Simon,53,6,0,298,7
-race/tour-de-france/2023/stage-6,DERYCKE Matthew,38,6,10,174,34
+race/tour-de-france/2023/stage-6,DERYCKE Matthew,38,6,10,174,35
 race/tour-de-france/2023/stage-6,EECKHAUT Tom,78,6,0,310,6
 race/tour-de-france/2023/stage-6,GOOSSENS Inneke,53,6,0,286,14
 race/tour-de-france/2023/stage-6,JANSSENS Robert,80,6,0,277,16
-race/tour-de-france/2023/stage-6,KEBAB Rate My,2,6,0,85,40
-race/tour-de-france/2023/stage-6,MAES Junot,41,6,0,219,28
-race/tour-de-france/2023/stage-6,RELAES Damiaan,59,6,0,219,29
+race/tour-de-france/2023/stage-6,KEBAB Rate My,2,6,0,85,41
+race/tour-de-france/2023/stage-6,MAES Junot,41,6,0,219,29
+race/tour-de-france/2023/stage-6,RELAES Damiaan,59,6,0,219,30
 race/tour-de-france/2023/stage-6,RELAES Francis,80,6,0,291,10
 race/tour-de-france/2023/stage-6,RELAES Jacob,49,6,0,239,24
 race/tour-de-france/2023/stage-6,RELAES Joris,49,6,0,273,17
 race/tour-de-france/2023/stage-6,ROOMS Ben,59,6,0,292,9
-race/tour-de-france/2023/stage-6,RYKX Jelle,43,6,40,174,35
+race/tour-de-france/2023/stage-6,RYKX Jelle,43,6,40,174,36
 race/tour-de-france/2023/stage-6,SEGERS Thomas,43,6,0,258,20
 race/tour-de-france/2023/stage-6,SMET Arno,82,6,0,333,3
-race/tour-de-france/2023/stage-6,SMET Bart,46,6,0,219,30
+race/tour-de-france/2023/stage-6,SMET Bart,46,6,0,219,31
 race/tour-de-france/2023/stage-6,SMET Nona,73,6,0,287,13
 race/tour-de-france/2023/stage-6,VAN BROECK Gunther,77,6,0,270,18
-race/tour-de-france/2023/stage-6,VAN DAMME Hubert,58,6,0,188,33
+race/tour-de-france/2023/stage-6,VAN DAMME Hubert,58,6,0,188,34
 race/tour-de-france/2023/stage-6,VAN LAECKE Kristiaan,55,6,0,327,4
+race/tour-de-france/2023/stage-6,VAN RAEMDONCK Dirk,41,6,0,238,25
 race/tour-de-france/2023/stage-6,VAN RAEMDONCK Hilde,47,6,0,261,19
 race/tour-de-france/2023/stage-6,VAN RAEMDONCK Katrien,51,6,0,245,22
-race/tour-de-france/2023/stage-6,VDB-VRD Sofia en Ann,37,6,0,205,32
+race/tour-de-france/2023/stage-6,VDB-VRD Sofia en Ann,37,6,0,205,33
 race/tour-de-france/2023/stage-6,VERELST Thomas,50,6,0,318,5
-race/tour-de-france/2023/stage-6,VERHAEGEN Arnout,49,6,0,214,31
-race/tour-de-france/2023/stage-6,VERSTRAETEN Jens,36,6,0,142,37
-race/tour-de-france/2023/stage-6,VERSTRAETEN Wanne,66,6,0,234,26
-race/tour-de-france/2023/stage-6,WAUTERS Stefaan,31,6,30,66,41
+race/tour-de-france/2023/stage-6,VERHAEGEN Arnout,49,6,0,214,32
+race/tour-de-france/2023/stage-6,VERSTRAETEN Jens,36,6,0,142,38
+race/tour-de-france/2023/stage-6,VERSTRAETEN Wanne,66,6,0,234,27
+race/tour-de-france/2023/stage-6,WAUTERS Stefaan,31,6,30,66,42
 race/tour-de-france/2023/stage-6,WITTEMANS Tine,56,6,0,360,2
-race/tour-de-france/2023/stage-7,69 G-Motmans,22,7,0,263,25
+race/tour-de-france/2023/stage-7,69 G-Motmans,22,7,0,263,26
 race/tour-de-france/2023/stage-7,AUDENAERT Tim,54,7,0,341,9
-race/tour-de-france/2023/stage-7,AUDENAERT Zoë,22,7,0,243,29
-race/tour-de-france/2023/stage-7,BAL romain,38,7,0,124,39
-race/tour-de-france/2023/stage-7,BOSMAN Vivienne,8,7,20,61,42
+race/tour-de-france/2023/stage-7,AUDENAERT Zoë,22,7,0,243,30
+race/tour-de-france/2023/stage-7,BAL romain,38,7,0,124,40
+race/tour-de-france/2023/stage-7,BOSMAN Vivienne,8,7,20,61,43
 race/tour-de-france/2023/stage-7,DE BLANGER Clovis,40,7,0,337,10
 race/tour-de-france/2023/stage-7,DE MAEYER Laurens,54,7,0,300,19
 race/tour-de-france/2023/stage-7,DE MAEYER peter,37,7,0,325,12
-race/tour-de-france/2023/stage-7,DE MEULENAER Dries,51,7,0,171,37
-race/tour-de-france/2023/stage-7,DE MEULENAER Flor,11,7,0,247,27
-race/tour-de-france/2023/stage-7,DE MEULENAER Siel,29,7,0,190,36
+race/tour-de-france/2023/stage-7,DE MEULENAER Dries,51,7,0,171,38
+race/tour-de-france/2023/stage-7,DE MEULENAER Flor,11,7,0,247,28
+race/tour-de-france/2023/stage-7,DE MEULENAER Siel,29,7,0,190,37
 race/tour-de-france/2023/stage-7,DE RYCKE Andreas,28,7,0,414,1
 race/tour-de-france/2023/stage-7,DECLEYRE Michiel,43,7,0,320,15
 race/tour-de-france/2023/stage-7,DECLEYRE Simon,71,7,0,369,5
-race/tour-de-france/2023/stage-7,DERYCKE Matthew,17,7,10,191,35
+race/tour-de-france/2023/stage-7,DERYCKE Matthew,17,7,10,191,36
 race/tour-de-france/2023/stage-7,EECKHAUT Tom,39,7,0,349,7
 race/tour-de-france/2023/stage-7,GOOSSENS Inneke,36,7,0,322,13
 race/tour-de-france/2023/stage-7,JANSSENS Robert,35,7,0,312,16
-race/tour-de-france/2023/stage-7,KEBAB Rate My,1,7,0,86,40
-race/tour-de-france/2023/stage-7,MAES Junot,10,7,0,229,32
-race/tour-de-france/2023/stage-7,RELAES Damiaan,46,7,0,265,24
+race/tour-de-france/2023/stage-7,KEBAB Rate My,1,7,0,86,41
+race/tour-de-france/2023/stage-7,MAES Junot,10,7,0,229,33
+race/tour-de-france/2023/stage-7,RELAES Damiaan,46,7,0,265,25
 race/tour-de-france/2023/stage-7,RELAES Francis,59,7,0,350,6
 race/tour-de-france/2023/stage-7,RELAES Jacob,71,7,0,310,18
 race/tour-de-france/2023/stage-7,RELAES Joris,38,7,0,311,17
 race/tour-de-france/2023/stage-7,ROOMS Ben,43,7,0,335,11
-race/tour-de-france/2023/stage-7,RYKX Jelle,39,7,40,213,33
+race/tour-de-france/2023/stage-7,RYKX Jelle,39,7,40,213,34
 race/tour-de-france/2023/stage-7,SEGERS Thomas,19,7,0,277,22
 race/tour-de-france/2023/stage-7,SMET Arno,45,7,0,378,3
-race/tour-de-france/2023/stage-7,SMET Bart,28,7,0,247,28
+race/tour-de-france/2023/stage-7,SMET Bart,28,7,0,247,29
 race/tour-de-france/2023/stage-7,SMET Nona,34,7,0,321,14
 race/tour-de-france/2023/stage-7,VAN BROECK Gunther,14,7,0,284,21
-race/tour-de-france/2023/stage-7,VAN DAMME Hubert,7,7,0,195,34
+race/tour-de-france/2023/stage-7,VAN DAMME Hubert,7,7,0,195,35
 race/tour-de-france/2023/stage-7,VAN LAECKE Kristiaan,45,7,0,372,4
+race/tour-de-france/2023/stage-7,VAN RAEMDONCK Dirk,32,7,0,270,24
 race/tour-de-france/2023/stage-7,VAN RAEMDONCK Hilde,37,7,0,298,20
-race/tour-de-france/2023/stage-7,VAN RAEMDONCK Katrien,18,7,0,263,26
-race/tour-de-france/2023/stage-7,VDB-VRD Sofia en Ann,28,7,0,233,31
+race/tour-de-france/2023/stage-7,VAN RAEMDONCK Katrien,18,7,0,263,27
+race/tour-de-france/2023/stage-7,VDB-VRD Sofia en Ann,28,7,0,233,32
 race/tour-de-france/2023/stage-7,VERELST Thomas,28,7,0,346,8
-race/tour-de-france/2023/stage-7,VERHAEGEN Arnout,29,7,0,243,30
-race/tour-de-france/2023/stage-7,VERSTRAETEN Jens,28,7,0,170,38
+race/tour-de-france/2023/stage-7,VERHAEGEN Arnout,29,7,0,243,31
+race/tour-de-france/2023/stage-7,VERSTRAETEN Jens,28,7,0,170,39
 race/tour-de-france/2023/stage-7,VERSTRAETEN Wanne,41,7,0,275,23
-race/tour-de-france/2023/stage-7,WAUTERS Stefaan,5,7,30,71,41
+race/tour-de-france/2023/stage-7,WAUTERS Stefaan,5,7,30,71,42
 race/tour-de-france/2023/stage-7,WITTEMANS Tine,23,7,0,383,2
-race/tour-de-france/2023/stage-8,69 G-Motmans,28,8,0,291,25
+race/tour-de-france/2023/stage-8,69 G-Motmans,28,8,0,291,26
 race/tour-de-france/2023/stage-8,AUDENAERT Tim,30,8,0,371,10
-race/tour-de-france/2023/stage-8,AUDENAERT Zoë,30,8,0,273,30
-race/tour-de-france/2023/stage-8,BAL romain,51,8,0,175,39
-race/tour-de-france/2023/stage-8,BOSMAN Vivienne,37,8,20,98,41
+race/tour-de-france/2023/stage-8,AUDENAERT Zoë,30,8,0,273,31
+race/tour-de-france/2023/stage-8,BAL romain,51,8,0,175,40
+race/tour-de-france/2023/stage-8,BOSMAN Vivienne,37,8,20,98,42
 race/tour-de-france/2023/stage-8,DE BLANGER Clovis,32,8,0,369,11
 race/tour-de-france/2023/stage-8,DE MAEYER Laurens,30,8,0,330,19
 race/tour-de-france/2023/stage-8,DE MAEYER peter,48,8,0,373,9
-race/tour-de-france/2023/stage-8,DE MEULENAER Dries,25,8,0,196,38
-race/tour-de-france/2023/stage-8,DE MEULENAER Flor,33,8,0,280,28
-race/tour-de-france/2023/stage-8,DE MEULENAER Siel,29,8,0,219,36
+race/tour-de-france/2023/stage-8,DE MEULENAER Dries,25,8,0,196,39
+race/tour-de-france/2023/stage-8,DE MEULENAER Flor,33,8,0,280,29
+race/tour-de-france/2023/stage-8,DE MEULENAER Siel,29,8,0,219,37
 race/tour-de-france/2023/stage-8,DE RYCKE Andreas,20,8,0,434,3
 race/tour-de-france/2023/stage-8,DECLEYRE Michiel,15,8,0,335,18
 race/tour-de-france/2023/stage-8,DECLEYRE Simon,38,8,0,407,5
-race/tour-de-france/2023/stage-8,DERYCKE Matthew,35,8,10,226,35
+race/tour-de-france/2023/stage-8,DERYCKE Matthew,35,8,10,226,36
 race/tour-de-france/2023/stage-8,EECKHAUT Tom,46,8,0,395,6
 race/tour-de-france/2023/stage-8,GOOSSENS Inneke,42,8,0,364,13
 race/tour-de-france/2023/stage-8,JANSSENS Robert,46,8,0,358,14
-race/tour-de-france/2023/stage-8,KEBAB Rate My,25,8,0,111,40
-race/tour-de-france/2023/stage-8,MAES Junot,32,8,0,261,32
-race/tour-de-france/2023/stage-8,RELAES Damiaan,45,8,0,310,21
+race/tour-de-france/2023/stage-8,KEBAB Rate My,25,8,0,111,41
+race/tour-de-france/2023/stage-8,MAES Junot,32,8,0,261,33
+race/tour-de-france/2023/stage-8,RELAES Damiaan,45,8,0,310,22
 race/tour-de-france/2023/stage-8,RELAES Francis,15,8,0,365,12
 race/tour-de-france/2023/stage-8,RELAES Jacob,38,8,0,348,16
 race/tour-de-france/2023/stage-8,RELAES Joris,30,8,0,341,17
 race/tour-de-france/2023/stage-8,ROOMS Ben,44,8,0,379,8
-race/tour-de-france/2023/stage-8,RYKX Jelle,58,8,40,271,31
-race/tour-de-france/2023/stage-8,SEGERS Thomas,11,8,0,288,26
+race/tour-de-france/2023/stage-8,RYKX Jelle,58,8,40,271,32
+race/tour-de-france/2023/stage-8,SEGERS Thomas,11,8,0,288,27
 race/tour-de-france/2023/stage-8,SMET Arno,60,8,0,438,2
-race/tour-de-france/2023/stage-8,SMET Bart,28,8,0,275,29
+race/tour-de-france/2023/stage-8,SMET Bart,28,8,0,275,30
 race/tour-de-france/2023/stage-8,SMET Nona,65,8,0,386,7
-race/tour-de-france/2023/stage-8,VAN BROECK Gunther,16,8,0,300,22
-race/tour-de-france/2023/stage-8,VAN DAMME Hubert,37,8,0,232,34
+race/tour-de-france/2023/stage-8,VAN BROECK Gunther,16,8,0,300,23
+race/tour-de-france/2023/stage-8,VAN DAMME Hubert,37,8,0,232,35
 race/tour-de-france/2023/stage-8,VAN LAECKE Kristiaan,38,8,0,410,4
-race/tour-de-france/2023/stage-8,VAN RAEMDONCK Hilde,31,8,0,329,20
-race/tour-de-france/2023/stage-8,VAN RAEMDONCK Katrien,30,8,0,293,23
-race/tour-de-france/2023/stage-8,VDB-VRD Sofia en Ann,59,8,0,292,24
+race/tour-de-france/2023/stage-8,VAN RAEMDONCK Dirk,59,8,0,329,20
+race/tour-de-france/2023/stage-8,VAN RAEMDONCK Hilde,31,8,0,329,21
+race/tour-de-france/2023/stage-8,VAN RAEMDONCK Katrien,30,8,0,293,24
+race/tour-de-france/2023/stage-8,VDB-VRD Sofia en Ann,59,8,0,292,25
 race/tour-de-france/2023/stage-8,VERELST Thomas,10,8,0,356,15
-race/tour-de-france/2023/stage-8,VERHAEGEN Arnout,11,8,0,254,33
-race/tour-de-france/2023/stage-8,VERSTRAETEN Jens,39,8,0,209,37
-race/tour-de-france/2023/stage-8,VERSTRAETEN Wanne,13,8,0,288,27
-race/tour-de-france/2023/stage-8,WAUTERS Stefaan,25,8,30,96,42
+race/tour-de-france/2023/stage-8,VERHAEGEN Arnout,11,8,0,254,34
+race/tour-de-france/2023/stage-8,VERSTRAETEN Jens,39,8,0,209,38
+race/tour-de-france/2023/stage-8,VERSTRAETEN Wanne,13,8,0,288,28
+race/tour-de-france/2023/stage-8,WAUTERS Stefaan,25,8,30,96,43
 race/tour-de-france/2023/stage-8,WITTEMANS Tine,64,8,0,447,1
-race/tour-de-france/2023/stage-9,69 G-Motmans,8,9,0,299,30
+race/tour-de-france/2023/stage-9,69 G-Motmans,8,9,0,299,31
 race/tour-de-france/2023/stage-9,AUDENAERT Tim,8,9,0,379,12
-race/tour-de-france/2023/stage-9,AUDENAERT Zoë,28,9,0,301,28
-race/tour-de-france/2023/stage-9,BAL romain,1,9,0,176,39
-race/tour-de-france/2023/stage-9,BOSMAN Vivienne,7,9,20,105,41
+race/tour-de-france/2023/stage-9,AUDENAERT Zoë,28,9,0,301,29
+race/tour-de-france/2023/stage-9,BAL romain,1,9,0,176,40
+race/tour-de-france/2023/stage-9,BOSMAN Vivienne,7,9,20,105,42
 race/tour-de-france/2023/stage-9,DE BLANGER Clovis,10,9,0,379,13
 race/tour-de-france/2023/stage-9,DE MAEYER Laurens,28,9,0,358,18
 race/tour-de-france/2023/stage-9,DE MAEYER peter,16,9,0,389,10
-race/tour-de-france/2023/stage-9,DE MEULENAER Dries,5,9,0,201,38
-race/tour-de-france/2023/stage-9,DE MEULENAER Flor,41,9,0,321,22
-race/tour-de-france/2023/stage-9,DE MEULENAER Siel,39,9,0,258,35
+race/tour-de-france/2023/stage-9,DE MEULENAER Dries,5,9,0,201,39
+race/tour-de-france/2023/stage-9,DE MEULENAER Flor,41,9,0,321,23
+race/tour-de-france/2023/stage-9,DE MEULENAER Siel,39,9,0,258,36
 race/tour-de-france/2023/stage-9,DE RYCKE Andreas,18,9,0,452,3
 race/tour-de-france/2023/stage-9,DECLEYRE Michiel,13,9,0,348,20
 race/tour-de-france/2023/stage-9,DECLEYRE Simon,11,9,0,418,5
-race/tour-de-france/2023/stage-9,DERYCKE Matthew,27,9,10,253,36
+race/tour-de-france/2023/stage-9,DERYCKE Matthew,27,9,10,253,37
 race/tour-de-france/2023/stage-9,EECKHAUT Tom,14,9,0,409,6
 race/tour-de-france/2023/stage-9,GOOSSENS Inneke,18,9,0,382,11
 race/tour-de-france/2023/stage-9,JANSSENS Robert,14,9,0,372,14
-race/tour-de-france/2023/stage-9,KEBAB Rate My,1,9,0,112,40
-race/tour-de-france/2023/stage-9,MAES Junot,58,9,0,319,24
-race/tour-de-france/2023/stage-9,RELAES Damiaan,25,9,0,335,21
+race/tour-de-france/2023/stage-9,KEBAB Rate My,1,9,0,112,41
+race/tour-de-france/2023/stage-9,MAES Junot,58,9,0,319,25
+race/tour-de-france/2023/stage-9,RELAES Damiaan,25,9,0,335,22
 race/tour-de-france/2023/stage-9,RELAES Francis,27,9,0,392,8
 race/tour-de-france/2023/stage-9,RELAES Jacob,11,9,0,359,17
 race/tour-de-france/2023/stage-9,RELAES Joris,22,9,0,363,16
 race/tour-de-france/2023/stage-9,ROOMS Ben,12,9,0,391,9
-race/tour-de-france/2023/stage-9,RYKX Jelle,8,9,40,279,33
-race/tour-de-france/2023/stage-9,SEGERS Thomas,33,9,0,321,23
+race/tour-de-france/2023/stage-9,RYKX Jelle,8,9,40,279,34
+race/tour-de-france/2023/stage-9,SEGERS Thomas,33,9,0,321,24
 race/tour-de-france/2023/stage-9,SMET Arno,18,9,0,456,2
-race/tour-de-france/2023/stage-9,SMET Bart,16,9,0,291,32
+race/tour-de-france/2023/stage-9,SMET Bart,16,9,0,291,33
 race/tour-de-france/2023/stage-9,SMET Nona,23,9,0,409,7
-race/tour-de-france/2023/stage-9,VAN BROECK Gunther,14,9,0,314,25
-race/tour-de-france/2023/stage-9,VAN DAMME Hubert,27,9,0,259,34
+race/tour-de-france/2023/stage-9,VAN BROECK Gunther,14,9,0,314,26
+race/tour-de-france/2023/stage-9,VAN DAMME Hubert,27,9,0,259,35
 race/tour-de-france/2023/stage-9,VAN LAECKE Kristiaan,11,9,0,421,4
+race/tour-de-france/2023/stage-9,VAN RAEMDONCK Dirk,7,9,0,336,21
 race/tour-de-france/2023/stage-9,VAN RAEMDONCK Hilde,21,9,0,350,19
-race/tour-de-france/2023/stage-9,VAN RAEMDONCK Katrien,8,9,0,301,29
-race/tour-de-france/2023/stage-9,VDB-VRD Sofia en Ann,21,9,0,313,26
+race/tour-de-france/2023/stage-9,VAN RAEMDONCK Katrien,8,9,0,301,30
+race/tour-de-france/2023/stage-9,VDB-VRD Sofia en Ann,21,9,0,313,27
 race/tour-de-france/2023/stage-9,VERELST Thomas,8,9,0,364,15
-race/tour-de-france/2023/stage-9,VERHAEGEN Arnout,59,9,0,313,27
-race/tour-de-france/2023/stage-9,VERSTRAETEN Jens,7,9,0,216,37
-race/tour-de-france/2023/stage-9,VERSTRAETEN Wanne,11,9,0,299,31
-race/tour-de-france/2023/stage-9,WAUTERS Stefaan,5,9,30,101,42
+race/tour-de-france/2023/stage-9,VERHAEGEN Arnout,59,9,0,313,28
+race/tour-de-france/2023/stage-9,VERSTRAETEN Jens,7,9,0,216,38
+race/tour-de-france/2023/stage-9,VERSTRAETEN Wanne,11,9,0,299,32
+race/tour-de-france/2023/stage-9,WAUTERS Stefaan,5,9,30,101,43
 race/tour-de-france/2023/stage-9,WITTEMANS Tine,22,9,0,469,1
+race/tour-de-france/2023/stage-10,69 G-Motmans,41,10,0,340,26
+race/tour-de-france/2023/stage-10,AUDENAERT Tim,48,10,0,427,12
+race/tour-de-france/2023/stage-10,AUDENAERT Zoë,30,10,0,331,28
+race/tour-de-france/2023/stage-10,BAL romain,1,10,0,177,40
+race/tour-de-france/2023/stage-10,BOSMAN Vivienne,7,10,20,112,42
+race/tour-de-france/2023/stage-10,DE BLANGER Clovis,12,10,0,391,18
+race/tour-de-france/2023/stage-10,DE MAEYER Laurens,36,10,0,394,16
+race/tour-de-france/2023/stage-10,DE MAEYER peter,44,10,0,433,8
+race/tour-de-france/2023/stage-10,DE MEULENAER Dries,27,10,0,228,39
+race/tour-de-france/2023/stage-10,DE MEULENAER Flor,33,10,0,354,23
+race/tour-de-france/2023/stage-10,DE MEULENAER Siel,29,10,0,287,35
+race/tour-de-france/2023/stage-10,DE RYCKE Andreas,26,10,0,478,3
+race/tour-de-france/2023/stage-10,DECLEYRE Michiel,41,10,0,389,19
+race/tour-de-france/2023/stage-10,DECLEYRE Simon,39,10,0,457,4
+race/tour-de-france/2023/stage-10,DERYCKE Matthew,27,10,10,280,36
+race/tour-de-france/2023/stage-10,EECKHAUT Tom,42,10,0,451,6
+race/tour-de-france/2023/stage-10,GOOSSENS Inneke,12,10,0,394,17
+race/tour-de-france/2023/stage-10,JANSSENS Robert,42,10,0,414,13
+race/tour-de-france/2023/stage-10,KEBAB Rate My,11,10,0,123,41
+race/tour-de-france/2023/stage-10,MAES Junot,30,10,0,349,24
+race/tour-de-france/2023/stage-10,RELAES Damiaan,23,10,0,358,21
+race/tour-de-france/2023/stage-10,RELAES Francis,41,10,0,433,9
+race/tour-de-france/2023/stage-10,RELAES Jacob,41,10,0,400,14
+race/tour-de-france/2023/stage-10,RELAES Joris,36,10,0,399,15
+race/tour-de-france/2023/stage-10,ROOMS Ben,42,10,0,433,10
+race/tour-de-france/2023/stage-10,RYKX Jelle,33,10,40,312,33
+race/tour-de-france/2023/stage-10,SEGERS Thomas,17,10,0,338,27
+race/tour-de-france/2023/stage-10,SMET Arno,46,10,0,502,2
+race/tour-de-france/2023/stage-10,SMET Bart,16,10,0,307,34
+race/tour-de-france/2023/stage-10,SMET Nona,41,10,0,450,7
+race/tour-de-france/2023/stage-10,VAN BROECK Gunther,42,10,0,356,22
+race/tour-de-france/2023/stage-10,VAN DAMME Hubert,13,10,0,272,38
+race/tour-de-france/2023/stage-10,VAN LAECKE Kristiaan,31,10,0,452,5
+race/tour-de-france/2023/stage-10,VAN RAEMDONCK Dirk,7,10,0,343,25
+race/tour-de-france/2023/stage-10,VAN RAEMDONCK Hilde,39,10,0,389,20
+race/tour-de-france/2023/stage-10,VAN RAEMDONCK Katrien,28,10,0,329,30
+race/tour-de-france/2023/stage-10,VDB-VRD Sofia en Ann,15,10,0,328,31
+race/tour-de-france/2023/stage-10,VERELST Thomas,68,10,0,432,11
+race/tour-de-france/2023/stage-10,VERHAEGEN Arnout,9,10,0,322,32
+race/tour-de-france/2023/stage-10,VERSTRAETEN Jens,62,10,0,278,37
+race/tour-de-france/2023/stage-10,VERSTRAETEN Wanne,31,10,0,330,29
+race/tour-de-france/2023/stage-10,WAUTERS Stefaan,7,10,30,108,43
+race/tour-de-france/2023/stage-10,WITTEMANS Tine,40,10,0,509,1
