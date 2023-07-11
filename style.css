@@ -122,7 +122,7 @@ body {
   }
 
   .rankLine {
-    stroke-width: 2px;
+    stroke-width: 3px;
     stroke: #F0C600;
     fill: none;
     stroke-linejoin: round;

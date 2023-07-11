@@ -27,6 +27,8 @@ const makeRankGraph = function(data) {
     // set the dimensions and margins of the graph
     const margins = { top: 48, right: width > 600 ? 48 : 78, bottom: 48, left: 26 }
 
+    data = width > 600 ? data : data.filter(d => d.stage > lastStage - 5)
+
     // set inner dimensions
     const innerWidth = width - margins.left - margins.right
     const innerHeight = height - margins.top - margins.bottom
@@ -42,13 +44,13 @@ const makeRankGraph = function(data) {
     // Build X scales and axis:
     const xScale = d3.scaleLinear()
     .range([0, innerWidth])
-    .domain([1, lastStage + 2])
+    .domain([d3.min(data, d => d.stage), lastStage + 2])
 
     svg.append('g')
     .attr('class', 'axis axis__x')
     .call(
         d3.axisTop(xScale)
-        .ticks(lastStage + 2)
+        .ticks(width > 600 ? lastStage + 2 : 5)
         .tickPadding(12)
         .tickSizeOuter(0)
         .tickSize(-innerHeight)
@@ -93,7 +95,7 @@ const makeRankGraph = function(data) {
     .attr("class", "rankDot")
     .attr("cx", d => xScale(+d.stage))
     .attr("cy", d => yScale(+d.rank))
-    .attr("r", width > 400 ? 5 : 3)
+    .attr("r", width > 400 ? 5 : 4)
 
     
     svg.selectAll("rankText")
