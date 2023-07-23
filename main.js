@@ -25,7 +25,7 @@ const makeRankGraph = function(data) {
     const { width, height } = d3.select('.rankGraph').node().getBoundingClientRect()
 
     // set the dimensions and margins of the graph
-    const margins = { top: 48, right: width > 600 ? 180 : 90, bottom: 48, left: 26 }
+    const margins = { top: 48, right: width > 600 ? 180 : 120, bottom: 48, left: 26 }
 
     data = width > 600 ? data : data.filter(d => d.stage > lastStage - 5)
 
