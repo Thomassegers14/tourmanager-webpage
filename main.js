@@ -35,11 +35,11 @@ const makeRankGraph = function(data) {
 
     // append the svg object to the body of the page
     const svg = d3.select('.rankGraph')
-    .append('svg')
-    .attr('width', width)
-    .attr('height', height)
-    .append('g')
-    .attr('transform', `translate(${margins.left}, ${margins.top})`)
+        .append('svg')
+        .attr('width', width)
+        .attr('height', height)
+        .append('g')
+        .attr('transform', `translate(${margins.left}, ${margins.top})`)
 
     // Build X scales and axis:
     const xScale = d3.scaleLinear()
