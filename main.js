@@ -51,7 +51,7 @@ const makeRankGraph = function(data) {
     .call(
         d3.axisTop(xScale)
         // .ticks(width > 600 ? lastStage : 5)
-        .ticks(1)
+        .ticks(2)
         .tickPadding(12)
         .tickSizeOuter(0)
         .tickSize(-innerHeight)
