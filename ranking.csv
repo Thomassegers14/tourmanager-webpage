@@ -1,946 +1,560 @@
 stage_id,participant,points,stage,strafpunten,total_points,rank
-race/tour-de-france/2024/stage-1,69 G-Motmans,59,1,0,59,7
-race/tour-de-france/2024/stage-1,AUDENAERT Tim,58,1,0,58,8
-race/tour-de-france/2024/stage-1,AUDENAERT Zoë,46,1,0,46,14
-race/tour-de-france/2024/stage-1,BOSMAN Vivienne,74,1,0,74,3
-race/tour-de-france/2024/stage-1,DE BEN Yentel,51,1,0,51,9
-race/tour-de-france/2024/stage-1,DE BLANGER Clovis,33,1,10,33,28
-race/tour-de-france/2024/stage-1,DE JONGHE Romy,14,1,0,14,40
-race/tour-de-france/2024/stage-1,DE MAEYER Laurens,37,1,0,37,20
-race/tour-de-france/2024/stage-1,DE MAEYER peter,14,1,0,14,41
-race/tour-de-france/2024/stage-1,DE MEULENAER Dries,37,1,0,37,21
-race/tour-de-france/2024/stage-1,DE MEULENAER Flor,31,1,0,31,29
-race/tour-de-france/2024/stage-1,DE MEULENAER Siel,51,1,0,51,10
-race/tour-de-france/2024/stage-1,DE RYCKE Andreas,41,1,0,41,16
-race/tour-de-france/2024/stage-1,DECLEYRE Michiel,14,1,0,14,42
-race/tour-de-france/2024/stage-1,DECLEYRE Simon,14,1,0,14,43
-race/tour-de-france/2024/stage-1,GOOSSENS Inneke,37,1,0,37,22
-race/tour-de-france/2024/stage-1,JANSSENS Robert,22,1,0,22,33
-race/tour-de-france/2024/stage-1,KEBAB Rate My,18,1,0,18,36
-race/tour-de-france/2024/stage-1,MAES Junot,48,1,0,48,13
-race/tour-de-france/2024/stage-1,PARMENTIER Darwin,37,1,0,37,23
-race/tour-de-france/2024/stage-1,RELAES Damiaan,46,1,0,46,15
-race/tour-de-france/2024/stage-1,RELAES Francis,18,1,0,18,37
-race/tour-de-france/2024/stage-1,RELAES Jacob,38,1,0,38,19
-race/tour-de-france/2024/stage-1,RELAES Joris,87,1,0,87,2
-race/tour-de-france/2024/stage-1,SCHELDEMAN Kwinte,22,1,0,22,34
-race/tour-de-france/2024/stage-1,SEGERS Thomas,18,1,0,18,38
-race/tour-de-france/2024/stage-1,SMET Arno,31,1,0,31,30
-race/tour-de-france/2024/stage-1,SMET Bart,28,1,0,28,32
-race/tour-de-france/2024/stage-1,SMET Jos,37,1,0,37,24
-race/tour-de-france/2024/stage-1,SMET Katleen,69,1,0,69,4
-race/tour-de-france/2024/stage-1,SMET Nona,41,1,0,41,17
-race/tour-de-france/2024/stage-1,TRUYMAN bart,61,1,0,61,5
-race/tour-de-france/2024/stage-1,VAN BROECK Gunther,50,1,0,50,11
-race/tour-de-france/2024/stage-1,VAN DAMME Hubert,37,1,0,37,25
-race/tour-de-france/2024/stage-1,VAN DAMME Kelly,37,1,0,37,26
-race/tour-de-france/2024/stage-1,VAN LAECKE Kristiaan,18,1,0,18,39
-race/tour-de-france/2024/stage-1,VAN ORDEN Thomas,14,1,0,14,44
-race/tour-de-france/2024/stage-1,VAN RAEMDONCK Dirk,37,1,0,37,27
-race/tour-de-france/2024/stage-1,VAN RAEMDONCK Hilde,61,1,0,61,6
-race/tour-de-france/2024/stage-1,VAN RAEMDONCK Katrien,88,1,0,88,1
-race/tour-de-france/2024/stage-1,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,49,1,0,49,12
-race/tour-de-france/2024/stage-1,VERELST Thomas,41,1,0,41,18
-race/tour-de-france/2024/stage-1,VERSTRAETEN Jens,14,1,0,14,45
-race/tour-de-france/2024/stage-1,VERSTRAETEN Wanne,22,1,0,22,35
-race/tour-de-france/2024/stage-1,WITTEMANS tine,30,1,0,30,31
-race/tour-de-france/2024/stage-2,69 G-Motmans,7,2,0,66,8
-race/tour-de-france/2024/stage-2,AUDENAERT Tim,13,2,0,71,5
-race/tour-de-france/2024/stage-2,AUDENAERT Zoë,11,2,0,57,14
-race/tour-de-france/2024/stage-2,BOSMAN Vivienne,5,2,0,79,3
-race/tour-de-france/2024/stage-2,DE BEN Yentel,9,2,0,60,10
-race/tour-de-france/2024/stage-2,DE BLANGER Clovis,15,2,10,48,19
-race/tour-de-france/2024/stage-2,DE JONGHE Romy,7,2,0,21,41
-race/tour-de-france/2024/stage-2,DE MAEYER Laurens,7,2,0,44,22
-race/tour-de-france/2024/stage-2,DE MAEYER peter,7,2,0,21,42
-race/tour-de-france/2024/stage-2,DE MEULENAER Dries,5,2,0,42,26
-race/tour-de-france/2024/stage-2,DE MEULENAER Flor,4,2,0,35,32
-race/tour-de-france/2024/stage-2,DE MEULENAER Siel,7,2,0,58,12
-race/tour-de-france/2024/stage-2,DE RYCKE Andreas,17,2,0,58,13
-race/tour-de-france/2024/stage-2,DECLEYRE Michiel,5,2,0,19,44
-race/tour-de-france/2024/stage-2,DECLEYRE Simon,7,2,0,21,43
-race/tour-de-france/2024/stage-2,GOOSSENS Inneke,29,2,0,66,9
-race/tour-de-france/2024/stage-2,JANSSENS Robert,9,2,0,31,34
-race/tour-de-france/2024/stage-2,KEBAB Rate My,20,2,0,38,30
-race/tour-de-france/2024/stage-2,MAES Junot,11,2,0,59,11
-race/tour-de-france/2024/stage-2,PARMENTIER Darwin,5,2,0,42,27
-race/tour-de-france/2024/stage-2,RELAES Damiaan,7,2,0,53,18
-race/tour-de-france/2024/stage-2,RELAES Francis,7,2,0,25,37
-race/tour-de-france/2024/stage-2,RELAES Jacob,9,2,0,47,20
-race/tour-de-france/2024/stage-2,RELAES Joris,10,2,0,97,1
-race/tour-de-france/2024/stage-2,SCHELDEMAN Kwinte,5,2,0,27,36
-race/tour-de-france/2024/stage-2,SEGERS Thomas,7,2,0,25,38
-race/tour-de-france/2024/stage-2,SMET Arno,13,2,0,44,23
-race/tour-de-france/2024/stage-2,SMET Bart,7,2,0,35,33
-race/tour-de-france/2024/stage-2,SMET Jos,4,2,0,41,29
-race/tour-de-france/2024/stage-2,SMET Katleen,7,2,0,76,4
-race/tour-de-france/2024/stage-2,SMET Nona,15,2,0,56,16
-race/tour-de-france/2024/stage-2,TRUYMAN bart,7,2,0,68,7
-race/tour-de-france/2024/stage-2,VAN BROECK Gunther,7,2,0,57,15
-race/tour-de-france/2024/stage-2,VAN DAMME Hubert,7,2,0,44,24
-race/tour-de-france/2024/stage-2,VAN DAMME Kelly,5,2,0,42,28
-race/tour-de-france/2024/stage-2,VAN LAECKE Kristiaan,6,2,0,24,39
-race/tour-de-france/2024/stage-2,VAN ORDEN Thomas,5,2,0,19,45
-race/tour-de-france/2024/stage-2,VAN RAEMDONCK Dirk,7,2,0,44,25
-race/tour-de-france/2024/stage-2,VAN RAEMDONCK Hilde,9,2,0,70,6
-race/tour-de-france/2024/stage-2,VAN RAEMDONCK Katrien,8,2,0,96,2
-race/tour-de-france/2024/stage-2,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,7,2,0,56,17
-race/tour-de-france/2024/stage-2,VERELST Thomas,5,2,0,46,21
-race/tour-de-france/2024/stage-2,VERSTRAETEN Jens,10,2,0,24,40
-race/tour-de-france/2024/stage-2,VERSTRAETEN Wanne,9,2,0,31,35
-race/tour-de-france/2024/stage-2,WITTEMANS tine,7,2,0,37,31
-race/tour-de-france/2024/stage-3,69 G-Motmans,64,3,0,130,1
-race/tour-de-france/2024/stage-3,AUDENAERT Tim,16,3,0,87,14
-race/tour-de-france/2024/stage-3,AUDENAERT Zoë,8,3,0,65,27
-race/tour-de-france/2024/stage-3,BOSMAN Vivienne,3,3,0,82,17
-race/tour-de-france/2024/stage-3,DE BEN Yentel,43,3,0,103,6
-race/tour-de-france/2024/stage-3,DE BLANGER Clovis,30,3,10,78,20
-race/tour-de-france/2024/stage-3,DE JONGHE Romy,5,3,0,26,45
-race/tour-de-france/2024/stage-3,DE MAEYER Laurens,46,3,0,90,12
-race/tour-de-france/2024/stage-3,DE MAEYER peter,13,3,0,34,42
-race/tour-de-france/2024/stage-3,DE MEULENAER Dries,14,3,0,56,32
-race/tour-de-france/2024/stage-3,DE MEULENAER Flor,41,3,0,76,22
-race/tour-de-france/2024/stage-3,DE MEULENAER Siel,30,3,0,88,13
-race/tour-de-france/2024/stage-3,DE RYCKE Andreas,15,3,0,73,24
-race/tour-de-france/2024/stage-3,DECLEYRE Michiel,8,3,0,27,44
-race/tour-de-france/2024/stage-3,DECLEYRE Simon,21,3,0,42,40
-race/tour-de-france/2024/stage-3,GOOSSENS Inneke,33,3,0,99,9
-race/tour-de-france/2024/stage-3,JANSSENS Robert,24,3,0,55,33
-race/tour-de-france/2024/stage-3,KEBAB Rate My,13,3,0,51,34
-race/tour-de-france/2024/stage-3,MAES Junot,19,3,0,78,21
-race/tour-de-france/2024/stage-3,PARMENTIER Darwin,8,3,0,50,35
-race/tour-de-france/2024/stage-3,RELAES Damiaan,20,3,0,73,25
-race/tour-de-france/2024/stage-3,RELAES Francis,36,3,0,61,28
-race/tour-de-france/2024/stage-3,RELAES Jacob,29,3,0,76,23
-race/tour-de-france/2024/stage-3,RELAES Joris,21,3,0,118,2
-race/tour-de-france/2024/stage-3,SCHELDEMAN Kwinte,19,3,0,46,39
-race/tour-de-france/2024/stage-3,SEGERS Thomas,35,3,0,60,31
-race/tour-de-france/2024/stage-3,SMET Arno,42,3,0,86,15
-race/tour-de-france/2024/stage-3,SMET Bart,26,3,0,61,29
-race/tour-de-france/2024/stage-3,SMET Jos,40,3,0,81,18
-race/tour-de-france/2024/stage-3,SMET Katleen,38,3,0,114,3
-race/tour-de-france/2024/stage-3,SMET Nona,5,3,0,61,30
-race/tour-de-france/2024/stage-3,TRUYMAN bart,37,3,0,105,5
-race/tour-de-france/2024/stage-3,VAN BROECK Gunther,50,3,0,107,4
-race/tour-de-france/2024/stage-3,VAN DAMME Hubert,3,3,0,47,37
-race/tour-de-france/2024/stage-3,VAN DAMME Kelly,7,3,0,49,36
-race/tour-de-france/2024/stage-3,VAN LAECKE Kristiaan,16,3,0,40,41
-race/tour-de-france/2024/stage-3,VAN ORDEN Thomas,11,3,0,30,43
-race/tour-de-france/2024/stage-3,VAN RAEMDONCK Dirk,48,3,0,92,11
-race/tour-de-france/2024/stage-3,VAN RAEMDONCK Hilde,14,3,0,84,16
-race/tour-de-france/2024/stage-3,VAN RAEMDONCK Katrien,4,3,0,100,7
-race/tour-de-france/2024/stage-3,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,44,3,0,100,8
-race/tour-de-france/2024/stage-3,VERELST Thomas,48,3,0,94,10
-race/tour-de-france/2024/stage-3,VERSTRAETEN Jens,55,3,0,79,19
-race/tour-de-france/2024/stage-3,VERSTRAETEN Wanne,38,3,0,69,26
-race/tour-de-france/2024/stage-3,WITTEMANS tine,10,3,0,47,38
-race/tour-de-france/2024/stage-4,69 G-Motmans,42,4,0,172,3
-race/tour-de-france/2024/stage-4,AUDENAERT Tim,90,4,0,177,2
-race/tour-de-france/2024/stage-4,AUDENAERT Zoë,68,4,0,133,20
-race/tour-de-france/2024/stage-4,BOSMAN Vivienne,51,4,0,133,21
-race/tour-de-france/2024/stage-4,DE BEN Yentel,53,4,0,156,14
-race/tour-de-france/2024/stage-4,DE BLANGER Clovis,84,4,10,162,10
-race/tour-de-france/2024/stage-4,DE JONGHE Romy,62,4,0,88,40
-race/tour-de-france/2024/stage-4,DE MAEYER Laurens,72,4,0,162,11
-race/tour-de-france/2024/stage-4,DE MAEYER peter,48,4,0,82,43
-race/tour-de-france/2024/stage-4,DE MEULENAER Dries,48,4,0,104,35
-race/tour-de-france/2024/stage-4,DE MEULENAER Flor,36,4,0,112,30
-race/tour-de-france/2024/stage-4,DE MEULENAER Siel,80,4,0,168,5
-race/tour-de-france/2024/stage-4,DE RYCKE Andreas,48,4,0,121,28
-race/tour-de-france/2024/stage-4,DECLEYRE Michiel,54,4,0,81,44
-race/tour-de-france/2024/stage-4,DECLEYRE Simon,54,4,0,96,37
-race/tour-de-france/2024/stage-4,GOOSSENS Inneke,69,4,0,168,6
-race/tour-de-france/2024/stage-4,JANSSENS Robert,85,4,0,140,18
-race/tour-de-france/2024/stage-4,KEBAB Rate My,37,4,0,88,41
-race/tour-de-france/2024/stage-4,MAES Junot,111,4,0,189,1
-race/tour-de-france/2024/stage-4,PARMENTIER Darwin,37,4,0,87,42
-race/tour-de-france/2024/stage-4,RELAES Damiaan,53,4,0,126,25
-race/tour-de-france/2024/stage-4,RELAES Francis,62,4,0,123,26
-race/tour-de-france/2024/stage-4,RELAES Jacob,55,4,0,131,22
-race/tour-de-france/2024/stage-4,RELAES Joris,54,4,0,172,4
-race/tour-de-france/2024/stage-4,SCHELDEMAN Kwinte,49,4,0,95,38
-race/tour-de-france/2024/stage-4,SEGERS Thomas,51,4,0,111,31
-race/tour-de-france/2024/stage-4,SMET Arno,79,4,0,165,8
-race/tour-de-france/2024/stage-4,SMET Bart,62,4,0,123,27
-race/tour-de-france/2024/stage-4,SMET Jos,27,4,0,108,33
-race/tour-de-france/2024/stage-4,SMET Katleen,44,4,0,158,12
-race/tour-de-france/2024/stage-4,SMET Nona,48,4,0,109,32
-race/tour-de-france/2024/stage-4,TRUYMAN bart,38,4,0,143,17
-race/tour-de-france/2024/stage-4,VAN BROECK Gunther,58,4,0,165,9
-race/tour-de-france/2024/stage-4,VAN DAMME Hubert,51,4,0,98,36
-race/tour-de-france/2024/stage-4,VAN DAMME Kelly,82,4,0,131,23
-race/tour-de-france/2024/stage-4,VAN LAECKE Kristiaan,54,4,0,94,39
-race/tour-de-france/2024/stage-4,VAN ORDEN Thomas,43,4,0,73,45
-race/tour-de-france/2024/stage-4,VAN RAEMDONCK Dirk,39,4,0,131,24
-race/tour-de-france/2024/stage-4,VAN RAEMDONCK Hilde,84,4,0,168,7
-race/tour-de-france/2024/stage-4,VAN RAEMDONCK Katrien,37,4,0,137,19
-race/tour-de-france/2024/stage-4,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,49,4,0,149,16
-race/tour-de-france/2024/stage-4,VERELST Thomas,56,4,0,150,15
-race/tour-de-france/2024/stage-4,VERSTRAETEN Jens,39,4,0,118,29
-race/tour-de-france/2024/stage-4,VERSTRAETEN Wanne,89,4,0,158,13
-race/tour-de-france/2024/stage-4,WITTEMANS tine,58,4,0,105,34
-race/tour-de-france/2024/stage-5,69 G-Motmans,43,5,0,215,6
-race/tour-de-france/2024/stage-5,AUDENAERT Tim,57,5,0,234,1
-race/tour-de-france/2024/stage-5,AUDENAERT Zoë,43,5,0,176,18
-race/tour-de-france/2024/stage-5,BOSMAN Vivienne,15,5,0,148,33
-race/tour-de-france/2024/stage-5,DE BEN Yentel,58,5,0,214,7
-race/tour-de-france/2024/stage-5,DE BLANGER Clovis,66,5,10,228,3
-race/tour-de-france/2024/stage-5,DE JONGHE Romy,10,5,0,98,44
-race/tour-de-france/2024/stage-5,DE MAEYER Laurens,72,5,0,234,2
-race/tour-de-france/2024/stage-5,DE MAEYER peter,33,5,0,115,41
-race/tour-de-france/2024/stage-5,DE MEULENAER Dries,75,5,0,179,17
-race/tour-de-france/2024/stage-5,DE MEULENAER Flor,49,5,0,161,26
-race/tour-de-france/2024/stage-5,DE MEULENAER Siel,54,5,0,222,4
-race/tour-de-france/2024/stage-5,DE RYCKE Andreas,41,5,0,162,25
-race/tour-de-france/2024/stage-5,DECLEYRE Michiel,33,5,0,114,42
-race/tour-de-france/2024/stage-5,DECLEYRE Simon,33,5,0,129,37
-race/tour-de-france/2024/stage-5,GOOSSENS Inneke,28,5,0,196,8
-race/tour-de-france/2024/stage-5,JANSSENS Robert,30,5,0,170,21
-race/tour-de-france/2024/stage-5,KEBAB Rate My,7,5,0,95,45
-race/tour-de-france/2024/stage-5,MAES Junot,28,5,0,217,5
-race/tour-de-france/2024/stage-5,PARMENTIER Darwin,40,5,0,127,38
-race/tour-de-france/2024/stage-5,RELAES Damiaan,35,5,0,161,27
-race/tour-de-france/2024/stage-5,RELAES Francis,36,5,0,159,28
-race/tour-de-france/2024/stage-5,RELAES Jacob,35,5,0,166,22
-race/tour-de-france/2024/stage-5,RELAES Joris,10,5,0,182,14
-race/tour-de-france/2024/stage-5,SCHELDEMAN Kwinte,40,5,0,135,36
-race/tour-de-france/2024/stage-5,SEGERS Thomas,43,5,0,154,31
-race/tour-de-france/2024/stage-5,SMET Arno,28,5,0,193,9
-race/tour-de-france/2024/stage-5,SMET Bart,22,5,0,145,35
-race/tour-de-france/2024/stage-5,SMET Jos,63,5,0,171,20
-race/tour-de-france/2024/stage-5,SMET Katleen,23,5,0,181,15
-race/tour-de-france/2024/stage-5,SMET Nona,43,5,0,152,32
-race/tour-de-france/2024/stage-5,TRUYMAN bart,23,5,0,166,23
-race/tour-de-france/2024/stage-5,VAN BROECK Gunther,16,5,0,181,16
-race/tour-de-france/2024/stage-5,VAN DAMME Hubert,9,5,0,107,43
-race/tour-de-france/2024/stage-5,VAN DAMME Kelly,35,5,0,166,24
-race/tour-de-france/2024/stage-5,VAN LAECKE Kristiaan,33,5,0,127,39
-race/tour-de-france/2024/stage-5,VAN ORDEN Thomas,44,5,0,117,40
-race/tour-de-france/2024/stage-5,VAN RAEMDONCK Dirk,26,5,0,157,30
-race/tour-de-france/2024/stage-5,VAN RAEMDONCK Hilde,24,5,0,192,10
-race/tour-de-france/2024/stage-5,VAN RAEMDONCK Katrien,52,5,0,189,13
-race/tour-de-france/2024/stage-5,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,24,5,0,173,19
-race/tour-de-france/2024/stage-5,VERELST Thomas,40,5,0,190,12
-race/tour-de-france/2024/stage-5,VERSTRAETEN Jens,28,5,0,146,34
-race/tour-de-france/2024/stage-5,VERSTRAETEN Wanne,34,5,0,192,11
-race/tour-de-france/2024/stage-5,WITTEMANS tine,53,5,0,158,29
-race/tour-de-france/2024/stage-6,69 G-Motmans,71,6,0,286,1
-race/tour-de-france/2024/stage-6,AUDENAERT Tim,25,6,0,259,4
-race/tour-de-france/2024/stage-6,AUDENAERT Zoë,23,6,0,199,21
-race/tour-de-france/2024/stage-6,BOSMAN Vivienne,25,6,0,173,32
-race/tour-de-france/2024/stage-6,DE BEN Yentel,47,6,0,261,3
-race/tour-de-france/2024/stage-6,DE BLANGER Clovis,22,6,10,250,6
-race/tour-de-france/2024/stage-6,DE JONGHE Romy,10,6,0,108,45
-race/tour-de-france/2024/stage-6,DE MAEYER Laurens,48,6,0,282,2
-race/tour-de-france/2024/stage-6,DE MAEYER peter,8,6,0,123,42
-race/tour-de-france/2024/stage-6,DE MEULENAER Dries,18,6,0,197,22
-race/tour-de-france/2024/stage-6,DE MEULENAER Flor,27,6,0,188,26
-race/tour-de-france/2024/stage-6,DE MEULENAER Siel,32,6,0,254,5
-race/tour-de-france/2024/stage-6,DE RYCKE Andreas,40,6,0,202,18
-race/tour-de-france/2024/stage-6,DECLEYRE Michiel,8,6,0,122,43
-race/tour-de-france/2024/stage-6,DECLEYRE Simon,22,6,0,151,37
-race/tour-de-france/2024/stage-6,GOOSSENS Inneke,26,6,0,222,9
-race/tour-de-france/2024/stage-6,JANSSENS Robert,18,6,0,188,27
-race/tour-de-france/2024/stage-6,KEBAB Rate My,21,6,0,116,44
-race/tour-de-france/2024/stage-6,MAES Junot,26,6,0,243,8
-race/tour-de-france/2024/stage-6,PARMENTIER Darwin,25,6,0,152,36
-race/tour-de-france/2024/stage-6,RELAES Damiaan,10,6,0,171,34
-race/tour-de-france/2024/stage-6,RELAES Francis,22,6,0,181,29
-race/tour-de-france/2024/stage-6,RELAES Jacob,10,6,0,176,30
-race/tour-de-france/2024/stage-6,RELAES Joris,20,6,0,202,19
-race/tour-de-france/2024/stage-6,SCHELDEMAN Kwinte,10,6,0,145,39
-race/tour-de-france/2024/stage-6,SEGERS Thomas,41,6,0,195,24
-race/tour-de-france/2024/stage-6,SMET Arno,26,6,0,219,10
-race/tour-de-france/2024/stage-6,SMET Bart,20,6,0,165,35
-race/tour-de-france/2024/stage-6,SMET Jos,39,6,0,210,16
-race/tour-de-france/2024/stage-6,SMET Katleen,31,6,0,212,14
-race/tour-de-france/2024/stage-6,SMET Nona,22,6,0,174,31
-race/tour-de-france/2024/stage-6,TRUYMAN bart,31,6,0,197,23
-race/tour-de-france/2024/stage-6,VAN BROECK Gunther,37,6,0,218,11
-race/tour-de-france/2024/stage-6,VAN DAMME Hubert,19,6,0,126,40
-race/tour-de-france/2024/stage-6,VAN DAMME Kelly,20,6,0,186,28
-race/tour-de-france/2024/stage-6,VAN LAECKE Kristiaan,22,6,0,149,38
-race/tour-de-france/2024/stage-6,VAN ORDEN Thomas,7,6,0,124,41
-race/tour-de-france/2024/stage-6,VAN RAEMDONCK Dirk,45,6,0,202,20
-race/tour-de-france/2024/stage-6,VAN RAEMDONCK Hilde,22,6,0,214,12
-race/tour-de-france/2024/stage-6,VAN RAEMDONCK Katrien,23,6,0,212,15
-race/tour-de-france/2024/stage-6,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,32,6,0,205,17
-race/tour-de-france/2024/stage-6,VERELST Thomas,60,6,0,250,7
-race/tour-de-france/2024/stage-6,VERSTRAETEN Jens,47,6,0,193,25
-race/tour-de-france/2024/stage-6,VERSTRAETEN Wanne,22,6,0,214,13
-race/tour-de-france/2024/stage-6,WITTEMANS tine,14,6,0,172,33
-race/tour-de-france/2024/stage-7,69 G-Motmans,34,7,0,320,4
-race/tour-de-france/2024/stage-7,AUDENAERT Tim,70,7,0,329,1
-race/tour-de-france/2024/stage-7,AUDENAERT Zoë,68,7,0,267,13
-race/tour-de-france/2024/stage-7,BOSMAN Vivienne,54,7,0,227,28
-race/tour-de-france/2024/stage-7,DE BEN Yentel,51,7,0,312,6
-race/tour-de-france/2024/stage-7,DE BLANGER Clovis,79,7,10,329,2
-race/tour-de-france/2024/stage-7,DE JONGHE Romy,49,7,0,157,43
-race/tour-de-france/2024/stage-7,DE MAEYER Laurens,38,7,0,320,5
-race/tour-de-france/2024/stage-7,DE MAEYER peter,41,7,0,164,41
-race/tour-de-france/2024/stage-7,DE MEULENAER Dries,45,7,0,242,20
-race/tour-de-france/2024/stage-7,DE MEULENAER Flor,25,7,0,213,34
-race/tour-de-france/2024/stage-7,DE MEULENAER Siel,49,7,0,303,7
-race/tour-de-france/2024/stage-7,DE RYCKE Andreas,33,7,0,235,26
-race/tour-de-france/2024/stage-7,DECLEYRE Michiel,41,7,0,163,42
-race/tour-de-france/2024/stage-7,DECLEYRE Simon,47,7,0,198,36
-race/tour-de-france/2024/stage-7,GOOSSENS Inneke,81,7,0,303,8
-race/tour-de-france/2024/stage-7,JANSSENS Robert,53,7,0,241,22
-race/tour-de-france/2024/stage-7,KEBAB Rate My,32,7,0,148,45
-race/tour-de-france/2024/stage-7,MAES Junot,85,7,0,328,3
-race/tour-de-france/2024/stage-7,PARMENTIER Darwin,46,7,0,198,37
-race/tour-de-france/2024/stage-7,RELAES Damiaan,43,7,0,214,33
-race/tour-de-france/2024/stage-7,RELAES Francis,57,7,0,238,24
-race/tour-de-france/2024/stage-7,RELAES Jacob,49,7,0,225,30
-race/tour-de-france/2024/stage-7,RELAES Joris,48,7,0,250,16
-race/tour-de-france/2024/stage-7,SCHELDEMAN Kwinte,35,7,0,180,39
-race/tour-de-france/2024/stage-7,SEGERS Thomas,48,7,0,243,18
-race/tour-de-france/2024/stage-7,SMET Arno,77,7,0,296,9
-race/tour-de-france/2024/stage-7,SMET Bart,61,7,0,226,29
-race/tour-de-france/2024/stage-7,SMET Jos,32,7,0,242,21
-race/tour-de-france/2024/stage-7,SMET Katleen,48,7,0,260,15
-race/tour-de-france/2024/stage-7,SMET Nona,37,7,0,211,35
-race/tour-de-france/2024/stage-7,TRUYMAN bart,46,7,0,243,19
-race/tour-de-france/2024/stage-7,VAN BROECK Gunther,69,7,0,287,11
-race/tour-de-france/2024/stage-7,VAN DAMME Hubert,48,7,0,174,40
-race/tour-de-france/2024/stage-7,VAN DAMME Kelly,37,7,0,223,31
-race/tour-de-france/2024/stage-7,VAN LAECKE Kristiaan,47,7,0,196,38
-race/tour-de-france/2024/stage-7,VAN ORDEN Thomas,32,7,0,156,44
-race/tour-de-france/2024/stage-7,VAN RAEMDONCK Dirk,35,7,0,237,25
-race/tour-de-france/2024/stage-7,VAN RAEMDONCK Hilde,59,7,0,273,12
-race/tour-de-france/2024/stage-7,VAN RAEMDONCK Katrien,38,7,0,250,17
-race/tour-de-france/2024/stage-7,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,35,7,0,240,23
-race/tour-de-france/2024/stage-7,VERELST Thomas,44,7,0,294,10
-race/tour-de-france/2024/stage-7,VERSTRAETEN Jens,35,7,0,228,27
-race/tour-de-france/2024/stage-7,VERSTRAETEN Wanne,53,7,0,267,14
-race/tour-de-france/2024/stage-7,WITTEMANS tine,47,7,0,219,32
-race/tour-de-france/2024/stage-8,69 G-Motmans,27,8,0,347,4
-race/tour-de-france/2024/stage-8,AUDENAERT Tim,17,8,0,346,5
-race/tour-de-france/2024/stage-8,AUDENAERT Zoë,15,8,0,282,17
-race/tour-de-france/2024/stage-8,BOSMAN Vivienne,7,8,0,234,35
-race/tour-de-france/2024/stage-8,DE BEN Yentel,42,8,0,354,3
-race/tour-de-france/2024/stage-8,DE BLANGER Clovis,16,8,10,345,7
-race/tour-de-france/2024/stage-8,DE JONGHE Romy,10,8,0,167,44
-race/tour-de-france/2024/stage-8,DE MAEYER Laurens,70,8,0,390,1
-race/tour-de-france/2024/stage-8,DE MAEYER peter,35,8,0,199,39
-race/tour-de-france/2024/stage-8,DE MEULENAER Dries,35,8,0,277,19
-race/tour-de-france/2024/stage-8,DE MEULENAER Flor,23,8,0,236,34
-race/tour-de-france/2024/stage-8,DE MEULENAER Siel,30,8,0,333,10
-race/tour-de-france/2024/stage-8,DE RYCKE Andreas,35,8,0,270,22
-race/tour-de-france/2024/stage-8,DECLEYRE Michiel,35,8,0,198,40
-race/tour-de-france/2024/stage-8,DECLEYRE Simon,35,8,0,233,36
-race/tour-de-france/2024/stage-8,GOOSSENS Inneke,36,8,0,339,8
-race/tour-de-france/2024/stage-8,JANSSENS Robert,26,8,0,267,26
-race/tour-de-france/2024/stage-8,KEBAB Rate My,7,8,0,155,45
-race/tour-de-france/2024/stage-8,MAES Junot,18,8,0,346,6
-race/tour-de-france/2024/stage-8,PARMENTIER Darwin,34,8,0,232,37
-race/tour-de-france/2024/stage-8,RELAES Damiaan,39,8,0,253,33
-race/tour-de-france/2024/stage-8,RELAES Francis,30,8,0,268,24
-race/tour-de-france/2024/stage-8,RELAES Jacob,35,8,0,260,27
-race/tour-de-france/2024/stage-8,RELAES Joris,10,8,0,260,28
-race/tour-de-france/2024/stage-8,SCHELDEMAN Kwinte,8,8,0,188,42
-race/tour-de-france/2024/stage-8,SEGERS Thomas,29,8,0,272,21
-race/tour-de-france/2024/stage-8,SMET Arno,40,8,0,336,9
-race/tour-de-france/2024/stage-8,SMET Bart,28,8,0,254,31
-race/tour-de-france/2024/stage-8,SMET Jos,61,8,0,303,12
-race/tour-de-france/2024/stage-8,SMET Katleen,31,8,0,291,13
-race/tour-de-france/2024/stage-8,SMET Nona,49,8,0,260,29
-race/tour-de-france/2024/stage-8,TRUYMAN bart,27,8,0,270,23
-race/tour-de-france/2024/stage-8,VAN BROECK Gunther,44,8,0,331,11
-race/tour-de-france/2024/stage-8,VAN DAMME Hubert,9,8,0,183,43
-race/tour-de-france/2024/stage-8,VAN DAMME Kelly,37,8,0,260,30
-race/tour-de-france/2024/stage-8,VAN LAECKE Kristiaan,35,8,0,231,38
-race/tour-de-france/2024/stage-8,VAN ORDEN Thomas,34,8,0,190,41
-race/tour-de-france/2024/stage-8,VAN RAEMDONCK Dirk,40,8,0,277,20
-race/tour-de-france/2024/stage-8,VAN RAEMDONCK Hilde,16,8,0,289,14
-race/tour-de-france/2024/stage-8,VAN RAEMDONCK Katrien,34,8,0,284,16
-race/tour-de-france/2024/stage-8,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,28,8,0,268,25
-race/tour-de-france/2024/stage-8,VERELST Thomas,68,8,0,362,2
-race/tour-de-france/2024/stage-8,VERSTRAETEN Jens,60,8,0,288,15
-race/tour-de-france/2024/stage-8,VERSTRAETEN Wanne,12,8,0,279,18
-race/tour-de-france/2024/stage-8,WITTEMANS tine,35,8,0,254,32
-race/tour-de-france/2024/stage-9,69 G-Motmans,7,9,0,354,10
-race/tour-de-france/2024/stage-9,AUDENAERT Tim,15,9,0,361,8
-race/tour-de-france/2024/stage-9,AUDENAERT Zoë,19,9,0,301,19
-race/tour-de-france/2024/stage-9,BOSMAN Vivienne,13,9,0,247,36
-race/tour-de-france/2024/stage-9,DE BEN Yentel,16,9,0,370,5
-race/tour-de-france/2024/stage-9,DE BLANGER Clovis,14,9,10,359,9
-race/tour-de-france/2024/stage-9,DE JONGHE Romy,10,9,0,177,45
-race/tour-de-france/2024/stage-9,DE MAEYER Laurens,19,9,0,409,1
-race/tour-de-france/2024/stage-9,DE MAEYER peter,10,9,0,209,40
-race/tour-de-france/2024/stage-9,DE MEULENAER Dries,28,9,0,305,17
-race/tour-de-france/2024/stage-9,DE MEULENAER Flor,3,9,0,239,38
-race/tour-de-france/2024/stage-9,DE MEULENAER Siel,10,9,0,343,11
-race/tour-de-france/2024/stage-9,DE RYCKE Andreas,10,9,0,280,27
-race/tour-de-france/2024/stage-9,DECLEYRE Michiel,10,9,0,208,41
-race/tour-de-france/2024/stage-9,DECLEYRE Simon,10,9,0,243,37
-race/tour-de-france/2024/stage-9,GOOSSENS Inneke,26,9,0,365,6
-race/tour-de-france/2024/stage-9,JANSSENS Robert,12,9,0,279,28
-race/tour-de-france/2024/stage-9,KEBAB Rate My,32,9,0,187,44
-race/tour-de-france/2024/stage-9,MAES Junot,16,9,0,362,7
-race/tour-de-france/2024/stage-9,PARMENTIER Darwin,21,9,0,253,35
-race/tour-de-france/2024/stage-9,RELAES Damiaan,24,9,0,277,29
-race/tour-de-france/2024/stage-9,RELAES Francis,30,9,0,298,21
-race/tour-de-france/2024/stage-9,RELAES Jacob,12,9,0,272,31
-race/tour-de-france/2024/stage-9,RELAES Joris,59,9,0,319,14
-race/tour-de-france/2024/stage-9,SCHELDEMAN Kwinte,8,9,0,196,43
-race/tour-de-france/2024/stage-9,SEGERS Thomas,29,9,0,301,20
-race/tour-de-france/2024/stage-9,SMET Arno,48,9,0,384,2
-race/tour-de-france/2024/stage-9,SMET Bart,30,9,0,284,24
-race/tour-de-france/2024/stage-9,SMET Jos,10,9,0,313,16
-race/tour-de-france/2024/stage-9,SMET Katleen,41,9,0,332,12
-race/tour-de-france/2024/stage-9,SMET Nona,22,9,0,282,26
-race/tour-de-france/2024/stage-9,TRUYMAN bart,13,9,0,283,25
-race/tour-de-france/2024/stage-9,VAN BROECK Gunther,40,9,0,371,4
-race/tour-de-france/2024/stage-9,VAN DAMME Hubert,15,9,0,198,42
-race/tour-de-france/2024/stage-9,VAN DAMME Kelly,12,9,0,272,32
-race/tour-de-france/2024/stage-9,VAN LAECKE Kristiaan,35,9,0,266,33
-race/tour-de-france/2024/stage-9,VAN ORDEN Thomas,29,9,0,219,39
-race/tour-de-france/2024/stage-9,VAN RAEMDONCK Dirk,20,9,0,297,22
-race/tour-de-france/2024/stage-9,VAN RAEMDONCK Hilde,26,9,0,315,15
-race/tour-de-france/2024/stage-9,VAN RAEMDONCK Katrien,21,9,0,305,18
-race/tour-de-france/2024/stage-9,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,8,9,0,276,30
-race/tour-de-france/2024/stage-9,VERELST Thomas,17,9,0,379,3
-race/tour-de-france/2024/stage-9,VERSTRAETEN Jens,41,9,0,329,13
-race/tour-de-france/2024/stage-9,VERSTRAETEN Wanne,12,9,0,291,23
-race/tour-de-france/2024/stage-9,WITTEMANS tine,10,9,0,264,34
-race/tour-de-france/2024/stage-10,69 G-Motmans,17,10,0,371,12
-race/tour-de-france/2024/stage-10,AUDENAERT Tim,29,10,0,390,7
-race/tour-de-france/2024/stage-10,AUDENAERT Zoë,29,10,0,330,22
-race/tour-de-france/2024/stage-10,BOSMAN Vivienne,29,10,0,276,37
-race/tour-de-france/2024/stage-10,DE BEN Yentel,51,10,0,421,3
-race/tour-de-france/2024/stage-10,DE BLANGER Clovis,14,10,10,373,11
-race/tour-de-france/2024/stage-10,DE JONGHE Romy,10,10,0,187,45
-race/tour-de-france/2024/stage-10,DE MAEYER Laurens,94,10,0,503,1
-race/tour-de-france/2024/stage-10,DE MAEYER peter,40,10,0,249,40
-race/tour-de-france/2024/stage-10,DE MEULENAER Dries,54,10,0,359,14
-race/tour-de-france/2024/stage-10,DE MEULENAER Flor,17,10,0,256,39
-race/tour-de-france/2024/stage-10,DE MEULENAER Siel,34,10,0,377,10
-race/tour-de-france/2024/stage-10,DE RYCKE Andreas,60,10,0,340,21
-race/tour-de-france/2024/stage-10,DECLEYRE Michiel,40,10,0,248,41
-race/tour-de-france/2024/stage-10,DECLEYRE Simon,46,10,0,289,36
-race/tour-de-france/2024/stage-10,GOOSSENS Inneke,14,10,0,379,9
-race/tour-de-france/2024/stage-10,JANSSENS Robert,32,10,0,311,31
-race/tour-de-france/2024/stage-10,KEBAB Rate My,13,10,0,200,44
-race/tour-de-france/2024/stage-10,MAES Junot,30,10,0,392,6
-race/tour-de-france/2024/stage-10,PARMENTIER Darwin,63,10,0,316,26
-race/tour-de-france/2024/stage-10,RELAES Damiaan,40,10,0,317,25
-race/tour-de-france/2024/stage-10,RELAES Francis,10,10,0,308,32
-race/tour-de-france/2024/stage-10,RELAES Jacob,50,10,0,322,24
-race/tour-de-france/2024/stage-10,RELAES Joris,22,10,0,341,19
-race/tour-de-france/2024/stage-10,SCHELDEMAN Kwinte,8,10,0,204,43
-race/tour-de-france/2024/stage-10,SEGERS Thomas,15,10,0,316,27
-race/tour-de-france/2024/stage-10,SMET Arno,24,10,0,408,4
-race/tour-de-france/2024/stage-10,SMET Bart,8,10,0,292,35
-race/tour-de-france/2024/stage-10,SMET Jos,75,10,0,388,8
-race/tour-de-france/2024/stage-10,SMET Katleen,21,10,0,353,17
-race/tour-de-france/2024/stage-10,SMET Nona,74,10,0,356,16
-race/tour-de-france/2024/stage-10,TRUYMAN bart,21,10,0,304,33
-race/tour-de-france/2024/stage-10,VAN BROECK Gunther,35,10,0,406,5
-race/tour-de-france/2024/stage-10,VAN DAMME Hubert,31,10,0,229,42
-race/tour-de-france/2024/stage-10,VAN DAMME Kelly,56,10,0,328,23
-race/tour-de-france/2024/stage-10,VAN LAECKE Kristiaan,46,10,0,312,30
-race/tour-de-france/2024/stage-10,VAN ORDEN Thomas,39,10,0,258,38
-race/tour-de-france/2024/stage-10,VAN RAEMDONCK Dirk,49,10,0,346,18
-race/tour-de-france/2024/stage-10,VAN RAEMDONCK Hilde,26,10,0,341,20
-race/tour-de-france/2024/stage-10,VAN RAEMDONCK Katrien,53,10,0,358,15
-race/tour-de-france/2024/stage-10,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,22,10,0,298,34
-race/tour-de-france/2024/stage-10,VERELST Thomas,88,10,0,467,2
-race/tour-de-france/2024/stage-10,VERSTRAETEN Jens,35,10,0,364,13
-race/tour-de-france/2024/stage-10,VERSTRAETEN Wanne,22,10,0,313,29
-race/tour-de-france/2024/stage-10,WITTEMANS tine,50,10,0,314,28
-race/tour-de-france/2024/stage-11,69 G-Motmans,47,11,0,418,11
-race/tour-de-france/2024/stage-11,AUDENAERT Tim,60,11,0,450,7
-race/tour-de-france/2024/stage-11,AUDENAERT Zoë,59,11,0,389,20
-race/tour-de-france/2024/stage-11,BOSMAN Vivienne,47,11,0,323,37
-race/tour-de-france/2024/stage-11,DE BEN Yentel,69,11,0,490,3
-race/tour-de-france/2024/stage-11,DE BLANGER Clovis,77,11,10,450,8
-race/tour-de-france/2024/stage-11,DE JONGHE Romy,74,11,0,261,43
-race/tour-de-france/2024/stage-11,DE MAEYER Laurens,47,11,0,550,1
-race/tour-de-france/2024/stage-11,DE MAEYER peter,51,11,0,300,41
-race/tour-de-france/2024/stage-11,DE MEULENAER Dries,41,11,0,400,15
-race/tour-de-france/2024/stage-11,DE MEULENAER Flor,61,11,0,317,38
-race/tour-de-france/2024/stage-11,DE MEULENAER Siel,70,11,0,447,9
-race/tour-de-france/2024/stage-11,DE RYCKE Andreas,43,11,0,383,25
-race/tour-de-france/2024/stage-11,DECLEYRE Michiel,63,11,0,311,39
-race/tour-de-france/2024/stage-11,DECLEYRE Simon,61,11,0,350,33
-race/tour-de-france/2024/stage-11,GOOSSENS Inneke,59,11,0,438,10
-race/tour-de-france/2024/stage-11,JANSSENS Robert,75,11,0,386,22
-race/tour-de-france/2024/stage-11,KEBAB Rate My,33,11,0,233,45
-race/tour-de-france/2024/stage-11,MAES Junot,90,11,0,482,4
-race/tour-de-france/2024/stage-11,PARMENTIER Darwin,35,11,0,351,32
-race/tour-de-france/2024/stage-11,RELAES Damiaan,53,11,0,370,29
-race/tour-de-france/2024/stage-11,RELAES Francis,74,11,0,382,26
-race/tour-de-france/2024/stage-11,RELAES Jacob,51,11,0,373,28
-race/tour-de-france/2024/stage-11,RELAES Joris,27,11,0,368,30
-race/tour-de-france/2024/stage-11,SCHELDEMAN Kwinte,49,11,0,253,44
-race/tour-de-france/2024/stage-11,SEGERS Thomas,68,11,0,384,24
-race/tour-de-france/2024/stage-11,SMET Arno,65,11,0,473,5
-race/tour-de-france/2024/stage-11,SMET Bart,53,11,0,345,34
-race/tour-de-france/2024/stage-11,SMET Jos,25,11,0,413,13
-race/tour-de-france/2024/stage-11,SMET Katleen,43,11,0,396,18
-race/tour-de-france/2024/stage-11,SMET Nona,43,11,0,399,16
-race/tour-de-france/2024/stage-11,TRUYMAN bart,35,11,0,339,35
-race/tour-de-france/2024/stage-11,VAN BROECK Gunther,64,11,0,470,6
-race/tour-de-france/2024/stage-11,VAN DAMME Hubert,66,11,0,295,42
-race/tour-de-france/2024/stage-11,VAN DAMME Kelly,60,11,0,388,21
-race/tour-de-france/2024/stage-11,VAN LAECKE Kristiaan,53,11,0,365,31
-race/tour-de-france/2024/stage-11,VAN ORDEN Thomas,47,11,0,305,40
-race/tour-de-france/2024/stage-11,VAN RAEMDONCK Dirk,36,11,0,382,27
-race/tour-de-france/2024/stage-11,VAN RAEMDONCK Hilde,73,11,0,414,12
-race/tour-de-france/2024/stage-11,VAN RAEMDONCK Katrien,35,11,0,393,19
-race/tour-de-france/2024/stage-11,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,41,11,0,339,36
-race/tour-de-france/2024/stage-11,VERELST Thomas,56,11,0,523,2
-race/tour-de-france/2024/stage-11,VERSTRAETEN Jens,38,11,0,402,14
-race/tour-de-france/2024/stage-11,VERSTRAETEN Wanne,85,11,0,398,17
-race/tour-de-france/2024/stage-11,WITTEMANS tine,71,11,0,385,23
-race/tour-de-france/2024/stage-12,69 G-Motmans,42,12,0,460,13
-race/tour-de-france/2024/stage-12,AUDENAERT Tim,40,12,0,490,8
-race/tour-de-france/2024/stage-12,AUDENAERT Zoë,39,12,0,428,23
-race/tour-de-france/2024/stage-12,BOSMAN Vivienne,33,12,0,356,38
-race/tour-de-france/2024/stage-12,DE BEN Yentel,69,12,0,559,3
-race/tour-de-france/2024/stage-12,DE BLANGER Clovis,26,12,10,476,10
-race/tour-de-france/2024/stage-12,DE JONGHE Romy,13,12,0,274,43
-race/tour-de-france/2024/stage-12,DE MAEYER Laurens,85,12,0,635,1
-race/tour-de-france/2024/stage-12,DE MAEYER peter,32,12,0,332,40
-race/tour-de-france/2024/stage-12,DE MEULENAER Dries,51,12,0,451,17
-race/tour-de-france/2024/stage-12,DE MEULENAER Flor,42,12,0,359,37
-race/tour-de-france/2024/stage-12,DE MEULENAER Siel,48,12,0,495,7
-race/tour-de-france/2024/stage-12,DE RYCKE Andreas,59,12,0,442,20
-race/tour-de-france/2024/stage-12,DECLEYRE Michiel,32,12,0,343,39
-race/tour-de-france/2024/stage-12,DECLEYRE Simon,34,12,0,384,34
-race/tour-de-france/2024/stage-12,GOOSSENS Inneke,32,12,0,470,11
-race/tour-de-france/2024/stage-12,JANSSENS Robert,34,12,0,420,25
-race/tour-de-france/2024/stage-12,KEBAB Rate My,16,12,0,249,45
-race/tour-de-france/2024/stage-12,MAES Junot,42,12,0,524,4
-race/tour-de-france/2024/stage-12,PARMENTIER Darwin,49,12,0,400,28
-race/tour-de-france/2024/stage-12,RELAES Damiaan,26,12,0,396,32
-race/tour-de-france/2024/stage-12,RELAES Francis,31,12,0,413,27
-race/tour-de-france/2024/stage-12,RELAES Jacob,26,12,0,399,30
-race/tour-de-france/2024/stage-12,RELAES Joris,32,12,0,400,29
-race/tour-de-france/2024/stage-12,SCHELDEMAN Kwinte,10,12,0,263,44
-race/tour-de-france/2024/stage-12,SEGERS Thomas,47,12,0,431,22
-race/tour-de-france/2024/stage-12,SMET Arno,34,12,0,507,6
-race/tour-de-france/2024/stage-12,SMET Bart,22,12,0,367,36
-race/tour-de-france/2024/stage-12,SMET Jos,76,12,0,489,9
-race/tour-de-france/2024/stage-12,SMET Katleen,45,12,0,441,21
-race/tour-de-france/2024/stage-12,SMET Nona,71,12,0,470,12
-race/tour-de-france/2024/stage-12,TRUYMAN bart,45,12,0,384,35
-race/tour-de-france/2024/stage-12,VAN BROECK Gunther,41,12,0,511,5
-race/tour-de-france/2024/stage-12,VAN DAMME Hubert,36,12,0,331,41
-race/tour-de-france/2024/stage-12,VAN DAMME Kelly,58,12,0,446,19
-race/tour-de-france/2024/stage-12,VAN LAECKE Kristiaan,34,12,0,399,31
-race/tour-de-france/2024/stage-12,VAN ORDEN Thomas,24,12,0,329,42
-race/tour-de-france/2024/stage-12,VAN RAEMDONCK Dirk,66,12,0,448,18
-race/tour-de-france/2024/stage-12,VAN RAEMDONCK Hilde,39,12,0,453,15
-race/tour-de-france/2024/stage-12,VAN RAEMDONCK Katrien,59,12,0,452,16
-race/tour-de-france/2024/stage-12,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,47,12,0,386,33
-race/tour-de-france/2024/stage-12,VERELST Thomas,92,12,0,615,2
-race/tour-de-france/2024/stage-12,VERSTRAETEN Jens,53,12,0,455,14
-race/tour-de-france/2024/stage-12,VERSTRAETEN Wanne,20,12,0,418,26
-race/tour-de-france/2024/stage-12,WITTEMANS tine,36,12,0,421,24
-race/tour-de-france/2024/stage-13,69 G-Motmans,12,13,0,472,22
-race/tour-de-france/2024/stage-13,AUDENAERT Tim,43,13,0,533,10
-race/tour-de-france/2024/stage-13,AUDENAERT Zoë,53,13,0,481,20
-race/tour-de-france/2024/stage-13,BOSMAN Vivienne,47,13,0,403,36
-race/tour-de-france/2024/stage-13,DE BEN Yentel,57,13,0,616,3
-race/tour-de-france/2024/stage-13,DE BLANGER Clovis,23,13,10,499,16
-race/tour-de-france/2024/stage-13,DE JONGHE Romy,17,13,0,291,43
-race/tour-de-france/2024/stage-13,DE MAEYER Laurens,88,13,0,723,1
-race/tour-de-france/2024/stage-13,DE MAEYER peter,53,13,0,385,39
-race/tour-de-france/2024/stage-13,DE MEULENAER Dries,82,13,0,533,11
-race/tour-de-france/2024/stage-13,DE MEULENAER Flor,30,13,0,389,38
-race/tour-de-france/2024/stage-13,DE MEULENAER Siel,40,13,0,535,8
-race/tour-de-france/2024/stage-13,DE RYCKE Andreas,71,13,0,513,14
-race/tour-de-france/2024/stage-13,DECLEYRE Michiel,53,13,0,396,37
-race/tour-de-france/2024/stage-13,DECLEYRE Simon,47,13,0,431,33
-race/tour-de-france/2024/stage-13,GOOSSENS Inneke,25,13,0,495,18
-race/tour-de-france/2024/stage-13,JANSSENS Robert,37,13,0,457,25
-race/tour-de-france/2024/stage-13,KEBAB Rate My,12,13,0,261,45
-race/tour-de-france/2024/stage-13,MAES Junot,46,13,0,570,4
-race/tour-de-france/2024/stage-13,PARMENTIER Darwin,70,13,0,470,23
-race/tour-de-france/2024/stage-13,RELAES Damiaan,47,13,0,443,29
-race/tour-de-france/2024/stage-13,RELAES Francis,24,13,0,437,32
-race/tour-de-france/2024/stage-13,RELAES Jacob,47,13,0,446,27
-race/tour-de-france/2024/stage-13,RELAES Joris,42,13,0,442,30
-race/tour-de-france/2024/stage-13,SCHELDEMAN Kwinte,14,13,0,277,44
-race/tour-de-france/2024/stage-13,SEGERS Thomas,21,13,0,452,26
-race/tour-de-france/2024/stage-13,SMET Arno,27,13,0,534,9
-race/tour-de-france/2024/stage-13,SMET Bart,15,13,0,382,40
-race/tour-de-france/2024/stage-13,SMET Jos,77,13,0,566,5
-race/tour-de-france/2024/stage-13,SMET Katleen,38,13,0,479,21
-race/tour-de-france/2024/stage-13,SMET Nona,91,13,0,561,6
-race/tour-de-france/2024/stage-13,TRUYMAN bart,47,13,0,431,34
-race/tour-de-france/2024/stage-13,VAN BROECK Gunther,30,13,0,541,7
-race/tour-de-france/2024/stage-13,VAN DAMME Hubert,50,13,0,381,41
-race/tour-de-france/2024/stage-13,VAN DAMME Kelly,77,13,0,523,12
-race/tour-de-france/2024/stage-13,VAN LAECKE Kristiaan,47,13,0,446,28
-race/tour-de-france/2024/stage-13,VAN ORDEN Thomas,44,13,0,373,42
-race/tour-de-france/2024/stage-13,VAN RAEMDONCK Dirk,64,13,0,512,15
-race/tour-de-france/2024/stage-13,VAN RAEMDONCK Hilde,43,13,0,496,17
-race/tour-de-france/2024/stage-13,VAN RAEMDONCK Katrien,69,13,0,521,13
-race/tour-de-france/2024/stage-13,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,39,13,0,425,35
-race/tour-de-france/2024/stage-13,VERELST Thomas,89,13,0,704,2
-race/tour-de-france/2024/stage-13,VERSTRAETEN Jens,29,13,0,484,19
-race/tour-de-france/2024/stage-13,VERSTRAETEN Wanne,23,13,0,441,31
-race/tour-de-france/2024/stage-13,WITTEMANS tine,47,13,0,468,24
-race/tour-de-france/2024/stage-14,69 G-Motmans,56,14,0,528,26
-race/tour-de-france/2024/stage-14,AUDENAERT Tim,63,14,0,596,9
-race/tour-de-france/2024/stage-14,AUDENAERT Zoë,63,14,0,544,21
-race/tour-de-france/2024/stage-14,BOSMAN Vivienne,38,14,0,441,41
-race/tour-de-france/2024/stage-14,DE BEN Yentel,71,14,0,687,3
-race/tour-de-france/2024/stage-14,DE BLANGER Clovis,96,14,10,595,10
-race/tour-de-france/2024/stage-14,DE JONGHE Romy,90,14,0,381,43
-race/tour-de-france/2024/stage-14,DE MAEYER Laurens,65,14,0,788,2
-race/tour-de-france/2024/stage-14,DE MAEYER peter,76,14,0,461,37
-race/tour-de-france/2024/stage-14,DE MEULENAER Dries,61,14,0,594,11
-race/tour-de-france/2024/stage-14,DE MEULENAER Flor,58,14,0,447,39
-race/tour-de-france/2024/stage-14,DE MEULENAER Siel,79,14,0,614,7
-race/tour-de-france/2024/stage-14,DE RYCKE Andreas,62,14,0,575,15
-race/tour-de-france/2024/stage-14,DECLEYRE Michiel,98,14,0,494,33
-race/tour-de-france/2024/stage-14,DECLEYRE Simon,75,14,0,506,32
-race/tour-de-france/2024/stage-14,GOOSSENS Inneke,69,14,0,564,16
-race/tour-de-france/2024/stage-14,JANSSENS Robert,90,14,0,547,20
-race/tour-de-france/2024/stage-14,KEBAB Rate My,38,14,0,299,45
-race/tour-de-france/2024/stage-14,MAES Junot,102,14,0,672,4
-race/tour-de-france/2024/stage-14,PARMENTIER Darwin,45,14,0,515,29
-race/tour-de-france/2024/stage-14,RELAES Damiaan,73,14,0,516,28
-race/tour-de-france/2024/stage-14,RELAES Francis,98,14,0,535,23
-race/tour-de-france/2024/stage-14,RELAES Jacob,61,14,0,507,31
-race/tour-de-france/2024/stage-14,RELAES Joris,32,14,0,474,36
-race/tour-de-france/2024/stage-14,SCHELDEMAN Kwinte,68,14,0,345,44
-race/tour-de-france/2024/stage-14,SEGERS Thomas,77,14,0,529,25
-race/tour-de-france/2024/stage-14,SMET Arno,87,14,0,621,6
-race/tour-de-france/2024/stage-14,SMET Bart,61,14,0,443,40
-race/tour-de-france/2024/stage-14,SMET Jos,26,14,0,592,12
-race/tour-de-france/2024/stage-14,SMET Katleen,45,14,0,524,27
-race/tour-de-france/2024/stage-14,SMET Nona,62,14,0,623,5
-race/tour-de-france/2024/stage-14,TRUYMAN bart,44,14,0,475,35
-race/tour-de-france/2024/stage-14,VAN BROECK Gunther,64,14,0,605,8
-race/tour-de-france/2024/stage-14,VAN DAMME Hubert,68,14,0,449,38
-race/tour-de-france/2024/stage-14,VAN DAMME Kelly,69,14,0,592,13
-race/tour-de-france/2024/stage-14,VAN LAECKE Kristiaan,67,14,0,513,30
-race/tour-de-france/2024/stage-14,VAN ORDEN Thomas,64,14,0,437,42
-race/tour-de-france/2024/stage-14,VAN RAEMDONCK Dirk,41,14,0,553,18
-race/tour-de-france/2024/stage-14,VAN RAEMDONCK Hilde,89,14,0,585,14
-race/tour-de-france/2024/stage-14,VAN RAEMDONCK Katrien,40,14,0,561,17
-race/tour-de-france/2024/stage-14,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,60,14,0,485,34
-race/tour-de-france/2024/stage-14,VERELST Thomas,86,14,0,790,1
-race/tour-de-france/2024/stage-14,VERSTRAETEN Jens,47,14,0,531,24
-race/tour-de-france/2024/stage-14,VERSTRAETEN Wanne,97,14,0,538,22
-race/tour-de-france/2024/stage-14,WITTEMANS tine,81,14,0,549,19
-race/tour-de-france/2024/stage-15,69 G-Motmans,44,15,0,572,29
-race/tour-de-france/2024/stage-15,AUDENAERT Tim,64,15,0,660,10
-race/tour-de-france/2024/stage-15,AUDENAERT Zoë,64,15,0,608,21
-race/tour-de-france/2024/stage-15,BOSMAN Vivienne,38,15,0,479,42
-race/tour-de-france/2024/stage-15,DE BEN Yentel,71,15,0,758,3
-race/tour-de-france/2024/stage-15,DE BLANGER Clovis,76,15,10,671,8
-race/tour-de-france/2024/stage-15,DE JONGHE Romy,78,15,0,459,43
-race/tour-de-france/2024/stage-15,DE MAEYER Laurens,57,15,0,845,2
-race/tour-de-france/2024/stage-15,DE MAEYER peter,65,15,0,526,35
-race/tour-de-france/2024/stage-15,DE MEULENAER Dries,48,15,0,642,13
-race/tour-de-france/2024/stage-15,DE MEULENAER Flor,54,15,0,501,38
-race/tour-de-france/2024/stage-15,DE MEULENAER Siel,68,15,0,682,6
-race/tour-de-france/2024/stage-15,DE RYCKE Andreas,50,15,0,625,16
-race/tour-de-france/2024/stage-15,DECLEYRE Michiel,70,15,0,564,31
-race/tour-de-france/2024/stage-15,DECLEYRE Simon,76,15,0,582,25
-race/tour-de-france/2024/stage-15,GOOSSENS Inneke,65,15,0,629,14
-race/tour-de-france/2024/stage-15,JANSSENS Robert,82,15,0,629,15
-race/tour-de-france/2024/stage-15,KEBAB Rate My,38,15,0,337,45
-race/tour-de-france/2024/stage-15,MAES Junot,86,15,0,758,4
-race/tour-de-france/2024/stage-15,PARMENTIER Darwin,40,15,0,555,33
-race/tour-de-france/2024/stage-15,RELAES Damiaan,48,15,0,564,32
-race/tour-de-france/2024/stage-15,RELAES Francis,79,15,0,614,19
-race/tour-de-france/2024/stage-15,RELAES Jacob,64,15,0,571,30
-race/tour-de-france/2024/stage-15,RELAES Joris,26,15,0,500,39
-race/tour-de-france/2024/stage-15,SCHELDEMAN Kwinte,58,15,0,403,44
-race/tour-de-france/2024/stage-15,SEGERS Thomas,71,15,0,600,23
-race/tour-de-france/2024/stage-15,SMET Arno,77,15,0,698,5
-race/tour-de-france/2024/stage-15,SMET Bart,46,15,0,489,40
-race/tour-de-france/2024/stage-15,SMET Jos,17,15,0,609,20
-race/tour-de-france/2024/stage-15,SMET Katleen,50,15,0,574,27
-race/tour-de-france/2024/stage-15,SMET Nona,50,15,0,673,7
-race/tour-de-france/2024/stage-15,TRUYMAN bart,40,15,0,515,37
-race/tour-de-france/2024/stage-15,VAN BROECK Gunther,43,15,0,648,12
-race/tour-de-france/2024/stage-15,VAN DAMME Hubert,68,15,0,517,36
-race/tour-de-france/2024/stage-15,VAN DAMME Kelly,63,15,0,655,11
-race/tour-de-france/2024/stage-15,VAN LAECKE Kristiaan,62,15,0,575,26
-race/tour-de-france/2024/stage-15,VAN ORDEN Thomas,49,15,0,486,41
-race/tour-de-france/2024/stage-15,VAN RAEMDONCK Dirk,45,15,0,598,24
-race/tour-de-france/2024/stage-15,VAN RAEMDONCK Hilde,76,15,0,661,9
-race/tour-de-france/2024/stage-15,VAN RAEMDONCK Katrien,40,15,0,601,22
-race/tour-de-france/2024/stage-15,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,52,15,0,537,34
-race/tour-de-france/2024/stage-15,VERELST Thomas,60,15,0,850,1
-race/tour-de-france/2024/stage-15,VERSTRAETEN Jens,43,15,0,574,28
-race/tour-de-france/2024/stage-15,VERSTRAETEN Wanne,81,15,0,619,17
-race/tour-de-france/2024/stage-15,WITTEMANS tine,70,15,0,619,18
-race/tour-de-france/2024/stage-16,69 G-Motmans,53,16,0,625,27
-race/tour-de-france/2024/stage-16,AUDENAERT Tim,26,16,0,686,14
-race/tour-de-france/2024/stage-16,AUDENAERT Zoë,26,16,0,634,25
-race/tour-de-france/2024/stage-16,BOSMAN Vivienne,22,16,0,501,41
-race/tour-de-france/2024/stage-16,DE BEN Yentel,28,16,0,786,3
-race/tour-de-france/2024/stage-16,DE BLANGER Clovis,42,16,10,713,9
-race/tour-de-france/2024/stage-16,DE JONGHE Romy,15,16,0,474,43
-race/tour-de-france/2024/stage-16,DE MAEYER Laurens,71,16,0,916,2
-race/tour-de-france/2024/stage-16,DE MAEYER peter,51,16,0,577,34
-race/tour-de-france/2024/stage-16,DE MEULENAER Dries,54,16,0,696,11
-race/tour-de-france/2024/stage-16,DE MEULENAER Flor,19,16,0,520,39
-race/tour-de-france/2024/stage-16,DE MEULENAER Siel,36,16,0,718,7
-race/tour-de-france/2024/stage-16,DE RYCKE Andreas,81,16,0,706,10
-race/tour-de-france/2024/stage-16,DECLEYRE Michiel,52,16,0,616,30
-race/tour-de-france/2024/stage-16,DECLEYRE Simon,67,16,0,649,22
-race/tour-de-france/2024/stage-16,GOOSSENS Inneke,25,16,0,654,20
-race/tour-de-france/2024/stage-16,JANSSENS Robert,25,16,0,654,21
-race/tour-de-france/2024/stage-16,KEBAB Rate My,33,16,0,370,45
-race/tour-de-france/2024/stage-16,MAES Junot,28,16,0,786,4
-race/tour-de-france/2024/stage-16,PARMENTIER Darwin,66,16,0,621,28
-race/tour-de-france/2024/stage-16,RELAES Damiaan,42,16,0,606,31
-race/tour-de-france/2024/stage-16,RELAES Francis,24,16,0,638,24
-race/tour-de-france/2024/stage-16,RELAES Jacob,56,16,0,627,26
-race/tour-de-france/2024/stage-16,RELAES Joris,18,16,0,518,40
-race/tour-de-france/2024/stage-16,SCHELDEMAN Kwinte,10,16,0,413,44
-race/tour-de-france/2024/stage-16,SEGERS Thomas,67,16,0,667,16
-race/tour-de-france/2024/stage-16,SMET Arno,39,16,0,737,5
-race/tour-de-france/2024/stage-16,SMET Bart,10,16,0,499,42
-race/tour-de-france/2024/stage-16,SMET Jos,49,16,0,658,18
-race/tour-de-france/2024/stage-16,SMET Katleen,20,16,0,594,32
-race/tour-de-france/2024/stage-16,SMET Nona,64,16,0,737,6
-race/tour-de-france/2024/stage-16,TRUYMAN bart,20,16,0,535,37
-race/tour-de-france/2024/stage-16,VAN BROECK Gunther,11,16,0,659,17
-race/tour-de-france/2024/stage-16,VAN DAMME Hubert,25,16,0,542,36
-race/tour-de-france/2024/stage-16,VAN DAMME Kelly,63,16,0,718,8
-race/tour-de-france/2024/stage-16,VAN LAECKE Kristiaan,67,16,0,642,23
-race/tour-de-france/2024/stage-16,VAN ORDEN Thomas,41,16,0,527,38
-race/tour-de-france/2024/stage-16,VAN RAEMDONCK Dirk,23,16,0,621,29
-race/tour-de-france/2024/stage-16,VAN RAEMDONCK Hilde,27,16,0,688,13
-race/tour-de-france/2024/stage-16,VAN RAEMDONCK Katrien,72,16,0,673,15
-race/tour-de-france/2024/stage-16,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,22,16,0,559,35
-race/tour-de-france/2024/stage-16,VERELST Thomas,83,16,0,933,1
-race/tour-de-france/2024/stage-16,VERSTRAETEN Jens,11,16,0,585,33
-race/tour-de-france/2024/stage-16,VERSTRAETEN Wanne,38,16,0,657,19
-race/tour-de-france/2024/stage-16,WITTEMANS tine,76,16,0,695,12
-race/tour-de-france/2024/stage-17,69 G-Motmans,44,17,0,669,26
-race/tour-de-france/2024/stage-17,AUDENAERT Tim,34,17,0,720,12
-race/tour-de-france/2024/stage-17,AUDENAERT Zoë,14,17,0,648,29
-race/tour-de-france/2024/stage-17,BOSMAN Vivienne,8,17,0,509,42
-race/tour-de-france/2024/stage-17,DE BEN Yentel,16,17,0,802,3
-race/tour-de-france/2024/stage-17,DE BLANGER Clovis,46,17,10,759,6
-race/tour-de-france/2024/stage-17,DE JONGHE Romy,15,17,0,489,43
-race/tour-de-france/2024/stage-17,DE MAEYER Laurens,65,17,0,981,1
-race/tour-de-france/2024/stage-17,DE MAEYER peter,68,17,0,645,30
-race/tour-de-france/2024/stage-17,DE MEULENAER Dries,12,17,0,708,14
-race/tour-de-france/2024/stage-17,DE MEULENAER Flor,51,17,0,571,37
-race/tour-de-france/2024/stage-17,DE MEULENAER Siel,10,17,0,728,10
-race/tour-de-france/2024/stage-17,DE RYCKE Andreas,12,17,0,718,13
-race/tour-de-france/2024/stage-17,DECLEYRE Michiel,59,17,0,675,23
-race/tour-de-france/2024/stage-17,DECLEYRE Simon,87,17,0,736,8
-race/tour-de-france/2024/stage-17,GOOSSENS Inneke,21,17,0,675,24
-race/tour-de-france/2024/stage-17,JANSSENS Robert,70,17,0,724,11
-race/tour-de-france/2024/stage-17,KEBAB Rate My,20,17,0,390,45
-race/tour-de-france/2024/stage-17,MAES Junot,16,17,0,802,4
-race/tour-de-france/2024/stage-17,PARMENTIER Darwin,10,17,0,631,33
-race/tour-de-france/2024/stage-17,RELAES Damiaan,39,17,0,645,31
-race/tour-de-france/2024/stage-17,RELAES Francis,41,17,0,679,22
-race/tour-de-france/2024/stage-17,RELAES Jacob,67,17,0,694,20
-race/tour-de-france/2024/stage-17,RELAES Joris,18,17,0,536,40
-race/tour-de-france/2024/stage-17,SCHELDEMAN Kwinte,10,17,0,423,44
-race/tour-de-france/2024/stage-17,SEGERS Thomas,26,17,0,693,21
-race/tour-de-france/2024/stage-17,SMET Arno,49,17,0,786,5
-race/tour-de-france/2024/stage-17,SMET Bart,30,17,0,529,41
-race/tour-de-france/2024/stage-17,SMET Jos,37,17,0,695,19
-race/tour-de-france/2024/stage-17,SMET Katleen,10,17,0,604,34
-race/tour-de-france/2024/stage-17,SMET Nona,12,17,0,749,7
-race/tour-de-france/2024/stage-17,TRUYMAN bart,8,17,0,543,39
-race/tour-de-france/2024/stage-17,VAN BROECK Gunther,13,17,0,672,25
-race/tour-de-france/2024/stage-17,VAN DAMME Hubert,13,17,0,555,38
-race/tour-de-france/2024/stage-17,VAN DAMME Kelly,13,17,0,731,9
-race/tour-de-france/2024/stage-17,VAN LAECKE Kristiaan,12,17,0,654,28
-race/tour-de-france/2024/stage-17,VAN ORDEN Thomas,56,17,0,583,36
-race/tour-de-france/2024/stage-17,VAN RAEMDONCK Dirk,41,17,0,662,27
-race/tour-de-france/2024/stage-17,VAN RAEMDONCK Hilde,17,17,0,705,17
-race/tour-de-france/2024/stage-17,VAN RAEMDONCK Katrien,35,17,0,708,15
-race/tour-de-france/2024/stage-17,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,73,17,0,632,32
-race/tour-de-france/2024/stage-17,VERELST Thomas,16,17,0,949,2
-race/tour-de-france/2024/stage-17,VERSTRAETEN Jens,11,17,0,596,35
-race/tour-de-france/2024/stage-17,VERSTRAETEN Wanne,46,17,0,703,18
-race/tour-de-france/2024/stage-17,WITTEMANS tine,12,17,0,707,16
-race/tour-de-france/2024/stage-18,69 G-Motmans,8,18,0,677,26
-race/tour-de-france/2024/stage-18,AUDENAERT Tim,24,18,0,744,12
-race/tour-de-france/2024/stage-18,AUDENAERT Zoë,18,18,0,666,30
-race/tour-de-france/2024/stage-18,BOSMAN Vivienne,12,18,0,521,42
-race/tour-de-france/2024/stage-18,DE BEN Yentel,38,18,0,840,3
-race/tour-de-france/2024/stage-18,DE BLANGER Clovis,16,18,10,775,7
-race/tour-de-france/2024/stage-18,DE JONGHE Romy,15,18,0,504,43
-race/tour-de-france/2024/stage-18,DE MAEYER Laurens,25,18,0,1006,1
-race/tour-de-france/2024/stage-18,DE MAEYER peter,25,18,0,670,29
-race/tour-de-france/2024/stage-18,DE MEULENAER Dries,22,18,0,730,14
-race/tour-de-france/2024/stage-18,DE MEULENAER Flor,17,18,0,588,39
-race/tour-de-france/2024/stage-18,DE MEULENAER Siel,14,18,0,742,13
-race/tour-de-france/2024/stage-18,DE RYCKE Andreas,28,18,0,746,10
-race/tour-de-france/2024/stage-18,DECLEYRE Michiel,14,18,0,689,24
-race/tour-de-france/2024/stage-18,DECLEYRE Simon,12,18,0,748,8
-race/tour-de-france/2024/stage-18,GOOSSENS Inneke,15,18,0,690,23
-race/tour-de-france/2024/stage-18,JANSSENS Robert,21,18,0,745,11
-race/tour-de-france/2024/stage-18,KEBAB Rate My,42,18,0,432,45
-race/tour-de-france/2024/stage-18,MAES Junot,20,18,0,822,4
-race/tour-de-france/2024/stage-18,PARMENTIER Darwin,34,18,0,665,31
-race/tour-de-france/2024/stage-18,RELAES Damiaan,12,18,0,657,32
-race/tour-de-france/2024/stage-18,RELAES Francis,16,18,0,695,22
-race/tour-de-france/2024/stage-18,RELAES Jacob,14,18,0,708,19
-race/tour-de-france/2024/stage-18,RELAES Joris,10,18,0,546,41
-race/tour-de-france/2024/stage-18,SCHELDEMAN Kwinte,10,18,0,433,44
-race/tour-de-france/2024/stage-18,SEGERS Thomas,14,18,0,707,20
-race/tour-de-france/2024/stage-18,SMET Arno,17,18,0,803,5
-race/tour-de-france/2024/stage-18,SMET Bart,24,18,0,553,40
-race/tour-de-france/2024/stage-18,SMET Jos,11,18,0,706,21
-race/tour-de-france/2024/stage-18,SMET Katleen,12,18,0,616,34
-race/tour-de-france/2024/stage-18,SMET Nona,36,18,0,785,6
-race/tour-de-france/2024/stage-18,TRUYMAN bart,54,18,0,597,37
-race/tour-de-france/2024/stage-18,VAN BROECK Gunther,11,18,0,683,25
-race/tour-de-france/2024/stage-18,VAN DAMME Hubert,37,18,0,592,38
-race/tour-de-france/2024/stage-18,VAN DAMME Kelly,17,18,0,748,9
-race/tour-de-france/2024/stage-18,VAN LAECKE Kristiaan,18,18,0,672,28
-race/tour-de-france/2024/stage-18,VAN ORDEN Thomas,23,18,0,606,36
-race/tour-de-france/2024/stage-18,VAN RAEMDONCK Dirk,15,18,0,677,27
-race/tour-de-france/2024/stage-18,VAN RAEMDONCK Hilde,19,18,0,724,15
-race/tour-de-france/2024/stage-18,VAN RAEMDONCK Katrien,14,18,0,722,16
-race/tour-de-france/2024/stage-18,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,14,18,0,646,33
-race/tour-de-france/2024/stage-18,VERELST Thomas,32,18,0,981,2
-race/tour-de-france/2024/stage-18,VERSTRAETEN Jens,13,18,0,609,35
-race/tour-de-france/2024/stage-18,VERSTRAETEN Wanne,16,18,0,719,17
-race/tour-de-france/2024/stage-18,WITTEMANS tine,12,18,0,719,18
-race/tour-de-france/2024/stage-19,69 G-Motmans,54,19,0,731,30
-race/tour-de-france/2024/stage-19,AUDENAERT Tim,54,19,0,798,13
-race/tour-de-france/2024/stage-19,AUDENAERT Zoë,54,19,0,720,33
-race/tour-de-france/2024/stage-19,BOSMAN Vivienne,37,19,0,558,42
-race/tour-de-france/2024/stage-19,DE BEN Yentel,54,19,0,894,5
-race/tour-de-france/2024/stage-19,DE BLANGER Clovis,99,19,10,874,6
-race/tour-de-france/2024/stage-19,DE JONGHE Romy,53,19,0,557,43
-race/tour-de-france/2024/stage-19,DE MAEYER Laurens,61,19,0,1067,1
-race/tour-de-france/2024/stage-19,DE MAEYER peter,105,19,0,775,22
-race/tour-de-france/2024/stage-19,DE MEULENAER Dries,67,19,0,797,14
-race/tour-de-france/2024/stage-19,DE MEULENAER Flor,41,19,0,629,39
-race/tour-de-france/2024/stage-19,DE MEULENAER Siel,73,19,0,815,11
-race/tour-de-france/2024/stage-19,DE RYCKE Andreas,41,19,0,787,19
-race/tour-de-france/2024/stage-19,DECLEYRE Michiel,88,19,0,777,21
-race/tour-de-france/2024/stage-19,DECLEYRE Simon,112,19,0,860,7
-race/tour-de-france/2024/stage-19,GOOSSENS Inneke,81,19,0,771,23
-race/tour-de-france/2024/stage-19,JANSSENS Robert,90,19,0,835,8
-race/tour-de-france/2024/stage-19,KEBAB Rate My,37,19,0,469,45
-race/tour-de-france/2024/stage-19,MAES Junot,90,19,0,912,3
-race/tour-de-france/2024/stage-19,PARMENTIER Darwin,65,19,0,730,31
-race/tour-de-france/2024/stage-19,RELAES Damiaan,87,19,0,744,28
-race/tour-de-france/2024/stage-19,RELAES Francis,102,19,0,797,15
-race/tour-de-france/2024/stage-19,RELAES Jacob,112,19,0,820,10
-race/tour-de-france/2024/stage-19,RELAES Joris,45,19,0,591,41
-race/tour-de-france/2024/stage-19,SCHELDEMAN Kwinte,39,19,0,472,44
-race/tour-de-france/2024/stage-19,SEGERS Thomas,54,19,0,761,24
-race/tour-de-france/2024/stage-19,SMET Arno,102,19,0,905,4
-race/tour-de-france/2024/stage-19,SMET Bart,67,19,0,620,40
-race/tour-de-france/2024/stage-19,SMET Jos,50,19,0,756,25
-race/tour-de-france/2024/stage-19,SMET Katleen,73,19,0,689,34
-race/tour-de-france/2024/stage-19,SMET Nona,41,19,0,826,9
-race/tour-de-france/2024/stage-19,TRUYMAN bart,37,19,0,634,38
-race/tour-de-france/2024/stage-19,VAN BROECK Gunther,66,19,0,749,26
-race/tour-de-france/2024/stage-19,VAN DAMME Hubert,51,19,0,643,37
-race/tour-de-france/2024/stage-19,VAN DAMME Kelly,48,19,0,796,16
-race/tour-de-france/2024/stage-19,VAN LAECKE Kristiaan,75,19,0,747,27
-race/tour-de-france/2024/stage-19,VAN ORDEN Thomas,61,19,0,667,35
-race/tour-de-france/2024/stage-19,VAN RAEMDONCK Dirk,57,19,0,734,29
-race/tour-de-france/2024/stage-19,VAN RAEMDONCK Hilde,79,19,0,803,12
-race/tour-de-france/2024/stage-19,VAN RAEMDONCK Katrien,59,19,0,781,20
-race/tour-de-france/2024/stage-19,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,76,19,0,722,32
-race/tour-de-france/2024/stage-19,VERELST Thomas,70,19,0,1051,2
-race/tour-de-france/2024/stage-19,VERSTRAETEN Jens,40,19,0,649,36
-race/tour-de-france/2024/stage-19,VERSTRAETEN Wanne,71,19,0,790,18
-race/tour-de-france/2024/stage-19,WITTEMANS tine,75,19,0,794,17
-race/tour-de-france/2024/stage-20,69 G-Motmans,62,20,0,793,30
-race/tour-de-france/2024/stage-20,AUDENAERT Tim,68,20,0,866,15
-race/tour-de-france/2024/stage-20,AUDENAERT Zoë,56,20,0,776,33
-race/tour-de-france/2024/stage-20,BOSMAN Vivienne,39,20,0,597,43
-race/tour-de-france/2024/stage-20,DE BEN Yentel,69,20,0,963,6
-race/tour-de-france/2024/stage-20,DE BLANGER Clovis,90,20,10,964,5
-race/tour-de-france/2024/stage-20,DE JONGHE Romy,68,20,0,625,41
-race/tour-de-france/2024/stage-20,DE MAEYER Laurens,79,20,0,1146,1
-race/tour-de-france/2024/stage-20,DE MAEYER peter,78,20,0,853,17
-race/tour-de-france/2024/stage-20,DE MEULENAER Dries,50,20,0,847,18
-race/tour-de-france/2024/stage-20,DE MEULENAER Flor,64,20,0,693,37
-race/tour-de-france/2024/stage-20,DE MEULENAER Siel,62,20,0,877,12
-race/tour-de-france/2024/stage-20,DE RYCKE Andreas,41,20,0,828,22
-race/tour-de-france/2024/stage-20,DECLEYRE Michiel,67,20,0,844,19
-race/tour-de-france/2024/stage-20,DECLEYRE Simon,99,20,0,959,7
-race/tour-de-france/2024/stage-20,GOOSSENS Inneke,66,20,0,837,21
-race/tour-de-france/2024/stage-20,JANSSENS Robert,91,20,0,926,8
-race/tour-de-france/2024/stage-20,KEBAB Rate My,37,20,0,506,45
-race/tour-de-france/2024/stage-20,MAES Junot,77,20,0,989,4
-race/tour-de-france/2024/stage-20,PARMENTIER Darwin,48,20,0,778,32
-race/tour-de-france/2024/stage-20,RELAES Damiaan,50,20,0,794,29
-race/tour-de-france/2024/stage-20,RELAES Francis,78,20,0,875,13
-race/tour-de-france/2024/stage-20,RELAES Jacob,83,20,0,903,9
-race/tour-de-france/2024/stage-20,RELAES Joris,28,20,0,619,42
-race/tour-de-france/2024/stage-20,SCHELDEMAN Kwinte,43,20,0,515,44
-race/tour-de-france/2024/stage-20,SEGERS Thomas,67,20,0,828,23
-race/tour-de-france/2024/stage-20,SMET Arno,91,20,0,996,3
-race/tour-de-france/2024/stage-20,SMET Bart,60,20,0,680,39
-race/tour-de-france/2024/stage-20,SMET Jos,39,20,0,795,28
-race/tour-de-france/2024/stage-20,SMET Katleen,56,20,0,745,34
-race/tour-de-france/2024/stage-20,SMET Nona,41,20,0,867,14
-race/tour-de-france/2024/stage-20,TRUYMAN bart,37,20,0,671,40
-race/tour-de-france/2024/stage-20,VAN BROECK Gunther,49,20,0,798,26
-race/tour-de-france/2024/stage-20,VAN DAMME Hubert,66,20,0,709,36
-race/tour-de-france/2024/stage-20,VAN DAMME Kelly,48,20,0,844,20
-race/tour-de-france/2024/stage-20,VAN LAECKE Kristiaan,60,20,0,807,25
-race/tour-de-france/2024/stage-20,VAN ORDEN Thomas,51,20,0,718,35
-race/tour-de-france/2024/stage-20,VAN RAEMDONCK Dirk,63,20,0,797,27
-race/tour-de-france/2024/stage-20,VAN RAEMDONCK Hilde,77,20,0,880,11
-race/tour-de-france/2024/stage-20,VAN RAEMDONCK Katrien,39,20,0,820,24
-race/tour-de-france/2024/stage-20,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,62,20,0,784,31
-race/tour-de-france/2024/stage-20,VERELST Thomas,53,20,0,1104,2
-race/tour-de-france/2024/stage-20,VERSTRAETEN Jens,40,20,0,689,38
-race/tour-de-france/2024/stage-20,VERSTRAETEN Wanne,92,20,0,882,10
-race/tour-de-france/2024/stage-20,WITTEMANS tine,64,20,0,858,16
-race/tour-de-france/2024/stage-21,69 G-Motmans,301,21,0,1094,34
-race/tour-de-france/2024/stage-21,AUDENAERT Tim,356,21,0,1222,24
-race/tour-de-france/2024/stage-21,AUDENAERT Zoë,310,21,0,1086,35
-race/tour-de-france/2024/stage-21,BOSMAN Vivienne,165,21,0,762,44
-race/tour-de-france/2024/stage-21,DE BEN Yentel,354,21,0,1317,17
-race/tour-de-france/2024/stage-21,DE BLANGER Clovis,598,21,10,1562,6
-race/tour-de-france/2024/stage-21,DE JONGHE Romy,407,21,0,1032,38
-race/tour-de-france/2024/stage-21,DE MAEYER Laurens,464,21,0,1610,5
-race/tour-de-france/2024/stage-21,DE MAEYER peter,595,21,0,1448,11
-race/tour-de-france/2024/stage-21,DE MEULENAER Dries,403,21,0,1250,21
-race/tour-de-france/2024/stage-21,DE MEULENAER Flor,450,21,0,1143,29
-race/tour-de-france/2024/stage-21,DE MEULENAER Siel,531,21,0,1408,13
-race/tour-de-france/2024/stage-21,DE RYCKE Andreas,318,21,0,1146,28
-race/tour-de-france/2024/stage-21,DECLEYRE Michiel,648,21,0,1492,7
-race/tour-de-france/2024/stage-21,DECLEYRE Simon,679,21,0,1638,1
-race/tour-de-france/2024/stage-21,GOOSSENS Inneke,429,21,0,1266,18
-race/tour-de-france/2024/stage-21,JANSSENS Robert,533,21,0,1459,10
-race/tour-de-france/2024/stage-21,KEBAB Rate My,165,21,0,671,45
-race/tour-de-france/2024/stage-21,MAES Junot,646,21,0,1635,2
-race/tour-de-france/2024/stage-21,PARMENTIER Darwin,294,21,0,1072,36
-race/tour-de-france/2024/stage-21,RELAES Damiaan,453,21,0,1247,22
-race/tour-de-france/2024/stage-21,RELAES Francis,617,21,0,1492,8
-race/tour-de-france/2024/stage-21,RELAES Jacob,563,21,0,1466,9
-race/tour-de-france/2024/stage-21,RELAES Joris,299,21,0,918,41
-race/tour-de-france/2024/stage-21,SCHELDEMAN Kwinte,344,21,0,859,43
-race/tour-de-france/2024/stage-21,SEGERS Thomas,425,21,0,1253,20
-race/tour-de-france/2024/stage-21,SMET Arno,635,21,0,1631,3
-race/tour-de-france/2024/stage-21,SMET Bart,426,21,0,1106,32
-race/tour-de-france/2024/stage-21,SMET Jos,348,21,0,1143,30
-race/tour-de-france/2024/stage-21,SMET Katleen,429,21,0,1174,25
-race/tour-de-france/2024/stage-21,SMET Nona,356,21,0,1223,23
-race/tour-de-france/2024/stage-21,TRUYMAN bart,225,21,0,896,42
-race/tour-de-france/2024/stage-21,VAN BROECK Gunther,374,21,0,1172,26
-race/tour-de-france/2024/stage-21,VAN DAMME Hubert,290,21,0,999,39
-race/tour-de-france/2024/stage-21,VAN DAMME Kelly,411,21,0,1255,19
-race/tour-de-france/2024/stage-21,VAN LAECKE Kristiaan,517,21,0,1324,16
-race/tour-de-france/2024/stage-21,VAN ORDEN Thomas,405,21,0,1123,31
-race/tour-de-france/2024/stage-21,VAN RAEMDONCK Dirk,299,21,0,1096,33
-race/tour-de-france/2024/stage-21,VAN RAEMDONCK Hilde,474,21,0,1354,15
-race/tour-de-france/2024/stage-21,VAN RAEMDONCK Katrien,231,21,0,1051,37
-race/tour-de-france/2024/stage-21,VAN RAEMDONCK-VANDENBROUCKE Ann en Sofia,384,21,0,1168,27
-race/tour-de-france/2024/stage-21,VERELST Thomas,516,21,0,1620,4
-race/tour-de-france/2024/stage-21,VERSTRAETEN Jens,237,21,0,926,40
-race/tour-de-france/2024/stage-21,VERSTRAETEN Wanne,499,21,0,1381,14
-race/tour-de-france/2024/stage-21,WITTEMANS tine,561,21,0,1419,12
+race/tour-de-france/2025/stage-1,* G-motmans69,0,1,0,0,35
+race/tour-de-france/2025/stage-1,DE BLANGER Clovis,6,1,0,6,20
+race/tour-de-france/2025/stage-1,DE MAEYER Laurens,39,1,0,39,7
+race/tour-de-france/2025/stage-1,DE MAEYER peter,6,1,0,6,21
+race/tour-de-france/2025/stage-1,DE MEULENAER Dries,33,1,0,33,12
+race/tour-de-france/2025/stage-1,DE MEULENAER Flor,33,1,0,33,13
+race/tour-de-france/2025/stage-1,DE MEULENAER Siel,6,1,0,6,22
+race/tour-de-france/2025/stage-1,DE RYCKE Andreas,44,1,0,44,2
+race/tour-de-france/2025/stage-1,DECLEYRE Michiel,6,1,0,6,23
+race/tour-de-france/2025/stage-1,DECLEYRE Simon,39,1,0,39,8
+race/tour-de-france/2025/stage-1,GOOSSENS Inneke,0,1,0,0,36
+race/tour-de-france/2025/stage-1,JANSSENS Robert,33,1,0,33,14
+race/tour-de-france/2025/stage-1,LEROY Sandra,12,1,0,12,19
+race/tour-de-france/2025/stage-1,RATING Kebab,24,1,0,24,16
+race/tour-de-france/2025/stage-1,RELAES Damiaan,44,1,0,44,3
+race/tour-de-france/2025/stage-1,RELAES Francis,21,1,0,21,18
+race/tour-de-france/2025/stage-1,RELAES Jacob,0,1,0,0,37
+race/tour-de-france/2025/stage-1,RELAES Joris,6,1,0,6,24
+race/tour-de-france/2025/stage-1,RELAES Lucie,40,1,0,40,6
+race/tour-de-france/2025/stage-1,RELAES Matteo,6,1,0,6,25
+race/tour-de-france/2025/stage-1,ROOMS Ben,44,1,0,44,4
+race/tour-de-france/2025/stage-1,SEGERS Thomas,62,1,0,62,1
+race/tour-de-france/2025/stage-1,SMET Arno,44,1,0,44,5
+race/tour-de-france/2025/stage-1,SMET Bart,6,1,0,6,26
+race/tour-de-france/2025/stage-1,SMET Katleen,0,1,0,0,38
+race/tour-de-france/2025/stage-1,TAS Alex,-40,1,40,-40,42
+race/tour-de-france/2025/stage-1,VAN BROECK Gunther,6,1,0,6,27
+race/tour-de-france/2025/stage-1,VAN DAMME Hubert,-14,1,20,-14,40
+race/tour-de-france/2025/stage-1,VAN DAMME Kelly,6,1,0,6,28
+race/tour-de-france/2025/stage-1,VAN GOETHEM Guy,38,1,0,38,10
+race/tour-de-france/2025/stage-1,VAN LAECKE Kristiaan,6,1,0,6,29
+race/tour-de-france/2025/stage-1,VAN PUYMBROECK Bert,-60,1,60,-60,43
+race/tour-de-france/2025/stage-1,VAN PUYMBROECK Bram,-24,1,30,-24,41
+race/tour-de-france/2025/stage-1,VAN RAEMDONCK Dirk,33,1,0,33,15
+race/tour-de-france/2025/stage-1,VAN RAEMDONCK Hilde,6,1,0,6,30
+race/tour-de-france/2025/stage-1,VAN RAEMDONCK Katrien,39,1,0,39,9
+race/tour-de-france/2025/stage-1,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,6,1,0,6,31
+race/tour-de-france/2025/stage-1,VERELST Thomas,6,1,0,6,32
+race/tour-de-france/2025/stage-1,VERHULST Harry,38,1,0,38,11
+race/tour-de-france/2025/stage-1,VERSTRAETEN Jens,24,1,0,24,17
+race/tour-de-france/2025/stage-1,VERSTRAETEN Wanne,6,1,0,6,33
+race/tour-de-france/2025/stage-1,WAUTERS Stefaan,0,1,0,0,39
+race/tour-de-france/2025/stage-1,WITTEMANS Tine,6,1,0,6,34
+race/tour-de-france/2025/stage-2,* G-motmans69,43,2,0,43,28
+race/tour-de-france/2025/stage-2,DE BLANGER Clovis,31,2,0,37,32
+race/tour-de-france/2025/stage-2,DE MAEYER Laurens,43,2,0,82,8
+race/tour-de-france/2025/stage-2,DE MAEYER peter,41,2,0,47,25
+race/tour-de-france/2025/stage-2,DE MEULENAER Dries,2,2,0,35,35
+race/tour-de-france/2025/stage-2,DE MEULENAER Flor,42,2,0,75,14
+race/tour-de-france/2025/stage-2,DE MEULENAER Siel,52,2,0,58,22
+race/tour-de-france/2025/stage-2,DE RYCKE Andreas,53,2,0,97,4
+race/tour-de-france/2025/stage-2,DECLEYRE Michiel,50,2,0,56,23
+race/tour-de-france/2025/stage-2,DECLEYRE Simon,34,2,0,73,16
+race/tour-de-france/2025/stage-2,GOOSSENS Inneke,40,2,0,40,30
+race/tour-de-france/2025/stage-2,JANSSENS Robert,43,2,0,76,13
+race/tour-de-france/2025/stage-2,LEROY Sandra,69,2,0,81,10
+race/tour-de-france/2025/stage-2,RATING Kebab,10,2,0,34,36
+race/tour-de-france/2025/stage-2,RELAES Damiaan,67,2,0,111,1
+race/tour-de-france/2025/stage-2,RELAES Francis,45,2,0,66,18
+race/tour-de-france/2025/stage-2,RELAES Jacob,50,2,0,50,24
+race/tour-de-france/2025/stage-2,RELAES Joris,55,2,0,61,21
+race/tour-de-france/2025/stage-2,RELAES Lucie,49,2,0,89,6
+race/tour-de-france/2025/stage-2,RELAES Matteo,40,2,0,46,27
+race/tour-de-france/2025/stage-2,ROOMS Ben,48,2,0,92,5
+race/tour-de-france/2025/stage-2,SEGERS Thomas,48,2,0,110,3
+race/tour-de-france/2025/stage-2,SMET Arno,67,2,0,111,2
+race/tour-de-france/2025/stage-2,SMET Bart,31,2,0,37,33
+race/tour-de-france/2025/stage-2,SMET Katleen,41,2,0,41,29
+race/tour-de-france/2025/stage-2,TAS Alex,31,2,40,-9,42
+race/tour-de-france/2025/stage-2,VAN BROECK Gunther,77,2,0,83,7
+race/tour-de-france/2025/stage-2,VAN DAMME Hubert,31,2,20,17,39
+race/tour-de-france/2025/stage-2,VAN DAMME Kelly,57,2,0,63,20
+race/tour-de-france/2025/stage-2,VAN GOETHEM Guy,41,2,0,79,12
+race/tour-de-france/2025/stage-2,VAN LAECKE Kristiaan,32,2,0,38,31
+race/tour-de-france/2025/stage-2,VAN PUYMBROECK Bert,31,2,60,-29,43
+race/tour-de-france/2025/stage-2,VAN PUYMBROECK Bram,31,2,30,7,41
+race/tour-de-france/2025/stage-2,VAN RAEMDONCK Dirk,47,2,0,80,11
+race/tour-de-france/2025/stage-2,VAN RAEMDONCK Hilde,13,2,0,19,38
+race/tour-de-france/2025/stage-2,VAN RAEMDONCK Katrien,43,2,0,82,9
+race/tour-de-france/2025/stage-2,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,2,2,0,8,40
+race/tour-de-france/2025/stage-2,VERELST Thomas,69,2,0,75,15
+race/tour-de-france/2025/stage-2,VERHULST Harry,34,2,0,72,17
+race/tour-de-france/2025/stage-2,VERSTRAETEN Jens,41,2,0,65,19
+race/tour-de-france/2025/stage-2,VERSTRAETEN Wanne,41,2,0,47,26
+race/tour-de-france/2025/stage-2,WAUTERS Stefaan,31,2,0,31,37
+race/tour-de-france/2025/stage-2,WITTEMANS Tine,31,2,0,37,34
+race/tour-de-france/2025/stage-3,* G-motmans69,5,3,0,48,34
+race/tour-de-france/2025/stage-3,DE BLANGER Clovis,11,3,0,48,35
+race/tour-de-france/2025/stage-3,DE MAEYER Laurens,26,3,0,108,7
+race/tour-de-france/2025/stage-3,DE MAEYER peter,6,3,0,53,32
+race/tour-de-france/2025/stage-3,DE MEULENAER Dries,43,3,0,78,22
+race/tour-de-france/2025/stage-3,DE MEULENAER Flor,26,3,0,101,9
+race/tour-de-france/2025/stage-3,DE MEULENAER Siel,8,3,0,66,26
+race/tour-de-france/2025/stage-3,DE RYCKE Andreas,9,3,0,106,8
+race/tour-de-france/2025/stage-3,DECLEYRE Michiel,9,3,0,65,27
+race/tour-de-france/2025/stage-3,DECLEYRE Simon,17,3,0,90,16
+race/tour-de-france/2025/stage-3,GOOSSENS Inneke,47,3,0,87,17
+race/tour-de-france/2025/stage-3,JANSSENS Robert,18,3,0,94,12
+race/tour-de-france/2025/stage-3,LEROY Sandra,10,3,0,91,15
+race/tour-de-france/2025/stage-3,RATING Kebab,16,3,0,50,33
+race/tour-de-france/2025/stage-3,RELAES Damiaan,9,3,0,120,3
+race/tour-de-france/2025/stage-3,RELAES Francis,13,3,0,79,21
+race/tour-de-france/2025/stage-3,RELAES Jacob,9,3,0,59,29
+race/tour-de-france/2025/stage-3,RELAES Joris,9,3,0,70,24
+race/tour-de-france/2025/stage-3,RELAES Lucie,5,3,0,94,13
+race/tour-de-france/2025/stage-3,RELAES Matteo,8,3,0,54,30
+race/tour-de-france/2025/stage-3,ROOMS Ben,8,3,0,100,10
+race/tour-de-france/2025/stage-3,SEGERS Thomas,22,3,0,132,1
+race/tour-de-france/2025/stage-3,SMET Arno,9,3,0,120,4
+race/tour-de-france/2025/stage-3,SMET Bart,41,3,0,78,23
+race/tour-de-france/2025/stage-3,SMET Katleen,6,3,0,47,36
+race/tour-de-france/2025/stage-3,TAS Alex,5,3,40,-4,42
+race/tour-de-france/2025/stage-3,VAN BROECK Gunther,11,3,0,94,14
+race/tour-de-france/2025/stage-3,VAN DAMME Hubert,5,3,20,22,40
+race/tour-de-france/2025/stage-3,VAN DAMME Kelly,6,3,0,69,25
+race/tour-de-france/2025/stage-3,VAN GOETHEM Guy,8,3,0,87,18
+race/tour-de-france/2025/stage-3,VAN LAECKE Kristiaan,5,3,0,43,37
+race/tour-de-france/2025/stage-3,VAN PUYMBROECK Bert,5,3,60,-24,43
+race/tour-de-france/2025/stage-3,VAN PUYMBROECK Bram,5,3,30,12,41
+race/tour-de-france/2025/stage-3,VAN RAEMDONCK Dirk,20,3,0,100,11
+race/tour-de-france/2025/stage-3,VAN RAEMDONCK Hilde,35,3,0,54,31
+race/tour-de-france/2025/stage-3,VAN RAEMDONCK Katrien,49,3,0,131,2
+race/tour-de-france/2025/stage-3,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,34,3,0,42,38
+race/tour-de-france/2025/stage-3,VERELST Thomas,40,3,0,115,5
+race/tour-de-france/2025/stage-3,VERHULST Harry,11,3,0,83,19
+race/tour-de-france/2025/stage-3,VERSTRAETEN Jens,48,3,0,113,6
+race/tour-de-france/2025/stage-3,VERSTRAETEN Wanne,36,3,0,83,20
+race/tour-de-france/2025/stage-3,WAUTERS Stefaan,5,3,0,36,39
+race/tour-de-france/2025/stage-3,WITTEMANS Tine,27,3,0,64,28
+race/tour-de-france/2025/stage-4,* G-motmans69,45,4,0,93,34
+race/tour-de-france/2025/stage-4,DE BLANGER Clovis,61,4,0,109,31
+race/tour-de-france/2025/stage-4,DE MAEYER Laurens,63,4,0,171,7
+race/tour-de-france/2025/stage-4,DE MAEYER peter,68,4,0,121,28
+race/tour-de-france/2025/stage-4,DE MEULENAER Dries,11,4,0,89,36
+race/tour-de-france/2025/stage-4,DE MEULENAER Flor,43,4,0,144,16
+race/tour-de-france/2025/stage-4,DE MEULENAER Siel,57,4,0,123,27
+race/tour-de-france/2025/stage-4,DE RYCKE Andreas,63,4,0,169,8
+race/tour-de-france/2025/stage-4,DECLEYRE Michiel,72,4,0,137,20
+race/tour-de-france/2025/stage-4,DECLEYRE Simon,58,4,0,148,14
+race/tour-de-france/2025/stage-4,GOOSSENS Inneke,51,4,0,138,18
+race/tour-de-france/2025/stage-4,JANSSENS Robert,63,4,0,157,12
+race/tour-de-france/2025/stage-4,LEROY Sandra,67,4,0,158,11
+race/tour-de-france/2025/stage-4,RATING Kebab,0,4,0,50,41
+race/tour-de-france/2025/stage-4,RELAES Damiaan,85,4,0,205,1
+race/tour-de-france/2025/stage-4,RELAES Francis,63,4,0,142,17
+race/tour-de-france/2025/stage-4,RELAES Jacob,76,4,0,135,23
+race/tour-de-france/2025/stage-4,RELAES Joris,77,4,0,147,15
+race/tour-de-france/2025/stage-4,RELAES Lucie,44,4,0,138,19
+race/tour-de-france/2025/stage-4,RELAES Matteo,56,4,0,110,30
+race/tour-de-france/2025/stage-4,ROOMS Ben,61,4,0,161,10
+race/tour-de-france/2025/stage-4,SEGERS Thomas,52,4,0,184,6
+race/tour-de-france/2025/stage-4,SMET Arno,85,4,0,205,2
+race/tour-de-france/2025/stage-4,SMET Bart,55,4,0,133,24
+race/tour-de-france/2025/stage-4,SMET Katleen,62,4,0,109,32
+race/tour-de-france/2025/stage-4,TAS Alex,46,4,40,42,42
+race/tour-de-france/2025/stage-4,VAN BROECK Gunther,99,4,0,193,4
+race/tour-de-france/2025/stage-4,VAN DAMME Hubert,51,4,20,73,38
+race/tour-de-france/2025/stage-4,VAN DAMME Kelly,67,4,0,136,22
+race/tour-de-france/2025/stage-4,VAN GOETHEM Guy,33,4,0,120,29
+race/tour-de-france/2025/stage-4,VAN LAECKE Kristiaan,56,4,0,99,33
+race/tour-de-france/2025/stage-4,VAN PUYMBROECK Bert,46,4,60,22,43
+race/tour-de-france/2025/stage-4,VAN PUYMBROECK Bram,42,4,30,54,40
+race/tour-de-france/2025/stage-4,VAN RAEMDONCK Dirk,49,4,0,149,13
+race/tour-de-france/2025/stage-4,VAN RAEMDONCK Hilde,37,4,0,91,35
+race/tour-de-france/2025/stage-4,VAN RAEMDONCK Katrien,60,4,0,191,5
+race/tour-de-france/2025/stage-4,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,17,4,0,59,39
+race/tour-de-france/2025/stage-4,VERELST Thomas,89,4,0,204,3
+race/tour-de-france/2025/stage-4,VERHULST Harry,46,4,0,129,25
+race/tour-de-france/2025/stage-4,VERSTRAETEN Jens,55,4,0,168,9
+race/tour-de-france/2025/stage-4,VERSTRAETEN Wanne,54,4,0,137,21
+race/tour-de-france/2025/stage-4,WAUTERS Stefaan,45,4,0,81,37
+race/tour-de-france/2025/stage-4,WITTEMANS Tine,61,4,0,125,26
+race/tour-de-france/2025/stage-5,* G-motmans69,72,5,0,165,31
+race/tour-de-france/2025/stage-5,DE BLANGER Clovis,89,5,0,198,25
+race/tour-de-france/2025/stage-5,DE MAEYER Laurens,70,5,0,241,5
+race/tour-de-france/2025/stage-5,DE MAEYER peter,53,5,0,174,30
+race/tour-de-france/2025/stage-5,DE MEULENAER Dries,37,5,0,126,37
+race/tour-de-france/2025/stage-5,DE MEULENAER Flor,64,5,0,208,18
+race/tour-de-france/2025/stage-5,DE MEULENAER Siel,83,5,0,206,21
+race/tour-de-france/2025/stage-5,DE RYCKE Andreas,71,5,0,240,6
+race/tour-de-france/2025/stage-5,DECLEYRE Michiel,99,5,0,236,10
+race/tour-de-france/2025/stage-5,DECLEYRE Simon,54,5,0,202,22
+race/tour-de-france/2025/stage-5,GOOSSENS Inneke,69,5,0,207,20
+race/tour-de-france/2025/stage-5,JANSSENS Robert,75,5,0,232,11
+race/tour-de-france/2025/stage-5,LEROY Sandra,36,5,0,194,27
+race/tour-de-france/2025/stage-5,RATING Kebab,0,5,0,50,43
+race/tour-de-france/2025/stage-5,RELAES Damiaan,69,5,0,274,1
+race/tour-de-france/2025/stage-5,RELAES Francis,72,5,0,214,16
+race/tour-de-france/2025/stage-5,RELAES Jacob,105,5,0,240,7
+race/tour-de-france/2025/stage-5,RELAES Joris,69,5,0,216,15
+race/tour-de-france/2025/stage-5,RELAES Lucie,17,5,0,155,32
+race/tour-de-france/2025/stage-5,RELAES Matteo,88,5,0,198,26
+race/tour-de-france/2025/stage-5,ROOMS Ben,69,5,0,230,12
+race/tour-de-france/2025/stage-5,SEGERS Thomas,55,5,0,239,8
+race/tour-de-france/2025/stage-5,SMET Arno,69,5,0,274,2
+race/tour-de-france/2025/stage-5,SMET Bart,55,5,0,188,28
+race/tour-de-france/2025/stage-5,SMET Katleen,42,5,0,151,35
+race/tour-de-france/2025/stage-5,TAS Alex,42,5,40,84,41
+race/tour-de-france/2025/stage-5,VAN BROECK Gunther,61,5,0,254,4
+race/tour-de-france/2025/stage-5,VAN DAMME Hubert,80,5,20,153,33
+race/tour-de-france/2025/stage-5,VAN DAMME Kelly,72,5,0,208,19
+race/tour-de-france/2025/stage-5,VAN GOETHEM Guy,2,5,0,122,38
+race/tour-de-france/2025/stage-5,VAN LAECKE Kristiaan,87,5,0,186,29
+race/tour-de-france/2025/stage-5,VAN PUYMBROECK Bert,53,5,60,75,42
+race/tour-de-france/2025/stage-5,VAN PUYMBROECK Bram,36,5,30,90,40
+race/tour-de-france/2025/stage-5,VAN RAEMDONCK Dirk,75,5,0,224,14
+race/tour-de-france/2025/stage-5,VAN RAEMDONCK Hilde,49,5,0,140,36
+race/tour-de-france/2025/stage-5,VAN RAEMDONCK Katrien,48,5,0,239,9
+race/tour-de-france/2025/stage-5,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,38,5,0,97,39
+race/tour-de-france/2025/stage-5,VERELST Thomas,69,5,0,273,3
+race/tour-de-france/2025/stage-5,VERHULST Harry,73,5,0,202,23
+race/tour-de-france/2025/stage-5,VERSTRAETEN Jens,57,5,0,225,13
+race/tour-de-france/2025/stage-5,VERSTRAETEN Wanne,65,5,0,202,24
+race/tour-de-france/2025/stage-5,WAUTERS Stefaan,72,5,0,153,34
+race/tour-de-france/2025/stage-5,WITTEMANS Tine,89,5,0,214,17
+race/tour-de-france/2025/stage-6,* G-motmans69,15,6,0,180,32
+race/tour-de-france/2025/stage-6,DE BLANGER Clovis,15,6,0,213,26
+race/tour-de-france/2025/stage-6,DE MAEYER Laurens,12,6,0,253,9
+race/tour-de-france/2025/stage-6,DE MAEYER peter,10,6,0,184,31
+race/tour-de-france/2025/stage-6,DE MEULENAER Dries,51,6,0,177,34
+race/tour-de-france/2025/stage-6,DE MEULENAER Flor,44,6,0,252,11
+race/tour-de-france/2025/stage-6,DE MEULENAER Siel,12,6,0,218,24
+race/tour-de-france/2025/stage-6,DE RYCKE Andreas,12,6,0,252,12
+race/tour-de-france/2025/stage-6,DECLEYRE Michiel,17,6,0,253,10
+race/tour-de-france/2025/stage-6,DECLEYRE Simon,10,6,0,212,27
+race/tour-de-france/2025/stage-6,GOOSSENS Inneke,69,6,0,276,6
+race/tour-de-france/2025/stage-6,JANSSENS Robert,15,6,0,247,15
+race/tour-de-france/2025/stage-6,LEROY Sandra,35,6,0,229,20
+race/tour-de-france/2025/stage-6,RATING Kebab,0,6,0,50,43
+race/tour-de-france/2025/stage-6,RELAES Damiaan,12,6,0,286,2
+race/tour-de-france/2025/stage-6,RELAES Francis,15,6,0,229,21
+race/tour-de-france/2025/stage-6,RELAES Jacob,17,6,0,257,8
+race/tour-de-france/2025/stage-6,RELAES Joris,20,6,0,236,18
+race/tour-de-france/2025/stage-6,RELAES Lucie,4,6,0,159,36
+race/tour-de-france/2025/stage-6,RELAES Matteo,17,6,0,215,25
+race/tour-de-france/2025/stage-6,ROOMS Ben,20,6,0,250,13
+race/tour-de-france/2025/stage-6,SEGERS Thomas,42,6,0,281,4
+race/tour-de-france/2025/stage-6,SMET Arno,12,6,0,286,3
+race/tour-de-france/2025/stage-6,SMET Bart,45,6,0,233,19
+race/tour-de-france/2025/stage-6,SMET Katleen,42,6,0,193,30
+race/tour-de-france/2025/stage-6,TAS Alex,10,6,40,94,42
+race/tour-de-france/2025/stage-6,VAN BROECK Gunther,23,6,0,277,5
+race/tour-de-france/2025/stage-6,VAN DAMME Hubert,15,6,20,168,35
+race/tour-de-france/2025/stage-6,VAN DAMME Kelly,15,6,0,223,23
+race/tour-de-france/2025/stage-6,VAN GOETHEM Guy,16,6,0,138,38
+race/tour-de-france/2025/stage-6,VAN LAECKE Kristiaan,22,6,0,208,29
+race/tour-de-france/2025/stage-6,VAN PUYMBROECK Bert,42,6,60,117,40
+race/tour-de-france/2025/stage-6,VAN PUYMBROECK Bram,42,6,30,132,39
+race/tour-de-france/2025/stage-6,VAN RAEMDONCK Dirk,18,6,0,242,16
+race/tour-de-france/2025/stage-6,VAN RAEMDONCK Hilde,8,6,0,148,37
+race/tour-de-france/2025/stage-6,VAN RAEMDONCK Katrien,10,6,0,249,14
+race/tour-de-france/2025/stage-6,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,8,6,0,105,41
+race/tour-de-france/2025/stage-6,VERELST Thomas,20,6,0,293,1
+race/tour-de-france/2025/stage-6,VERHULST Harry,10,6,0,212,28
+race/tour-de-france/2025/stage-6,VERSTRAETEN Jens,33,6,0,258,7
+race/tour-de-france/2025/stage-6,VERSTRAETEN Wanne,35,6,0,237,17
+race/tour-de-france/2025/stage-6,WAUTERS Stefaan,27,6,0,180,33
+race/tour-de-france/2025/stage-6,WITTEMANS Tine,15,6,0,229,22
+race/tour-de-france/2025/stage-7,* G-motmans69,56,7,0,236,32
+race/tour-de-france/2025/stage-7,DE BLANGER Clovis,70,7,0,283,25
+race/tour-de-france/2025/stage-7,DE MAEYER Laurens,65,7,0,318,14
+race/tour-de-france/2025/stage-7,DE MAEYER peter,87,7,0,271,26
+race/tour-de-france/2025/stage-7,DE MEULENAER Dries,32,7,0,209,36
+race/tour-de-france/2025/stage-7,DE MEULENAER Flor,54,7,0,306,17
+race/tour-de-france/2025/stage-7,DE MEULENAER Siel,66,7,0,284,24
+race/tour-de-france/2025/stage-7,DE RYCKE Andreas,85,7,0,337,9
+race/tour-de-france/2025/stage-7,DECLEYRE Michiel,115,7,0,368,3
+race/tour-de-france/2025/stage-7,DECLEYRE Simon,55,7,0,267,29
+race/tour-de-france/2025/stage-7,GOOSSENS Inneke,53,7,0,329,10
+race/tour-de-france/2025/stage-7,JANSSENS Robert,92,7,0,339,8
+race/tour-de-france/2025/stage-7,LEROY Sandra,40,7,0,269,27
+race/tour-de-france/2025/stage-7,RATING Kebab,0,7,0,50,43
+race/tour-de-france/2025/stage-7,RELAES Damiaan,85,7,0,371,2
+race/tour-de-france/2025/stage-7,RELAES Francis,68,7,0,297,19
+race/tour-de-france/2025/stage-7,RELAES Jacob,89,7,0,346,6
+race/tour-de-france/2025/stage-7,RELAES Joris,61,7,0,297,20
+race/tour-de-france/2025/stage-7,RELAES Lucie,51,7,0,210,35
+race/tour-de-france/2025/stage-7,RELAES Matteo,80,7,0,295,21
+race/tour-de-france/2025/stage-7,ROOMS Ben,40,7,0,290,22
+race/tour-de-france/2025/stage-7,SEGERS Thomas,62,7,0,343,7
+race/tour-de-france/2025/stage-7,SMET Arno,101,7,0,387,1
+race/tour-de-france/2025/stage-7,SMET Bart,57,7,0,290,23
+race/tour-de-france/2025/stage-7,SMET Katleen,76,7,0,269,28
+race/tour-de-france/2025/stage-7,TAS Alex,40,7,40,134,42
+race/tour-de-france/2025/stage-7,VAN BROECK Gunther,87,7,0,364,4
+race/tour-de-france/2025/stage-7,VAN DAMME Hubert,68,7,20,236,33
+race/tour-de-france/2025/stage-7,VAN DAMME Kelly,103,7,0,326,11
+race/tour-de-france/2025/stage-7,VAN GOETHEM Guy,3,7,0,141,41
+race/tour-de-france/2025/stage-7,VAN LAECKE Kristiaan,54,7,0,262,30
+race/tour-de-france/2025/stage-7,VAN PUYMBROECK Bert,41,7,60,158,39
+race/tour-de-france/2025/stage-7,VAN PUYMBROECK Bram,59,7,30,191,38
+race/tour-de-france/2025/stage-7,VAN RAEMDONCK Dirk,60,7,0,302,18
+race/tour-de-france/2025/stage-7,VAN RAEMDONCK Hilde,52,7,0,200,37
+race/tour-de-france/2025/stage-7,VAN RAEMDONCK Katrien,74,7,0,323,12
+race/tour-de-france/2025/stage-7,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,45,7,0,150,40
+race/tour-de-france/2025/stage-7,VERELST Thomas,61,7,0,354,5
+race/tour-de-france/2025/stage-7,VERHULST Harry,40,7,0,252,31
+race/tour-de-france/2025/stage-7,VERSTRAETEN Jens,63,7,0,321,13
+race/tour-de-france/2025/stage-7,VERSTRAETEN Wanne,80,7,0,317,15
+race/tour-de-france/2025/stage-7,WAUTERS Stefaan,56,7,0,236,34
+race/tour-de-france/2025/stage-7,WITTEMANS Tine,82,7,0,311,16
+race/tour-de-france/2025/stage-8,* G-motmans69,27,8,0,263,32
+race/tour-de-france/2025/stage-8,DE BLANGER Clovis,41,8,0,324,22
+race/tour-de-france/2025/stage-8,DE MAEYER Laurens,36,8,0,354,13
+race/tour-de-france/2025/stage-8,DE MAEYER peter,35,8,0,306,25
+race/tour-de-france/2025/stage-8,DE MEULENAER Dries,33,8,0,242,35
+race/tour-de-france/2025/stage-8,DE MEULENAER Flor,54,8,0,360,11
+race/tour-de-france/2025/stage-8,DE MEULENAER Siel,38,8,0,322,24
+race/tour-de-france/2025/stage-8,DE RYCKE Andreas,14,8,0,351,16
+race/tour-de-france/2025/stage-8,DECLEYRE Michiel,32,8,0,400,2
+race/tour-de-france/2025/stage-8,DECLEYRE Simon,22,8,0,289,28
+race/tour-de-france/2025/stage-8,GOOSSENS Inneke,34,8,0,363,9
+race/tour-de-france/2025/stage-8,JANSSENS Robert,17,8,0,356,12
+race/tour-de-france/2025/stage-8,LEROY Sandra,9,8,0,278,30
+race/tour-de-france/2025/stage-8,RATING Kebab,0,8,0,50,43
+race/tour-de-france/2025/stage-8,RELAES Damiaan,22,8,0,393,3
+race/tour-de-france/2025/stage-8,RELAES Francis,35,8,0,332,20
+race/tour-de-france/2025/stage-8,RELAES Jacob,28,8,0,374,5
+race/tour-de-france/2025/stage-8,RELAES Joris,36,8,0,333,18
+race/tour-de-france/2025/stage-8,RELAES Lucie,4,8,0,214,38
+race/tour-de-france/2025/stage-8,RELAES Matteo,29,8,0,324,23
+race/tour-de-france/2025/stage-8,ROOMS Ben,10,8,0,300,27
+race/tour-de-france/2025/stage-8,SEGERS Thomas,11,8,0,354,14
+race/tour-de-france/2025/stage-8,SMET Arno,14,8,0,401,1
+race/tour-de-france/2025/stage-8,SMET Bart,75,8,0,365,7
+race/tour-de-france/2025/stage-8,SMET Katleen,36,8,0,305,26
+race/tour-de-france/2025/stage-8,TAS Alex,34,8,40,168,41
+race/tour-de-france/2025/stage-8,VAN BROECK Gunther,10,8,0,374,6
+race/tour-de-france/2025/stage-8,VAN DAMME Hubert,15,8,20,251,33
+race/tour-de-france/2025/stage-8,VAN DAMME Kelly,28,8,0,354,15
+race/tour-de-france/2025/stage-8,VAN GOETHEM Guy,15,8,0,156,42
+race/tour-de-france/2025/stage-8,VAN LAECKE Kristiaan,9,8,0,271,31
+race/tour-de-france/2025/stage-8,VAN PUYMBROECK Bert,35,8,60,193,39
+race/tour-de-france/2025/stage-8,VAN PUYMBROECK Bram,35,8,30,226,37
+race/tour-de-france/2025/stage-8,VAN RAEMDONCK Dirk,31,8,0,333,19
+race/tour-de-france/2025/stage-8,VAN RAEMDONCK Hilde,35,8,0,235,36
+race/tour-de-france/2025/stage-8,VAN RAEMDONCK Katrien,11,8,0,334,17
+race/tour-de-france/2025/stage-8,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,42,8,0,192,40
+race/tour-de-france/2025/stage-8,VERELST Thomas,23,8,0,377,4
+race/tour-de-france/2025/stage-8,VERHULST Harry,35,8,0,287,29
+race/tour-de-france/2025/stage-8,VERSTRAETEN Jens,43,8,0,364,8
+race/tour-de-france/2025/stage-8,VERSTRAETEN Wanne,46,8,0,363,10
+race/tour-de-france/2025/stage-8,WAUTERS Stefaan,15,8,0,251,34
+race/tour-de-france/2025/stage-8,WITTEMANS Tine,21,8,0,332,21
+race/tour-de-france/2025/stage-9,* G-motmans69,35,9,0,298,30
+race/tour-de-france/2025/stage-9,DE BLANGER Clovis,41,9,0,365,18
+race/tour-de-france/2025/stage-9,DE MAEYER Laurens,30,9,0,384,15
+race/tour-de-france/2025/stage-9,DE MAEYER peter,10,9,0,316,27
+race/tour-de-france/2025/stage-9,DE MEULENAER Dries,48,9,0,290,31
+race/tour-de-france/2025/stage-9,DE MEULENAER Flor,25,9,0,385,14
+race/tour-de-france/2025/stage-9,DE MEULENAER Siel,19,9,0,341,24
+race/tour-de-france/2025/stage-9,DE RYCKE Andreas,20,9,0,371,17
+race/tour-de-france/2025/stage-9,DECLEYRE Michiel,46,9,0,446,1
+race/tour-de-france/2025/stage-9,DECLEYRE Simon,40,9,0,329,25
+race/tour-de-france/2025/stage-9,GOOSSENS Inneke,46,9,0,409,7
+race/tour-de-france/2025/stage-9,JANSSENS Robert,33,9,0,389,12
+race/tour-de-france/2025/stage-9,LEROY Sandra,9,9,0,287,32
+race/tour-de-france/2025/stage-9,RATING Kebab,0,9,0,50,43
+race/tour-de-france/2025/stage-9,RELAES Damiaan,20,9,0,413,5
+race/tour-de-france/2025/stage-9,RELAES Francis,17,9,0,349,22
+race/tour-de-france/2025/stage-9,RELAES Jacob,26,9,0,400,9
+race/tour-de-france/2025/stage-9,RELAES Joris,17,9,0,350,21
+race/tour-de-france/2025/stage-9,RELAES Lucie,4,9,0,218,39
+race/tour-de-france/2025/stage-9,RELAES Matteo,19,9,0,343,23
+race/tour-de-france/2025/stage-9,ROOMS Ben,16,9,0,316,28
+race/tour-de-france/2025/stage-9,SEGERS Thomas,11,9,0,365,19
+race/tour-de-france/2025/stage-9,SMET Arno,20,9,0,421,4
+race/tour-de-france/2025/stage-9,SMET Bart,66,9,0,431,3
+race/tour-de-france/2025/stage-9,SMET Katleen,17,9,0,322,26
+race/tour-de-france/2025/stage-9,TAS Alex,9,9,40,177,42
+race/tour-de-france/2025/stage-9,VAN BROECK Gunther,10,9,0,384,16
+race/tour-de-france/2025/stage-9,VAN DAMME Hubert,15,9,20,266,35
+race/tour-de-france/2025/stage-9,VAN DAMME Kelly,36,9,0,390,11
+race/tour-de-france/2025/stage-9,VAN GOETHEM Guy,23,9,0,179,41
+race/tour-de-france/2025/stage-9,VAN LAECKE Kristiaan,9,9,0,280,33
+race/tour-de-france/2025/stage-9,VAN PUYMBROECK Bert,10,9,60,203,40
+race/tour-de-france/2025/stage-9,VAN PUYMBROECK Bram,10,9,30,236,37
+race/tour-de-france/2025/stage-9,VAN RAEMDONCK Dirk,55,9,0,388,13
+race/tour-de-france/2025/stage-9,VAN RAEMDONCK Hilde,40,9,0,275,34
+race/tour-de-france/2025/stage-9,VAN RAEMDONCK Katrien,57,9,0,391,10
+race/tour-de-france/2025/stage-9,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,39,9,0,231,38
+race/tour-de-france/2025/stage-9,VERELST Thomas,61,9,0,438,2
+race/tour-de-france/2025/stage-9,VERHULST Harry,29,9,0,316,29
+race/tour-de-france/2025/stage-9,VERSTRAETEN Jens,38,9,0,402,8
+race/tour-de-france/2025/stage-9,VERSTRAETEN Wanne,47,9,0,410,6
+race/tour-de-france/2025/stage-9,WAUTERS Stefaan,15,9,0,266,36
+race/tour-de-france/2025/stage-9,WITTEMANS Tine,29,9,0,361,20
+race/tour-de-france/2025/stage-10,* G-motmans69,13,10,0,311,33
+race/tour-de-france/2025/stage-10,DE BLANGER Clovis,22,10,0,387,20
+race/tour-de-france/2025/stage-10,DE MAEYER Laurens,11,10,0,395,16
+race/tour-de-france/2025/stage-10,DE MAEYER peter,9,10,0,325,31
+race/tour-de-france/2025/stage-10,DE MEULENAER Dries,50,10,0,340,29
+race/tour-de-france/2025/stage-10,DE MEULENAER Flor,41,10,0,426,9
+race/tour-de-france/2025/stage-10,DE MEULENAER Siel,19,10,0,360,25
+race/tour-de-france/2025/stage-10,DE RYCKE Andreas,19,10,0,390,18
+race/tour-de-france/2025/stage-10,DECLEYRE Michiel,37,10,0,483,2
+race/tour-de-france/2025/stage-10,DECLEYRE Simon,33,10,0,362,24
+race/tour-de-france/2025/stage-10,GOOSSENS Inneke,49,10,0,458,3
+race/tour-de-france/2025/stage-10,JANSSENS Robert,23,10,0,412,12
+race/tour-de-france/2025/stage-10,LEROY Sandra,39,10,0,326,30
+race/tour-de-france/2025/stage-10,RATING Kebab,44,10,0,94,43
+race/tour-de-france/2025/stage-10,RELAES Damiaan,19,10,0,432,8
+race/tour-de-france/2025/stage-10,RELAES Francis,27,10,0,376,22
+race/tour-de-france/2025/stage-10,RELAES Jacob,23,10,0,423,10
+race/tour-de-france/2025/stage-10,RELAES Joris,5,10,0,355,26
+race/tour-de-france/2025/stage-10,RELAES Lucie,17,10,0,235,40
+race/tour-de-france/2025/stage-10,RELAES Matteo,23,10,0,366,23
+race/tour-de-france/2025/stage-10,ROOMS Ben,28,10,0,344,28
+race/tour-de-france/2025/stage-10,SEGERS Thomas,58,10,0,423,11
+race/tour-de-france/2025/stage-10,SMET Arno,19,10,0,440,7
+race/tour-de-france/2025/stage-10,SMET Bart,56,10,0,487,1
+race/tour-de-france/2025/stage-10,SMET Katleen,62,10,0,384,21
+race/tour-de-france/2025/stage-10,TAS Alex,9,10,40,186,41
+race/tour-de-france/2025/stage-10,VAN BROECK Gunther,9,10,0,393,17
+race/tour-de-france/2025/stage-10,VAN DAMME Hubert,13,10,20,279,37
+race/tour-de-france/2025/stage-10,VAN DAMME Kelly,22,10,0,412,13
+race/tour-de-france/2025/stage-10,VAN GOETHEM Guy,0,10,0,179,42
+race/tour-de-france/2025/stage-10,VAN LAECKE Kristiaan,39,10,0,319,32
+race/tour-de-france/2025/stage-10,VAN PUYMBROECK Bert,48,10,60,251,38
+race/tour-de-france/2025/stage-10,VAN PUYMBROECK Bram,54,10,30,290,35
+race/tour-de-france/2025/stage-10,VAN RAEMDONCK Dirk,14,10,0,402,14
+race/tour-de-france/2025/stage-10,VAN RAEMDONCK Hilde,13,10,0,288,36
+race/tour-de-france/2025/stage-10,VAN RAEMDONCK Katrien,10,10,0,401,15
+race/tour-de-france/2025/stage-10,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,13,10,0,244,39
+race/tour-de-france/2025/stage-10,VERELST Thomas,14,10,0,452,5
+race/tour-de-france/2025/stage-10,VERHULST Harry,32,10,0,348,27
+race/tour-de-france/2025/stage-10,VERSTRAETEN Jens,42,10,0,444,6
+race/tour-de-france/2025/stage-10,VERSTRAETEN Wanne,48,10,0,458,4
+race/tour-de-france/2025/stage-10,WAUTERS Stefaan,43,10,0,309,34
+race/tour-de-france/2025/stage-10,WITTEMANS Tine,27,10,0,388,19
+race/tour-de-france/2025/stage-11,* G-motmans69,23,11,0,334,32
+race/tour-de-france/2025/stage-11,DE BLANGER Clovis,26,11,0,413,17
+race/tour-de-france/2025/stage-11,DE MAEYER Laurens,6,11,0,401,19
+race/tour-de-france/2025/stage-11,DE MAEYER peter,17,11,0,342,31
+race/tour-de-france/2025/stage-11,DE MEULENAER Dries,27,11,0,367,29
+race/tour-de-france/2025/stage-11,DE MEULENAER Flor,28,11,0,454,6
+race/tour-de-france/2025/stage-11,DE MEULENAER Siel,21,11,0,381,25
+race/tour-de-france/2025/stage-11,DE RYCKE Andreas,9,11,0,399,20
+race/tour-de-france/2025/stage-11,DECLEYRE Michiel,27,11,0,510,2
+race/tour-de-france/2025/stage-11,DECLEYRE Simon,22,11,0,384,24
+race/tour-de-france/2025/stage-11,GOOSSENS Inneke,23,11,0,481,4
+race/tour-de-france/2025/stage-11,JANSSENS Robert,12,11,0,424,14
+race/tour-de-france/2025/stage-11,LEROY Sandra,26,11,0,352,30
+race/tour-de-france/2025/stage-11,RATING Kebab,5,11,0,99,43
+race/tour-de-france/2025/stage-11,RELAES Damiaan,9,11,0,441,9
+race/tour-de-france/2025/stage-11,RELAES Francis,9,11,0,385,23
+race/tour-de-france/2025/stage-11,RELAES Jacob,13,11,0,436,12
+race/tour-de-france/2025/stage-11,RELAES Joris,38,11,0,393,22
+race/tour-de-france/2025/stage-11,RELAES Lucie,1,11,0,236,40
+race/tour-de-france/2025/stage-11,RELAES Matteo,13,11,0,379,26
+race/tour-de-france/2025/stage-11,ROOMS Ben,29,11,0,373,27
+race/tour-de-france/2025/stage-11,SEGERS Thomas,18,11,0,441,10
+race/tour-de-france/2025/stage-11,SMET Arno,9,11,0,449,8
+race/tour-de-france/2025/stage-11,SMET Bart,32,11,0,519,1
+race/tour-de-france/2025/stage-11,SMET Katleen,30,11,0,414,16
+race/tour-de-france/2025/stage-11,TAS Alex,17,11,40,203,42
+race/tour-de-france/2025/stage-11,VAN BROECK Gunther,26,11,0,419,15
+race/tour-de-france/2025/stage-11,VAN DAMME Hubert,9,11,20,288,37
+race/tour-de-france/2025/stage-11,VAN DAMME Kelly,26,11,0,438,11
+race/tour-de-france/2025/stage-11,VAN GOETHEM Guy,35,11,0,214,41
+race/tour-de-france/2025/stage-11,VAN LAECKE Kristiaan,5,11,0,324,33
+race/tour-de-france/2025/stage-11,VAN PUYMBROECK Bert,30,11,60,281,38
+race/tour-de-france/2025/stage-11,VAN PUYMBROECK Bram,28,11,30,318,34
+race/tour-de-france/2025/stage-11,VAN RAEMDONCK Dirk,23,11,0,425,13
+race/tour-de-france/2025/stage-11,VAN RAEMDONCK Hilde,19,11,0,307,36
+race/tour-de-france/2025/stage-11,VAN RAEMDONCK Katrien,5,11,0,406,18
+race/tour-de-france/2025/stage-11,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,19,11,0,263,39
+race/tour-de-france/2025/stage-11,VERELST Thomas,43,11,0,495,3
+race/tour-de-france/2025/stage-11,VERHULST Harry,22,11,0,370,28
+race/tour-de-france/2025/stage-11,VERSTRAETEN Jens,8,11,0,452,7
+race/tour-de-france/2025/stage-11,VERSTRAETEN Wanne,12,11,0,470,5
+race/tour-de-france/2025/stage-11,WAUTERS Stefaan,9,11,0,318,35
+race/tour-de-france/2025/stage-11,WITTEMANS Tine,9,11,0,397,21
+race/tour-de-france/2025/stage-12,* G-motmans69,53,12,0,387,32
+race/tour-de-france/2025/stage-12,DE BLANGER Clovis,91,12,0,504,13
+race/tour-de-france/2025/stage-12,DE MAEYER Laurens,73,12,0,474,20
+race/tour-de-france/2025/stage-12,DE MAEYER peter,80,12,0,422,28
+race/tour-de-france/2025/stage-12,DE MEULENAER Dries,20,12,0,387,33
+race/tour-de-france/2025/stage-12,DE MEULENAER Flor,73,12,0,527,10
+race/tour-de-france/2025/stage-12,DE MEULENAER Siel,89,12,0,470,22
+race/tour-de-france/2025/stage-12,DE RYCKE Andreas,87,12,0,486,16
+race/tour-de-france/2025/stage-12,DECLEYRE Michiel,106,12,0,616,1
+race/tour-de-france/2025/stage-12,DECLEYRE Simon,78,12,0,462,23
+race/tour-de-france/2025/stage-12,GOOSSENS Inneke,75,12,0,556,3
+race/tour-de-france/2025/stage-12,JANSSENS Robert,73,12,0,497,15
+race/tour-de-france/2025/stage-12,LEROY Sandra,41,12,0,393,31
+race/tour-de-france/2025/stage-12,RATING Kebab,2,12,0,101,43
+race/tour-de-france/2025/stage-12,RELAES Damiaan,87,12,0,528,9
+race/tour-de-france/2025/stage-12,RELAES Francis,53,12,0,438,26
+race/tour-de-france/2025/stage-12,RELAES Jacob,100,12,0,536,7
+race/tour-de-france/2025/stage-12,RELAES Joris,59,12,0,452,24
+race/tour-de-france/2025/stage-12,RELAES Lucie,45,12,0,281,40
+race/tour-de-france/2025/stage-12,RELAES Matteo,66,12,0,445,25
+race/tour-de-france/2025/stage-12,ROOMS Ben,49,12,0,422,29
+race/tour-de-france/2025/stage-12,SEGERS Thomas,76,12,0,517,11
+race/tour-de-france/2025/stage-12,SMET Arno,107,12,0,556,4
+race/tour-de-france/2025/stage-12,SMET Bart,79,12,0,598,2
+race/tour-de-france/2025/stage-12,SMET Katleen,60,12,0,474,21
+race/tour-de-france/2025/stage-12,TAS Alex,40,12,40,243,41
+race/tour-de-france/2025/stage-12,VAN BROECK Gunther,81,12,0,500,14
+race/tour-de-france/2025/stage-12,VAN DAMME Hubert,53,12,20,341,38
+race/tour-de-france/2025/stage-12,VAN DAMME Kelly,73,12,0,511,12
+race/tour-de-france/2025/stage-12,VAN GOETHEM Guy,1,12,0,215,42
+race/tour-de-france/2025/stage-12,VAN LAECKE Kristiaan,76,12,0,400,30
+race/tour-de-france/2025/stage-12,VAN PUYMBROECK Bert,64,12,60,345,37
+race/tour-de-france/2025/stage-12,VAN PUYMBROECK Bram,41,12,30,359,35
+race/tour-de-france/2025/stage-12,VAN RAEMDONCK Dirk,53,12,0,478,18
+race/tour-de-france/2025/stage-12,VAN RAEMDONCK Hilde,49,12,0,356,36
+race/tour-de-france/2025/stage-12,VAN RAEMDONCK Katrien,74,12,0,480,17
+race/tour-de-france/2025/stage-12,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,21,12,0,284,39
+race/tour-de-france/2025/stage-12,VERELST Thomas,61,12,0,556,5
+race/tour-de-france/2025/stage-12,VERHULST Harry,64,12,0,434,27
+race/tour-de-france/2025/stage-12,VERSTRAETEN Jens,77,12,0,529,8
+race/tour-de-france/2025/stage-12,VERSTRAETEN Wanne,84,12,0,554,6
+race/tour-de-france/2025/stage-12,WAUTERS Stefaan,53,12,0,371,34
+race/tour-de-france/2025/stage-12,WITTEMANS Tine,81,12,0,478,19
+race/tour-de-france/2025/stage-13,* G-motmans69,45,13,0,432,32
+race/tour-de-france/2025/stage-13,DE BLANGER Clovis,77,13,0,581,13
+race/tour-de-france/2025/stage-13,DE MAEYER Laurens,66,13,0,540,20
+race/tour-de-france/2025/stage-13,DE MAEYER peter,77,13,0,499,25
+race/tour-de-france/2025/stage-13,DE MEULENAER Dries,7,13,0,394,38
+race/tour-de-france/2025/stage-13,DE MEULENAER Flor,56,13,0,583,11
+race/tour-de-france/2025/stage-13,DE MEULENAER Siel,72,13,0,542,19
+race/tour-de-france/2025/stage-13,DE RYCKE Andreas,81,13,0,567,15
+race/tour-de-france/2025/stage-13,DECLEYRE Michiel,88,13,0,704,1
+race/tour-de-france/2025/stage-13,DECLEYRE Simon,72,13,0,534,21
+race/tour-de-france/2025/stage-13,GOOSSENS Inneke,62,13,0,618,5
+race/tour-de-france/2025/stage-13,JANSSENS Robert,62,13,0,559,16
+race/tour-de-france/2025/stage-13,LEROY Sandra,41,13,0,434,31
+race/tour-de-france/2025/stage-13,RATING Kebab,6,13,0,107,43
+race/tour-de-france/2025/stage-13,RELAES Damiaan,81,13,0,609,7
+race/tour-de-france/2025/stage-13,RELAES Francis,55,13,0,493,27
+race/tour-de-france/2025/stage-13,RELAES Jacob,76,13,0,612,6
+race/tour-de-france/2025/stage-13,RELAES Joris,41,13,0,493,28
+race/tour-de-france/2025/stage-13,RELAES Lucie,31,13,0,312,40
+race/tour-de-france/2025/stage-13,RELAES Matteo,67,13,0,512,24
+race/tour-de-france/2025/stage-13,ROOMS Ben,38,13,0,460,30
+race/tour-de-france/2025/stage-13,SEGERS Thomas,71,13,0,588,10
+race/tour-de-france/2025/stage-13,SMET Arno,83,13,0,639,3
+race/tour-de-france/2025/stage-13,SMET Bart,69,13,0,667,2
+race/tour-de-france/2025/stage-13,SMET Katleen,57,13,0,531,22
+race/tour-de-france/2025/stage-13,TAS Alex,40,13,40,283,41
+race/tour-de-france/2025/stage-13,VAN BROECK Gunther,78,13,0,578,14
+race/tour-de-france/2025/stage-13,VAN DAMME Hubert,55,13,20,396,37
+race/tour-de-france/2025/stage-13,VAN DAMME Kelly,72,13,0,583,12
+race/tour-de-france/2025/stage-13,VAN GOETHEM Guy,1,13,0,216,42
+race/tour-de-france/2025/stage-13,VAN LAECKE Kristiaan,66,13,0,466,29
+race/tour-de-france/2025/stage-13,VAN PUYMBROECK Bert,62,13,60,407,35
+race/tour-de-france/2025/stage-13,VAN PUYMBROECK Bram,50,13,30,409,34
+race/tour-de-france/2025/stage-13,VAN RAEMDONCK Dirk,45,13,0,523,23
+race/tour-de-france/2025/stage-13,VAN RAEMDONCK Hilde,46,13,0,402,36
+race/tour-de-france/2025/stage-13,VAN RAEMDONCK Katrien,75,13,0,555,17
+race/tour-de-france/2025/stage-13,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,29,13,0,313,39
+race/tour-de-france/2025/stage-13,VERELST Thomas,47,13,0,603,8
+race/tour-de-france/2025/stage-13,VERHULST Harry,62,13,0,496,26
+race/tour-de-france/2025/stage-13,VERSTRAETEN Jens,68,13,0,597,9
+race/tour-de-france/2025/stage-13,VERSTRAETEN Wanne,77,13,0,631,4
+race/tour-de-france/2025/stage-13,WAUTERS Stefaan,45,13,0,416,33
+race/tour-de-france/2025/stage-13,WITTEMANS Tine,73,13,0,551,18
