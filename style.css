@@ -291,7 +291,7 @@ button.active {
 
 @media (min-width: 768px) {
   .rankGraphWrapper {
-    height: 75vh;
+    height: 70vh;
   }
 }
 
