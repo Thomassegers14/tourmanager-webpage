@@ -50,17 +50,19 @@
     </div>
 
     <div id="tab-ranking" class="tabContent">
-      <h3 class="graph__title">Ranking</h3>
-      <h3 class="graph__subtitle">Ranking na elke etappe</h3>
-      <div class="filters">
-        <div class="colorModeToggle">
-          <button id="colorByRank" data-color="rank">Ranking</button>
-          <button id="colorByPoints" data-color="points">Punten</button>
-          <button id="colorByTotalPoints" data-color="total_points">Totaal</button>
-        </div>
+      <div class="tabHeader">
+        <h3 class="graph__title">Ranking</h3>
+        <h3 class="graph__subtitle">Ranking na elke etappe</h3>
+        <div class="filters">
+          <div class="colorModeToggle">
+            <button id="colorByRank" data-color="rank">Ranking</button>
+            <button id="colorByPoints" data-color="points">Punten</button>
+            <button id="colorByTotalPoints" data-color="total_points">Totaal</button>
+          </div>
         <div class="legendContainer">
           <svg id="legendSvg"></svg>
         </div>
+      </div>
       </div>
       <div class="rankGraphWrapper">
         <div class="rankGraph"></div>
