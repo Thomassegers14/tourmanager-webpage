@@ -248,7 +248,7 @@ function makeRankGraph(data) {
         const legendSvg = d3.select("#legendSvg");
         const { width, height } = legendSvg.node().getBoundingClientRect();
         const legendWidth = width * 0.9;
-        const legendHeight = height -24
+        const legendHeight = height - 24
 
         legendSvg.selectAll("*").remove();
 
@@ -265,7 +265,7 @@ function makeRankGraph(data) {
             .attr("x", 12)
             .attr("y", 12)
             .attr("width", legendWidth)
-            .attr("height", legendHeight / 2 )
+            .attr("height", legendHeight / 2)
             .style("fill", "url(#legend-gradient)");
 
         const legendScale = d3.scaleLinear()
@@ -320,7 +320,7 @@ function makeAnalyseGraph(data) {
 
     const colorScale = d3.scaleOrdinal()
         .domain(topRiders)
-        .range(["#6D7991","#4D5066","#FFF0B0","#FFDA6D","#FFAA00", "#FFAA00"].reverse())
+        .range(["#6D7991", "#4D5066", "#FFF0B0", "#FFDA6D", "#FFAA00", "#FFAA00"].reverse())
 
     const dropdown = d3.select("#multiSelectDropdown");
 
@@ -473,7 +473,16 @@ function makeAnalyseGraph(data) {
 
             const svg = container.append("svg")
                 .attr("width", width)
-                .attr("height", height);
+                .attr("height", height)
+
+            // Voeg crosshair toe
+            const crosshair = svg.append("line")
+                .attr("class", "crosshair")
+                .attr("y1", margin.top)
+                .attr("y2", height - margin.bottom)
+                .attr("visibility", "hidden")
+
+            const tooltip = d3.select("#globalTooltip");
 
             svg.append("g")
                 .attr("transform", `translate(0,${height - margin.bottom})`)
@@ -498,28 +507,6 @@ function makeAnalyseGraph(data) {
                 .data(stackedData)
                 .join("path")
                 .attr("class", "area")
-                .on("mousemove", function (event, d) {
-                    const [xm] = d3.pointer(event);
-                    const x0 = Math.round(x.invert(xm));
-                    const entry = d.find(e => e.data.stage === x0);
-                    if (entry) {
-                        d3.select("#tooltip")
-                            .style("display", "block")
-                            .style("left", event.pageX + 10 + "px")
-                            .style("top", event.pageY + 10 + "px")
-                            .html(() => {
-                                const points = entry.data[d.key];
-                                const value = usePercent
-                                    ? `${Math.round(points * 100)}%`
-                                    : `${Math.round(points)} pts`;
-                                return `<strong>${d.key}</strong>`;
-                            });
-
-                    }
-                })
-                .on("mouseleave", () => {
-                    d3.select("#tooltip").style("display", "none");
-                })
                 .attr("fill", d => topRiders.includes(d.key) ? colorScale(d.key) : "#969fb5ff")
                 .attr("stroke", d => topRiders.includes(d.key) ? colorScale(d.key) : "#b2b9ccff")
                 .attr("d", area)
@@ -542,7 +529,54 @@ function makeAnalyseGraph(data) {
                 .attr("fill", d => topRiders.includes(d.key) ? colorScale(d.key) : "lightgrey")
                 .text(d => getLastName(d.key))
 
-                // Bereken totaal aantal punten voor de laatste stage
+            // Overlay voor interactie
+            svg.append("rect")
+                .attr("class", "overlay")
+                .attr("x", margin.left)
+                .attr("y", margin.top)
+                .attr("width", width - margin.left - margin.right)
+                .attr("height", height - margin.top - margin.bottom)
+                .attr("fill", "transparent")
+                .on("mousemove", function (event) {
+                    const [xm] = d3.pointer(event);
+                    const stageNum = Math.round(x.invert(xm));
+
+                    crosshair
+                        .attr("x1", x(stageNum))
+                        .attr("x2", x(stageNum))
+                        .attr("visibility", "visible");
+
+                    const stageData = nested.find(d => d.stage === stageNum);
+                    if (!stageData) return;
+
+                    const tooltipHTML = Object.entries(stageData)
+                        .filter(([key]) => key !== "stage")
+                        .filter(([_, val]) => val > 0)
+                        .sort((a, b) => b[1] - a[1])
+                        .map(([rider, val]) => {
+                            const valStr = usePercent
+                                ? `${Math.round(val * 100)}%`
+                                : `${Math.round(val)} pts`;
+                            return `<div><strong>${getLastName(rider)}</strong>: ${valStr}</div>`;
+                        }).join("");
+
+                    tooltip
+                        .style("display", "block")
+                        .style("left", (event.pageX + 12) + "px")
+                        .style("top", (event.pageY + 12) + "px")
+                        .html(`<div><strong>Stage ${stageNum}</strong></div>${tooltipHTML}`);
+                })
+                .on("mouseleave", () => {
+                    crosshair.attr("visibility", "hidden");
+                    tooltip.style("display", "none");
+                })
+                .on("mouseleave", () => {
+                    crosshair.attr("visibility", "hidden");
+                    tooltip.style("display", "none");
+                })
+
+
+            // Bereken totaal aantal punten voor de laatste stage
             const totalPointsLastStage = d3.sum(
                 participantData.filter(d => d.stage === lastStage),
                 d => d.total_points
