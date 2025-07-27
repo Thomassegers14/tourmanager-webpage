@@ -305,6 +305,23 @@ function makeAnalyseGraph(data) {
         )
     ).sort((a, b) => d3.descending(a[1], b[1])).map(d => d[0]);
 
+    const uniqueScores = Array.from(
+        d3.rollup(
+            data.filter(d => d.stage === lastStage & d.total_points > 0),
+            v => v[0].total_points, // neem eerste voorkomens
+            d => d.rider_name
+        )
+    )
+
+    const topRiders = Array.from(uniqueScores)
+        .sort((a, b) => d3.descending(a[1], b[1]))
+        .slice(0, 6)
+        .map(d => d[0])
+
+    const colorScale = d3.scaleOrdinal()
+        .domain(topRiders)
+        .range(["#6D7991","#4D5066","#FFF0B0","#FFDA6D","#FFAA00", "#FFAA00"].reverse())
+
     const dropdown = d3.select("#multiSelectDropdown");
 
     // Vul dropdown met vinkjes
@@ -405,7 +422,7 @@ function makeAnalyseGraph(data) {
         d3.select("#analyseGraph").html("");
 
         const container = d3.select("#analyseGraph")
-        colWidth = getGridColumnWidth('.analyseGraphGrid', participantsToShow.length);
+        colWidth = getGridColumnWidth('.analyseGraphGrid', participantsToShow.length)
 
         participantsToShow.forEach(participant => {
             const participantData = data.filter(d => d.participant === participant);
@@ -413,7 +430,7 @@ function makeAnalyseGraph(data) {
             const riderOrder = Array.from(
                 d3.rollup(
                     participantData.filter(d => d.stage === lastStage),
-                    v => d3.sum(v, d => d.total_points),
+                    v => d3.median(v, d => d.total_points),
                     d => d.rider_name
                 )
             ).sort((a, b) => d3.descending(a[1], b[1])).map(d => d[0]);
@@ -503,6 +520,8 @@ function makeAnalyseGraph(data) {
                 .on("mouseleave", () => {
                     d3.select("#tooltip").style("display", "none");
                 })
+                .attr("fill", d => topRiders.includes(d.key) ? colorScale(d.key) : "#969fb5ff")
+                .attr("stroke", d => topRiders.includes(d.key) ? colorScale(d.key) : "#b2b9ccff")
                 .attr("d", area)
 
             svg.selectAll(".rider-label")
@@ -520,7 +539,7 @@ function makeAnalyseGraph(data) {
                 })
                 .attr("dy", "0.35em")
                 .attr("font-size", "0.65rem")
-                .attr("fill", "#444")
+                .attr("fill", d => topRiders.includes(d.key) ? colorScale(d.key) : "lightgrey")
                 .text(d => getLastName(d.key));
 
             svg.append("text")
@@ -530,6 +549,18 @@ function makeAnalyseGraph(data) {
                 .text(participant);
 
         });
+
+        const legend = d3.select("#analyseLegend")
+        legend.html("")
+
+        legend.selectAll(".legend-item")
+            .data(topRiders)
+            .join("div")
+            .attr("class", "legend-item")
+            .html(d => `
+                <span class="legend-swatch" style="background-color:${colorScale(d)}"></span>
+                <span>${d}</span>
+            `)
     }
 }
 

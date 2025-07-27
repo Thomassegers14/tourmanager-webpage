@@ -420,29 +420,26 @@ button.active {
 #analyseGraph {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 12px;
 }
 
 .area {
   /* fill: var(--accentColor);
   stroke: var(--accentColor); */
-  stroke: #4C5165;
-  stroke-opacity: 0.6;
-  fill: #4C5165;
-  fill-opacity: 0.4;
+  stroke-opacity: 0.8;
+  fill-opacity: 0.6;
   transition: fill-opacity var(--transitionDuration);
 }
 
 .area:hover {
-  fill-opacity: 0.8;
+  fill-opacity: 1;
 }
 
 .rider-label {
   font-family: var(--font-sans);
   font-weight: 500;
   font-size: 0.6rem;
-  fill: #4C5165;
 }
 
 .area-title {
@@ -464,4 +461,37 @@ button.active {
   border-radius: 4px;
   display: none;
   z-index: 10;
+}
+
+.legend-container {
+    display: grid;
+    grid-template-rows: repeat(3, auto);
+    grid-auto-flow: column;
+    gap: 3px;
+    padding: 0;
+    font-family: var(--font-sans);
+    font-weight: 300;
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    color: var(--white);
+}
+
+@media (min-width: 768px) {
+  .legend-container {
+    grid-template-rows: repeat(2, auto);
+    padding: 0 24px;
+    font-size: 0.7rem;
+  }
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.legend-swatch {
+    width: 14px;
+    height: 14px;
+    flex-shrink: 0;
 }
