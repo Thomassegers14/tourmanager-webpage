@@ -161,7 +161,7 @@ function makeRankGraph(data) {
             d3.axisTop(xScale)
                 .tickPadding(12)
                 .tickSize(0)
-                .tickFormat(x => `stage ${x}`)
+                .tickFormat(x => x === 22 ? 'Final gc' : `stage ${x}`)
         )
         .selectAll("text")
         .attr("dx", 24)
@@ -217,7 +217,7 @@ function makeRankGraph(data) {
     function updateColors(metric) {
         const extent = metric === 'rank'
             ? d3.extent(data, d => d[metric]).reverse()
-            : [0, d3.max(data, d => d[metric])];
+            : [0, d3.max(data.filter(x => x.stage < 21), d => d[metric])];
 
         const colorScale = d3.scaleSequential()
             .domain(extent)
@@ -435,21 +435,6 @@ function makeAnalyseGraph(data) {
                 )
             ).sort((a, b) => d3.descending(a[1], b[1])).map(d => d[0])
 
-            // Weekly summary per participant
-            const stagesPerWeek = 7;
-            const weeklyGroups = d3.groups(participantData, d => Math.floor((d.stage - 1) / stagesPerWeek) + 1);
-
-            const weeklyStats = weeklyGroups.map(([week, values]) => ({
-                week,
-                totalPoints: d3.sum(values, d => d.points)
-            }))            
-
-            const bestWeek = d3.max(weeklyStats, d => d.totalPoints);
-            const best = weeklyStats.find(d => d.totalPoints === bestWeek)?.week;
-
-            const worstWeek = d3.min(weeklyStats, d => d.totalPoints);
-            const worst = weeklyStats.find(d => d.totalPoints === worstWeek)?.week;
-
             const nested = stageIds.map(stage => {
                 const stageData = participantData.filter(d => d.stage === stage);
                 const entry = { stage };
@@ -475,7 +460,7 @@ function makeAnalyseGraph(data) {
                 .domain(d3.extent(stageIds))
                 .range([margin.left, width - margin.right]);
 
-            const yMax = Math.ceil(d3.max(stackedData, layer => d3.max(layer, d => d[1])) / 200) * 200;
+            const yMax = Math.ceil(d3.max(stackedData, layer => d3.max(layer, d => d[1])) / 500) * 500;
 
             const y = d3.scaleLinear()
                 .domain([0, usePercent ? 1 : yMax])
@@ -540,7 +525,7 @@ function makeAnalyseGraph(data) {
 
             svg.append("g")
                 .attr("transform", `translate(0,${height - margin.bottom})`)
-                .call(d3.axisBottom(x).tickFormat(d => `s${d}`).ticks(5))
+                .call(d3.axisBottom(x).tickFormat(x => x === 22 ? 'gc' : `s${x}`))
                 .attr("font-size", "0.7rem");
 
             // Overlay voor interactie
@@ -585,15 +570,6 @@ function makeAnalyseGraph(data) {
                     crosshair.attr("visibility", "hidden");
                     tooltip.style("display", "none");
                 })
-
-            // Add summary text
-            const summary = svg.append("g")
-                .attr("transform", `translate(${margin.left}, ${height - margin.bottom + 24})`);
-
-            summary.append("text")
-                .attr("class", "summary-text")
-                .attr("dy", "1em")
-                .text(`Beste week: ${best}  •  Zwakste: ${worst}`);
 
             // Bereken totaal aantal punten voor de laatste stage
             const totalPointsLastStage = d3.sum(
