@@ -433,7 +433,22 @@ function makeAnalyseGraph(data) {
                     v => d3.median(v, d => d.total_points),
                     d => d.rider_name
                 )
-            ).sort((a, b) => d3.descending(a[1], b[1])).map(d => d[0]);
+            ).sort((a, b) => d3.descending(a[1], b[1])).map(d => d[0])
+
+            // Weekly summary per participant
+            const stagesPerWeek = 7;
+            const weeklyGroups = d3.groups(participantData, d => Math.floor((d.stage - 1) / stagesPerWeek) + 1);
+
+            const weeklyStats = weeklyGroups.map(([week, values]) => ({
+                week,
+                totalPoints: d3.sum(values, d => d.points)
+            }))            
+
+            const bestWeek = d3.max(weeklyStats, d => d.totalPoints);
+            const best = weeklyStats.find(d => d.totalPoints === bestWeek)?.week;
+
+            const worstWeek = d3.min(weeklyStats, d => d.totalPoints);
+            const worst = weeklyStats.find(d => d.totalPoints === worstWeek)?.week;
 
             const nested = stageIds.map(stage => {
                 const stageData = participantData.filter(d => d.stage === stage);
@@ -453,8 +468,8 @@ function makeAnalyseGraph(data) {
             const stackedData = stack(nested);
 
             const width = colWidth;
-            const height = 240;
-            const margin = { top: 48, right: 60, bottom: 24, left: 32 };
+            const height = 320;
+            const margin = { top: 48, right: 60, bottom: 48, left: 32 };
 
             const x = d3.scaleLinear()
                 .domain(d3.extent(stageIds))
@@ -475,7 +490,6 @@ function makeAnalyseGraph(data) {
                 .attr("width", width)
                 .attr("height", height)
 
-            // Voeg crosshair toe
             const crosshair = svg.append("line")
                 .attr("class", "crosshair")
                 .attr("y1", margin.top)
@@ -483,11 +497,6 @@ function makeAnalyseGraph(data) {
                 .attr("visibility", "hidden")
 
             const tooltip = d3.select("#globalTooltip");
-
-            svg.append("g")
-                .attr("transform", `translate(0,${height - margin.bottom})`)
-                .call(d3.axisBottom(x).tickFormat(d => `s${d}`).ticks(5))
-                .attr("font-size", "0.7rem");
 
             const tickWidth = x(lastStage) - margin.left;
 
@@ -529,6 +538,11 @@ function makeAnalyseGraph(data) {
                 .attr("fill", d => topRiders.includes(d.key) ? colorScale(d.key) : "lightgrey")
                 .text(d => getLastName(d.key))
 
+            svg.append("g")
+                .attr("transform", `translate(0,${height - margin.bottom})`)
+                .call(d3.axisBottom(x).tickFormat(d => `s${d}`).ticks(5))
+                .attr("font-size", "0.7rem");
+
             // Overlay voor interactie
             svg.append("rect")
                 .attr("class", "overlay")
@@ -554,10 +568,7 @@ function makeAnalyseGraph(data) {
                         .filter(([_, val]) => val > 0)
                         .sort((a, b) => b[1] - a[1])
                         .map(([rider, val]) => {
-                            const valStr = usePercent
-                                ? `${Math.round(val * 100)}%`
-                                : `${Math.round(val)} pts`;
-                            return `<div><strong>${getLastName(rider)}</strong>: ${valStr}</div>`;
+                            return `<div><strong>${getLastName(rider)}</strong>: ${Math.round(val)} pts</div>`;
                         }).join("");
 
                     tooltip
@@ -575,6 +586,14 @@ function makeAnalyseGraph(data) {
                     tooltip.style("display", "none");
                 })
 
+            // Add summary text
+            const summary = svg.append("g")
+                .attr("transform", `translate(${margin.left}, ${height - margin.bottom + 24})`);
+
+            summary.append("text")
+                .attr("class", "summary-text")
+                .attr("dy", "1em")
+                .text(`Beste week: ${best}  •  Zwakste: ${worst}`);
 
             // Bereken totaal aantal punten voor de laatste stage
             const totalPointsLastStage = d3.sum(

@@ -528,3 +528,9 @@ button.active {
   stroke-dasharray: 2,2;
 }
 
+.summary-text {
+  font-family: var(--font-sans);
+  font-weight: 300;
+  font-size: 0.8rem;
+  fill: var(--dark);
+}
