@@ -540,13 +540,27 @@ function makeAnalyseGraph(data) {
                 .attr("dy", "0.35em")
                 .attr("font-size", "0.65rem")
                 .attr("fill", d => topRiders.includes(d.key) ? colorScale(d.key) : "lightgrey")
-                .text(d => getLastName(d.key));
+                .text(d => getLastName(d.key))
+
+                // Bereken totaal aantal punten voor de laatste stage
+            const totalPointsLastStage = d3.sum(
+                participantData.filter(d => d.stage === lastStage),
+                d => d.total_points
+            );
+
+            // Voeg titel toe met participant en totaal
+            svg.append("text")
+                .attr("x", margin.left)
+                .attr("y", margin.top - 24)
+                .attr("class", "area-title")
+                .text(participant);
 
             svg.append("text")
                 .attr("x", margin.left)
-                .attr("y", margin.top - 12)
-                .attr("class", "area-title")
-                .text(participant);
+                .attr("y", margin.top - 10)
+                .attr("class", "area-subtitle")
+                .text(`${Math.round(totalPointsLastStage)} pts`);
+
 
         });
 

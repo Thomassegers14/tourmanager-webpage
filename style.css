@@ -30,7 +30,7 @@ body {
   align-items: center;
   background-color: #141414;
   color: white;
-  padding: 0 24px 0 12px;
+  padding: 0 48px 0 12px;
   height: 48px;
   position: relative;
 }
@@ -88,6 +88,10 @@ body {
 
 /* Mobile styles */
 @media (max-width: 768px) {
+  .navbar {
+    padding: 0 12px;
+  }
+
   .hamburger {
     display: block;
   }
@@ -375,6 +379,7 @@ button.active {
 
 .axis line {
   stroke: var(--white);
+  stroke-dasharray: 2px 1px;
   opacity: 0.2;
 }
 
@@ -442,10 +447,17 @@ button.active {
   font-size: 0.6rem;
 }
 
-.area-title {
+.area-title,
+.area-subtitle {
   font-family: var(--font-sans);
   font-weight: 500;
   font-size: 0.8rem;
+  fill: var(--dark);
+}
+
+.area-subtitle {
+  font-weight: 300;
+  font-size: 0.7rem;
   fill: var(--dark);
 }
 
