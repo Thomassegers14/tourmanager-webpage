@@ -20,6 +20,55 @@ Promise.all([
     initTabs();
 });
 
+let columnWidth;
+
+function getGridColumnWidth(containerSelector, nSelected) {
+    const container = document.querySelector(containerSelector);
+    const containerWidth = container.getBoundingClientRect().width;
+
+    // Lees de computed style uit om de gap tussen kolommen op te halen
+    const style = window.getComputedStyle(container);
+    const gap = parseFloat(style.columnGap || style.gap || 0);
+
+    // Tel hoeveel kolommen er zijn aan de hand van berekening
+    // Zoek het aantal kolommen door een tijdelijke rij vol te proppen
+    const probe = document.createElement('div');
+    probe.style.width = '100%';
+    probe.style.display = 'contents'; // wordt zelf niet gerenderd
+
+    // Voeg child-elementen toe om kolommen te forceren
+    const items = [];
+    for (let i = 0; i < nSelected; i++) {
+        const item = document.createElement('div');
+        item.textContent = i + 1;
+        item.style.height = '1px';
+        item.style.background = 'red';
+        item.style.gridColumn = 'auto';
+        items.push(item);
+        probe.appendChild(item);
+    }
+
+    container.appendChild(probe);
+
+    // Bepaal hoeveel kolommen er effectief zijn ontstaan
+    const columns = new Set();
+    for (const item of items) {
+        const left = item.getBoundingClientRect().left;
+        columns.add(left); // unieke x-posities
+    }
+
+    const numberOfColumns = columns.size;
+    container.removeChild(probe);
+
+    if (numberOfColumns === 0) return null;
+
+    const totalGapWidth = gap * (numberOfColumns - 1);
+    const totalColumnWidth = containerWidth - totalGapWidth;
+    const columnWidth = totalColumnWidth / numberOfColumns;
+
+    return `${columnWidth - 12}`;
+}
+
 // -----------------------------
 // Navigatie & Tabs
 // -----------------------------
@@ -199,7 +248,7 @@ function makeRankGraph(data) {
         const legendSvg = d3.select("#legendSvg");
         const { width, height } = legendSvg.node().getBoundingClientRect();
         const legendWidth = width * 0.9;
-        const legendHeight = height - 24
+        const legendHeight = height -24
 
         legendSvg.selectAll("*").remove();
 
@@ -214,9 +263,9 @@ function makeRankGraph(data) {
 
         legendSvg.append("rect")
             .attr("x", 12)
-            .attr("y", 8)
+            .attr("y", 12)
             .attr("width", legendWidth)
-            .attr("height", legendHeight)
+            .attr("height", legendHeight / 2 )
             .style("fill", "url(#legend-gradient)");
 
         const legendScale = d3.scaleLinear()
@@ -225,15 +274,16 @@ function makeRankGraph(data) {
 
         const legendAxis = d3.axisBottom(legendScale)
             .ticks(5)
-            .tickSize(-legendHeight)
+            .tickSize(-legendHeight / 2)
             .tickFormat(d => metric === 'rank' ? `#${d}` : `${Math.round(d)} pts`);
 
         legendSvg.append("g")
             .attr("class", "legend-axis")
-            .attr("transform", `translate(6, ${8 + legendHeight})`)
+            .attr("transform", `translate(6, ${legendHeight})`)
             .call(legendAxis);
 
         d3.selectAll(".legend-axis").selectAll(".domain").remove();
+
     }
 }
 
@@ -256,27 +306,29 @@ function makeAnalyseGraph(data) {
     ).sort((a, b) => d3.descending(a[1], b[1])).map(d => d[0]);
 
     const dropdown = d3.select("#multiSelectDropdown");
-    dropdown.selectAll("*").remove(); // clear
 
-    // Vul dropdown
-    participantsSorted.forEach(participant => {
+    // Vul dropdown met vinkjes
+    participants.forEach(participant => {
         const label = dropdown.append("label");
         label.append("input")
             .attr("type", "checkbox")
             .attr("value", participant)
             .property("checked", true);
         label.append("span").text(" " + participant);
-    });
+    })
 
-    // Selecteer / deselecteer alles
+    // Selecteer alles
     d3.select("#selectAllBtn").on("click", () => {
-        dropdown.selectAll("input").property("checked", true);
-        updateSelection();
+        dropdown.selectAll("input[type='checkbox']")
+            .property("checked", true);
+        updateSelection(); // << herteken grafiek met ALLE deelnemers
     });
 
+    // Deselecteer alles
     d3.select("#deselectAllBtn").on("click", () => {
-        dropdown.selectAll("input").property("checked", false);
-        updateSelection();
+        dropdown.selectAll("input[type='checkbox']")
+            .property("checked", false);
+        updateSelection(); // << herteken grafiek met GEEN deelnemers
     });
 
     dropdown.selectAll("input").on("change", updateSelection);
@@ -300,26 +352,39 @@ function makeAnalyseGraph(data) {
         .text(d => d);
 
     d3.select("#participantSelect").on("change", () => {
-        const selected = Array.from(d3.select("#participantSelect").node().selectedOptions).map(d => d.value);
+        const selected = Array.from(d3.select("#participantSelect").node()).map(d => d.value);
         updateSelection(selected.length ? selected : []);
     });
 
     updateSelection();
 
-    function updateSelection(forced = null) {
-        let selected = forced;
-        if (!selected) {
-            selected = dropdown
-                .selectAll("input")
-                .filter(function () { return this.checked; })
-                .nodes()
-                .map(cb => cb.value);
-        }
+    document.getElementById("toggleStackMode")?.addEventListener("change", () => {
+        updateSelection();
+    });
 
-        // Sortering op total points laatste stage
+
+    function updateSelection(forced = null) {
+        selected = dropdown
+            .selectAll("input[type='checkbox']")
+            .filter(function () {
+                return this.checked;
+            })
+            .nodes()
+            .map(cb => cb.value)
+
+        // Bepaal de laatste stage
+        const lastStage = d3.max(data, d => d.stage);
+
+        // Bepaal de totale punten per geselecteerde deelnemer bij laatste stage
         selected.sort((a, b) => {
-            const totalA = d3.sum(data.filter(d => d.participant === a && d.stage === lastStage), d => d.total_points);
-            const totalB = d3.sum(data.filter(d => d.participant === b && d.stage === lastStage), d => d.total_points);
+            const totalA = d3.sum(
+                data.filter(d => d.participant === a && d.stage === lastStage),
+                d => d.total_points
+            );
+            const totalB = d3.sum(
+                data.filter(d => d.participant === b && d.stage === lastStage),
+                d => d.total_points
+            );
             return d3.descending(totalA, totalB);
         });
 
@@ -340,12 +405,7 @@ function makeAnalyseGraph(data) {
         d3.select("#analyseGraph").html("");
 
         const container = d3.select("#analyseGraph")
-            .style("display", "grid")
-            .style("gap", "12px")
-            .style("grid-template-columns", () => {
-                const n = Math.min(participantsToShow.length, 4);
-                return `repeat(${n}, 1fr)`;
-            });
+        colWidth = getGridColumnWidth('.analyseGraphGrid', participantsToShow.length);
 
         participantsToShow.forEach(participant => {
             const participantData = data.filter(d => d.participant === participant);
@@ -366,16 +426,18 @@ function makeAnalyseGraph(data) {
                 return entry;
             });
 
+            const usePercent = document.getElementById("toggleStackMode")?.checked;
+
             const stack = d3.stack()
                 .keys(riderOrder)
                 .order(d3.stackOrderNone)
-                .offset(d3.stackOffsetNone);
+                .offset(usePercent ? d3.stackOffsetExpand : d3.stackOffsetNone);
 
             const stackedData = stack(nested);
 
-            const width = 300;
-            const height = 200;
-            const margin = { top: 48, right: 60, bottom: 24, left: 28 };
+            const width = colWidth;
+            const height = 240;
+            const margin = { top: 48, right: 60, bottom: 24, left: 32 };
 
             const x = d3.scaleLinear()
                 .domain(d3.extent(stageIds))
@@ -384,7 +446,7 @@ function makeAnalyseGraph(data) {
             const yMax = Math.ceil(d3.max(stackedData, layer => d3.max(layer, d => d[1])) / 200) * 200;
 
             const y = d3.scaleLinear()
-                .domain([0, yMax])
+                .domain([0, usePercent ? 1 : yMax])
                 .range([height - margin.bottom, margin.top]);
 
             const area = d3.area()
@@ -398,22 +460,27 @@ function makeAnalyseGraph(data) {
 
             svg.append("g")
                 .attr("transform", `translate(0,${height - margin.bottom})`)
-                .call(d3.axisBottom(x).tickFormat(d => `s${d}`))
+                .call(d3.axisBottom(x).tickFormat(d => `s${d}`).ticks(5))
                 .attr("font-size", "0.7rem");
 
             const tickWidth = x(lastStage) - margin.left;
 
             svg.append("g")
                 .attr("transform", `translate(${margin.left},0)`)
-                .call(d3.axisLeft(y).ticks(4).tickSizeInner(-tickWidth))
+                .call(
+                    d3.axisLeft(y)
+                        .ticks(4)
+                        .tickSizeInner(-tickWidth)
+                        .tickFormat(d => usePercent ? `${Math.round(d * 100)}%` : d)
+                )
                 .attr("class", "axis")
                 .call(g => g.select(".domain").remove());
+
 
             svg.selectAll(".area")
                 .data(stackedData)
                 .join("path")
                 .attr("class", "area")
-                .attr("d", area)
                 .on("mousemove", function (event, d) {
                     const [xm] = d3.pointer(event);
                     const x0 = Math.round(x.invert(xm));
@@ -423,19 +490,27 @@ function makeAnalyseGraph(data) {
                             .style("display", "block")
                             .style("left", event.pageX + 10 + "px")
                             .style("top", event.pageY + 10 + "px")
-                            .html(`<strong>${d.key}</strong><br>Stage ${x0}<br>${Math.round(entry.data[d.key])} pts`);
+                            .html(() => {
+                                const points = entry.data[d.key];
+                                const value = usePercent
+                                    ? `${Math.round(points * 100)}%`
+                                    : `${Math.round(points)} pts`;
+                                return `<strong>${d.key}</strong>`;
+                            });
+
                     }
                 })
                 .on("mouseleave", () => {
                     d3.select("#tooltip").style("display", "none");
-                });
+                })
+                .attr("d", area)
 
             svg.selectAll(".rider-label")
                 .data(stackedData)
                 .join("text")
                 .filter(d => {
                     const last = d[d.length - 1];
-                    return Math.abs(y(last[0]) - y(last[1])) > 10;
+                    return Math.abs(y(last[0]) - y(last[1])) > 8;
                 })
                 .attr("class", "rider-label")
                 .attr("x", width - margin.right + 4)
@@ -453,6 +528,7 @@ function makeAnalyseGraph(data) {
                 .attr("y", margin.top - 12)
                 .attr("class", "area-title")
                 .text(participant);
+
         });
     }
 }

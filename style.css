@@ -7,6 +7,7 @@
   --greyDark: grey;
   --white: #ffffff;
   --black: black;
+  --transitionDuration: 250ms;
 }
 
 html,
@@ -17,6 +18,12 @@ body {
   font-family: var(--font-serif);
 }
 
+.page {
+  display: flex;
+  background: var(--grey);
+}
+
+/* Navigation bar */
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -36,20 +43,6 @@ body {
 
 .navTitle span {
   color: #F0C600;
-}
-
-/* Hamburger button */
-.hamburger {
-  display: none;
-  background: none;
-  border: none;
-  font-size: 1.6rem;
-  color: white;
-  cursor: pointer;
-}
-
-#hamburgerBtn {
-  padding: 0;
 }
 
 /* Menu container */
@@ -79,7 +72,21 @@ body {
   font-weight: 500;
 }
 
-/* 📱 Mobile styles */
+/* Hamburger button */
+.hamburger {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 1.6rem;
+  color: white;
+  cursor: pointer;
+}
+
+#hamburgerBtn {
+  padding: 0;
+}
+
+/* Mobile styles */
 @media (max-width: 768px) {
   .hamburger {
     display: block;
@@ -111,11 +118,7 @@ body {
   }
 }
 
-.page {
-  display: flex;
-  background: var(--grey);
-}
-
+/* Side bar */
 .sideBar {
   width: 48px;
   background: var(--white);
@@ -143,12 +146,13 @@ body {
   font-weight: 700;
 }
 
+
+/* Tab content */
 .tabContent {
   flex: 1 0 auto;
-  padding: 24px 12px;
+  padding: 24px;
   max-width: 1280px;
   margin: 0 auto;
-  /* <<< Horizontaal centreren */
 }
 
 .tabHeader {
@@ -157,16 +161,21 @@ body {
   top: 0;
   background-color: var(--grey);
   border-bottom: 1px solid var(--white);
-  padding: 12px 0;
+  padding: 0 0 12px;
 }
 
-@media (min-width: 768px) {
-  #content {
-    padding: 24px 24px 0;
-  }
+.tabTitle,
+.tabSubtitle {
+  font-family: var(--font-sans);
 }
 
-.filters {
+.tabSubtitle {
+  font-weight: 300;
+  font-size: 0.8rem;
+  color: var(--white);
+}
+
+.tabFilters {
   display: flex;
   flex-wrap: wrap;
   margin: 12px 0;
@@ -179,48 +188,7 @@ body {
 
 .legendContainer {
   flex: 1 1 auto;
-}
-
-@media (max-width: 768px) {
-  .filters {
-    flex-direction: column;
-  }
-
-  .colorModeToggle,
-  .legendContainer {
-    width: 100%;
-    /* Zorg dat beide volle breedte pakken */
-  }
-}
-
-button,
-.multiSelectBtn {
-  font-family: var(--font-sans);
-  font-size: 0.8rem;
-  font-weight: 400;
-  color: var(--white);
-  text-align: center;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  padding: 9px 15px;
-  background-color: var(--grey);
-  border: 1px solid var(--greyDark);
-  border-radius: 3px;
-  cursor: pointer;
-  min-width: 90px;
-  box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.06), 0px 0px 5px rgba(0, 0, 0, 0.2);
-  transition: background-color 250ms;
-}
-
-button:hover {
-  background-color: rgba(240, 198, 0, 0.6);
-}
-
-button.active {
-  background-color: rgba(0, 0, 0, 0.8);
-  border: 1px solid var(--black);
-  color: var(--white);
-  font-weight: 500;
+  height: 24px;
 }
 
 #legendSvg {
@@ -234,14 +202,57 @@ button.active {
   font-family: var(--font-sans);
   font-size: 0.8rem;
   font-weight: 400;
-  fill: var(--black)
+  fill: var(--dark)
+}
+
+
+@media (max-width: 768px) {
+  .tabFilters {
+    flex-direction: column;
+  }
+
+  .colorModeToggle,
+  .legendContainer {
+    width: 100%;
+  }
+}
+
+/* Buttons */
+button,
+.multiSelectBtn,
+.toggleStackButton {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: var(--white);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 9px 15px;
+  background-color: var(--grey);
+  border: 1px solid var(--greyDark);
+  border-radius: 3px;
+  cursor: pointer;
+  min-width: 60px;
+  box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.06), 0px 0px 5px rgba(0, 0, 0, 0.2);
+  transition: background-color var(--transitionDuration);
+}
+
+button:hover {
+  background-color: rgba(240, 198, 0, 0.6);
+}
+
+button.active {
+  background-color: rgba(0, 0, 0, 0.8);
+  border: 1px solid var(--black);
+  color: var(--white);
+  font-weight: 500;
 }
 
 .multiSelectWrapper {
   position: relative;
   display: inline-block;
-  min-width: 360px;
-  margin-bottom: 12px;
+  min-width: 240px;
 }
 
 .multiSelectBtn {
@@ -285,19 +296,61 @@ button.active {
   padding: 6px 9px;
 }
 
-.graph__title,
-.graph__subtitle {
-  font-family: var(--font-sans);
-  margin: 0;
+.toggleStackButton {
+  min-width: 200px;
 }
 
-.graph__subtitle {
-  font-weight: 300;
-  font-size: 0.8rem;
-  color: var(--white);
-  margin-top: 6px;
+/* Hide the browser's default checkbox */
+.toggleStackButton input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 18px;
+  width: 18px;
 }
 
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 97px;
+  left: 12px;
+  height: 18px;
+  width: 18px;
+  background-color: var(--greyDark);
+  border-radius: 2px;
+}
+
+.toggleStackButton:hover input ~ .checkmark {
+  background-color: var(--accentColor);
+}
+
+.toggleStackButton input:checked ~ .checkmark {
+  background-color: var(--dark);
+}
+
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.toggleStackButton input:checked ~ .checkmark:after {
+  display: block;
+}
+
+.toggleStackButton .checkmark:after {
+  left: 6px;
+  top: 2px;
+  width: 4px;
+  height: 8px;
+  border: solid var(--white);
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+/* Graphs */
 .rankGraphWrapper {
   margin-top: 24px;
 }
@@ -310,7 +363,7 @@ button.active {
 .axis {
   font-family: var(--font-sans);
   font-weight: 300;
-  font-size: 0.6rem;
+  font-size: 0.7rem;
   color: var(--white);
 }
 
@@ -364,23 +417,39 @@ button.active {
   gap: 12px;
 }
 
+#analyseGraph {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 12px;
+}
+
 .area {
-  fill: var(--accentColor);
-  stroke: var(--accentColor);
+  /* fill: var(--accentColor);
+  stroke: var(--accentColor); */
+  stroke: #4C5165;
+  stroke-opacity: 0.6;
+  fill: #4C5165;
   fill-opacity: 0.4;
+  transition: fill-opacity var(--transitionDuration);
+}
+
+.area:hover {
+  fill-opacity: 0.8;
 }
 
 .rider-label {
   font-family: var(--font-sans);
   font-weight: 500;
   font-size: 0.6rem;
-  fill: var(--dark);
+  fill: #4C5165;
 }
 
 .area-title {
   font-family: var(--font-sans);
-  font-weight: 700;
+  font-weight: 500;
   font-size: 0.8rem;
+  fill: var(--dark);
 }
 
 #tooltip {

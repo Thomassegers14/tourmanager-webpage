@@ -24,12 +24,7 @@
     <h2 class="navTitle">
       Tourmanager <span><script>document.write(new Date().getFullYear())</script></span>
     </h2>
-
-    <!-- Hamburger button -->
-    <button class="hamburger" id="hamburgerBtn" aria-label="Toggle menu">
-      ☰
-    </button>
-
+    <button class="hamburger" id="hamburgerBtn" aria-label="Toggle menu">☰</button>
     <div class="navListContainer" id="navMenu">
       <ul class="navList">
         <li><a href="#ranking" class="navLink">Ranking</a></li>
@@ -51,9 +46,9 @@
 
     <div id="tab-ranking" class="tabContent">
       <div class="tabHeader">
-        <h3 class="graph__title">Ranking</h3>
-        <h3 class="graph__subtitle">Ranking na elke etappe</h3>
-        <div class="filters">
+        <h3 class="tabTitle">Ranking</h3>
+        <h3 class="tabSubtitle">Ranking na elke etappe</h3>
+        <div class="tabFilters">
           <div class="colorModeToggle">
             <button id="colorByRank" data-color="rank">Ranking</button>
             <button id="colorByPoints" data-color="points">Punten</button>
@@ -70,15 +65,21 @@
     </div>
 
     <div id="tab-analyse" class="tabContent">
-      <h3 class="graph__title">Analyse</h3>
-      <h3 class="graph__subtitle">Punten gescoord per deelnemer en wielrenner</h3>
-      <div class="filters">
-        <div class="multiSelectWrapper">
-          <div class="multiSelectBtn" id="multiSelectBtn">Selecteer deelnemers ▾</div>
-          <div class="multiSelectDropdown" id="multiSelectDropdown">
-            <div id="multiSelectControls">
-              <button type="button" id="selectAllBtn">Alles selecteren</button>
-              <button type="button" id="deselectAllBtn">Niets selecteren</button>
+      <div class="tabHeader">
+        <h3 class="tabTitle">Analyse</h3>
+        <h3 class="tabSubtitle">Punten gescoord per deelnemer en wielrenner</h3>
+        <div class="tabFilters">
+          <label class="toggleStackButton">Gestapeld tot 100%
+            <input type="checkbox" id="toggleStackMode" />
+            <span class="checkmark"></span>
+          </label>
+          <div class="multiSelectWrapper">
+            <div class="multiSelectBtn" id="multiSelectBtn">Selecteer deelnemers ▾</div>
+            <div class="multiSelectDropdown" id="multiSelectDropdown">
+              <div id="multiSelectControls">
+                <button type="button" id="selectAllBtn">Alles selecteren</button>
+                <button type="button" id="deselectAllBtn">Niets selecteren</button>
+              </div>
             </div>
           </div>
         </div>
