@@ -127,7 +127,7 @@ function makeRankGraph(data) {
 
     const lastStageData = data.filter(d => d.stage === lastStage);
     const sortedParticipants = lastStageData
-        .sort((a, b) => d3.descending(a.total_points, b.total_points))
+        .sort((a, b) => d3.descending(a.cumulative_points, b.cumulative_points))
         .map(d => d.participant);
 
     const { width, height } = d3.select('.rankGraph').node().getBoundingClientRect();
@@ -203,7 +203,7 @@ function makeRankGraph(data) {
             .attr("x", d => xScale(d.stage) + xScale.bandwidth() + 6)
             .attr("y", d => yScale(d.participant) + 16)
             .attr("text-anchor", "start")
-            .text(d => `${Math.round(d.total_points)} pts`);
+            .text(d => `${Math.round(d.cumulative_points)} pts`);
     }
 
     renderCells();
@@ -236,8 +236,8 @@ function makeRankGraph(data) {
         d3.selectAll(".colorModeToggle button").classed("active", false);
         const idMap = {
             rank: "colorByRank",
-            points: "colorByPoints",
-            total_points: "colorByTotalPoints"
+            stage_points: "colorByPoints",
+            cumulative_points: "colorByTotalPoints"
         };
         d3.select(`#${idMap[metric]}`).classed("active", true);
 
@@ -300,15 +300,15 @@ function makeAnalyseGraph(data) {
     const participantsSorted = Array.from(
         d3.rollup(
             data.filter(d => d.stage === lastStage),
-            v => d3.sum(v, d => d.total_points),
+            v => d3.sum(v, d => d.cumulative_rider_points),
             d => d.participant
         )
     ).sort((a, b) => d3.descending(a[1], b[1])).map(d => d[0]);
 
     const uniqueScores = Array.from(
         d3.rollup(
-            data.filter(d => d.stage === lastStage & d.total_points > 0),
-            v => v[0].total_points, // neem eerste voorkomens
+            data.filter(d => d.stage === lastStage & d.cumulative_rider_points > 0),
+            v => v[0].cumulative_rider_points, // neem eerste voorkomens
             d => d.rider_name
         )
     )
@@ -316,7 +316,7 @@ function makeAnalyseGraph(data) {
     const topRiders = Array.from(uniqueScores)
         .sort((a, b) => d3.descending(a[1], b[1]))
         .slice(0, 6)
-        .map(d => d[0])
+        .map(d => d[0])   
 
     const colorScale = d3.scaleOrdinal()
         .domain(topRiders)
@@ -396,11 +396,11 @@ function makeAnalyseGraph(data) {
         selected.sort((a, b) => {
             const totalA = d3.sum(
                 data.filter(d => d.participant === a && d.stage === lastStage),
-                d => d.total_points
+                d => d.cumulative_rider_points
             );
             const totalB = d3.sum(
                 data.filter(d => d.participant === b && d.stage === lastStage),
-                d => d.total_points
+                d => d.cumulative_rider_points
             );
             return d3.descending(totalA, totalB);
         });
@@ -430,7 +430,7 @@ function makeAnalyseGraph(data) {
             const riderOrder = Array.from(
                 d3.rollup(
                     participantData.filter(d => d.stage === lastStage),
-                    v => d3.median(v, d => d.total_points),
+                    v => d3.median(v, d => d.cumulative_rider_points),
                     d => d.rider_name
                 )
             ).sort((a, b) => d3.descending(a[1], b[1])).map(d => d[0])
@@ -439,7 +439,7 @@ function makeAnalyseGraph(data) {
                 const stageData = participantData.filter(d => d.stage === stage);
                 const entry = { stage };
                 riderNames.forEach(r => entry[r] = 0);
-                stageData.forEach(d => entry[d.rider_name] = d.total_points);
+                stageData.forEach(d => entry[d.rider_name] = d.cumulative_rider_points);
                 return entry;
             });
 
@@ -574,7 +574,7 @@ function makeAnalyseGraph(data) {
             // Bereken totaal aantal punten voor de laatste stage
             const totalPointsLastStage = d3.sum(
                 participantData.filter(d => d.stage === lastStage),
-                d => d.total_points
+                d => d.cumulative_rider_points
             );
 
             // Voeg titel toe met participant en totaal
