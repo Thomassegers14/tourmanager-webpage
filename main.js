@@ -190,7 +190,7 @@ function makeRankGraph(data) {
         svg.selectAll(".rankText")
             .data(data, d => d.participant + ':' + d.stage)
             .join("text")
-            .attr("class", "rankText")
+            .attr("class", d => d.stage === lastStage ? "rankText rankTextStrong" : "rankText")
             .attr("x", d => xScale(d.stage) + xScale.bandwidth() / 2)
             .attr("y", d => yScale(d.participant) + yScale.bandwidth() / 2 + 3)
             .attr("text-anchor", "middle")

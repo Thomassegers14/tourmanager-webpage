@@ -395,6 +395,10 @@ button.active {
   paint-order: stroke;
 }
 
+.rankTextStrong {
+  font-weight: 700;
+}
+
 @media (min-width: 768px) {
   .rankText {
     font-size: 0.7rem;
