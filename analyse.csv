@@ -5675,6 +5675,38 @@ TAS Alex,rider/joao-almeida,ALMEIDA João,race/tour-de-france/2025/stage-19,19,0
 TAS Alex,rider/joao-almeida,ALMEIDA João,race/tour-de-france/2025/stage-20,20,0,16
 TAS Alex,rider/joao-almeida,ALMEIDA João,race/tour-de-france/2025/stage-21,21,0,16
 TAS Alex,rider/joao-almeida,ALMEIDA João,final,22,0,16
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-4,4,8,8
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-4,4,1,9
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-5,5,30,39
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-5,5,3,42
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-5,5,3,45
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-6,6,2,47
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-6,6,3,50
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-7,7,10,60
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-7,7,3,63
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-7,7,3,66
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-8,8,3,69
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-8,8,3,72
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-9,9,3,75
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-9,9,3,78
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-10,10,2,80
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-10,10,2,82
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-11,11,2,84
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-11,11,2,86
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-12,12,8,94
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-12,12,2,96
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-12,12,3,99
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-13,13,2,101
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-13,13,3,104
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-14,14,0,104
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-15,15,0,104
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-16,16,0,104
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-17,17,0,104
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-18,18,0,104
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-19,19,0,104
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-20,20,0,104
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-21,21,0,104
+TAS Alex,rider/remco-evenepoel,EVENEPOEL Remco,final,22,0,104
 TAS Alex,rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2025/stage-2,2,25,25
 TAS Alex,rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2025/stage-2,2,3,28
 TAS Alex,rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2025/stage-2,2,3,31
@@ -5741,21 +5773,6 @@ TAS Alex,rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2025/stage-20,20
 TAS Alex,rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2025/stage-20,20,3,420
 TAS Alex,rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2025/stage-21,21,14,434
 TAS Alex,rider/tadej-pogacar,POGAČAR Tadej,final,22,160,594
-TAS Alex,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-8,8,25,25
-TAS Alex,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-9,9,0,25
-TAS Alex,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-10,10,0,25
-TAS Alex,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-11,11,12,37
-TAS Alex,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-12,12,0,37
-TAS Alex,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-13,13,0,37
-TAS Alex,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-14,14,0,37
-TAS Alex,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-15,15,14,51
-TAS Alex,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-16,16,0,51
-TAS Alex,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-17,17,0,51
-TAS Alex,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-18,18,0,51
-TAS Alex,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-19,19,0,51
-TAS Alex,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-20,20,0,51
-TAS Alex,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-21,21,30,81
-TAS Alex,rider/wout-van-aert,VAN AERT Wout,final,22,0,81
 VAN BROECK Gunther,rider/felix-gall,GALL Felix,race/tour-de-france/2025/stage-7,7,14,14
 VAN BROECK Gunther,rider/felix-gall,GALL Felix,race/tour-de-france/2025/stage-8,8,0,14
 VAN BROECK Gunther,rider/felix-gall,GALL Felix,race/tour-de-france/2025/stage-9,9,0,14
@@ -6778,6 +6795,38 @@ VAN PUYMBROECK Bert,rider/lenny-martinez,MARTINEZ Lenny,race/tour-de-france/2025
 VAN PUYMBROECK Bert,rider/lenny-martinez,MARTINEZ Lenny,race/tour-de-france/2025/stage-20,20,1,33
 VAN PUYMBROECK Bert,rider/lenny-martinez,MARTINEZ Lenny,race/tour-de-france/2025/stage-21,21,0,33
 VAN PUYMBROECK Bert,rider/lenny-martinez,MARTINEZ Lenny,final,22,20,53
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-4,4,8,8
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-4,4,1,9
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-5,5,30,39
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-5,5,3,42
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-5,5,3,45
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-6,6,2,47
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-6,6,3,50
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-7,7,10,60
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-7,7,3,63
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-7,7,3,66
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-8,8,3,69
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-8,8,3,72
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-9,9,3,75
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-9,9,3,78
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-10,10,2,80
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-10,10,2,82
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-11,11,2,84
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-11,11,2,86
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-12,12,8,94
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-12,12,2,96
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-12,12,3,99
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-13,13,2,101
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-13,13,3,104
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-14,14,0,104
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-15,15,0,104
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-16,16,0,104
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-17,17,0,104
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-18,18,0,104
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-19,19,0,104
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-20,20,0,104
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,race/tour-de-france/2025/stage-21,21,0,104
+VAN PUYMBROECK Bert,rider/remco-evenepoel,EVENEPOEL Remco,final,22,0,104
 VAN PUYMBROECK Bert,rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2025/stage-2,2,25,25
 VAN PUYMBROECK Bert,rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2025/stage-2,2,3,28
 VAN PUYMBROECK Bert,rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2025/stage-2,2,3,31
@@ -6844,21 +6893,6 @@ VAN PUYMBROECK Bert,rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2025/
 VAN PUYMBROECK Bert,rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2025/stage-20,20,3,420
 VAN PUYMBROECK Bert,rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2025/stage-21,21,14,434
 VAN PUYMBROECK Bert,rider/tadej-pogacar,POGAČAR Tadej,final,22,160,594
-VAN PUYMBROECK Bert,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-8,8,25,25
-VAN PUYMBROECK Bert,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-9,9,0,25
-VAN PUYMBROECK Bert,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-10,10,0,25
-VAN PUYMBROECK Bert,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-11,11,12,37
-VAN PUYMBROECK Bert,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-12,12,0,37
-VAN PUYMBROECK Bert,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-13,13,0,37
-VAN PUYMBROECK Bert,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-14,14,0,37
-VAN PUYMBROECK Bert,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-15,15,14,51
-VAN PUYMBROECK Bert,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-16,16,0,51
-VAN PUYMBROECK Bert,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-17,17,0,51
-VAN PUYMBROECK Bert,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-18,18,0,51
-VAN PUYMBROECK Bert,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-19,19,0,51
-VAN PUYMBROECK Bert,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-20,20,0,51
-VAN PUYMBROECK Bert,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-21,21,30,81
-VAN PUYMBROECK Bert,rider/wout-van-aert,VAN AERT Wout,final,22,0,81
 VAN PUYMBROECK Bram,rider/ben-healy,HEALY Ben,race/tour-de-france/2025/stage-6,6,30,30
 VAN PUYMBROECK Bram,rider/ben-healy,HEALY Ben,race/tour-de-france/2025/stage-6,6,1,31
 VAN PUYMBROECK Bram,rider/ben-healy,HEALY Ben,race/tour-de-france/2025/stage-6,6,1,32
@@ -7020,21 +7054,27 @@ VAN PUYMBROECK Bram,rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2025/
 VAN PUYMBROECK Bram,rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2025/stage-20,20,3,420
 VAN PUYMBROECK Bram,rider/tadej-pogacar,POGAČAR Tadej,race/tour-de-france/2025/stage-21,21,14,434
 VAN PUYMBROECK Bram,rider/tadej-pogacar,POGAČAR Tadej,final,22,160,594
-VAN PUYMBROECK Bram,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-8,8,25,25
-VAN PUYMBROECK Bram,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-9,9,0,25
-VAN PUYMBROECK Bram,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-10,10,0,25
-VAN PUYMBROECK Bram,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-11,11,12,37
-VAN PUYMBROECK Bram,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-12,12,0,37
-VAN PUYMBROECK Bram,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-13,13,0,37
-VAN PUYMBROECK Bram,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-14,14,0,37
-VAN PUYMBROECK Bram,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-15,15,14,51
-VAN PUYMBROECK Bram,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-16,16,0,51
-VAN PUYMBROECK Bram,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-17,17,0,51
-VAN PUYMBROECK Bram,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-18,18,0,51
-VAN PUYMBROECK Bram,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-19,19,0,51
-VAN PUYMBROECK Bram,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-20,20,0,51
-VAN PUYMBROECK Bram,rider/wout-van-aert,VAN AERT Wout,race/tour-de-france/2025/stage-21,21,30,81
-VAN PUYMBROECK Bram,rider/wout-van-aert,VAN AERT Wout,final,22,0,81
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-3,3,30,30
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-3,3,1,31
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-4,4,0,31
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-5,5,0,31
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-6,6,0,31
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-7,7,0,31
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-8,8,0,31
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-9,9,30,61
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-10,10,0,61
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-11,11,0,61
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-12,12,0,61
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-13,13,0,61
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-14,14,0,61
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-15,15,0,61
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-16,16,0,61
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-17,17,0,61
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-18,18,0,61
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-19,19,0,61
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-20,20,0,61
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,race/tour-de-france/2025/stage-21,21,0,61
+VAN PUYMBROECK Bram,rider/tim-merlier,MERLIER Tim,final,22,0,61
 VAN RAEMDONCK Dirk,rider/arnaud-de-lie,DE LIE Arnaud,race/tour-de-france/2025/stage-8,8,12,12
 VAN RAEMDONCK Dirk,rider/arnaud-de-lie,DE LIE Arnaud,race/tour-de-france/2025/stage-9,9,20,32
 VAN RAEMDONCK Dirk,rider/arnaud-de-lie,DE LIE Arnaud,race/tour-de-france/2025/stage-10,10,0,32

@@ -122,10 +122,10 @@ race/tour-de-france/2025/stage-3,3,* G-motmans69,5,48,0,34
 race/tour-de-france/2025/stage-3,3,DE BLANGER Clovis,11,48,0,35
 race/tour-de-france/2025/stage-3,3,SMET Katleen,6,47,0,36
 race/tour-de-france/2025/stage-3,3,VAN LAECKE Kristiaan,5,43,0,37
-race/tour-de-france/2025/stage-3,3,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,34,42,0,38
-race/tour-de-france/2025/stage-3,3,WAUTERS Stefaan,5,36,0,39
-race/tour-de-france/2025/stage-3,3,VAN DAMME Hubert,5,22,20,40
-race/tour-de-france/2025/stage-3,3,VAN PUYMBROECK Bram,5,12,30,41
+race/tour-de-france/2025/stage-3,3,VAN PUYMBROECK Bram,36,43,30,38
+race/tour-de-france/2025/stage-3,3,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,34,42,0,39
+race/tour-de-france/2025/stage-3,3,WAUTERS Stefaan,5,36,0,40
+race/tour-de-france/2025/stage-3,3,VAN DAMME Hubert,5,22,20,41
 race/tour-de-france/2025/stage-3,3,TAS Alex,5,-4,40,42
 race/tour-de-france/2025/stage-3,3,VAN PUYMBROECK Bert,5,-24,60,43
 race/tour-de-france/2025/stage-4,4,RELAES Damiaan,85,205,0,1
@@ -164,13 +164,13 @@ race/tour-de-france/2025/stage-4,4,VAN LAECKE Kristiaan,56,99,0,33
 race/tour-de-france/2025/stage-4,4,* G-motmans69,45,93,0,34
 race/tour-de-france/2025/stage-4,4,VAN RAEMDONCK Hilde,37,91,0,35
 race/tour-de-france/2025/stage-4,4,DE MEULENAER Dries,11,89,0,36
-race/tour-de-france/2025/stage-4,4,WAUTERS Stefaan,45,81,0,37
-race/tour-de-france/2025/stage-4,4,VAN DAMME Hubert,51,73,20,38
-race/tour-de-france/2025/stage-4,4,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,17,59,0,39
-race/tour-de-france/2025/stage-4,4,VAN PUYMBROECK Bram,42,54,30,40
-race/tour-de-france/2025/stage-4,4,RATING Kebab,0,50,0,41
-race/tour-de-france/2025/stage-4,4,TAS Alex,46,42,40,42
-race/tour-de-france/2025/stage-4,4,VAN PUYMBROECK Bert,46,22,60,43
+race/tour-de-france/2025/stage-4,4,VAN PUYMBROECK Bram,42,85,30,37
+race/tour-de-france/2025/stage-4,4,WAUTERS Stefaan,45,81,0,38
+race/tour-de-france/2025/stage-4,4,VAN DAMME Hubert,51,73,20,39
+race/tour-de-france/2025/stage-4,4,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,17,59,0,40
+race/tour-de-france/2025/stage-4,4,TAS Alex,55,51,40,41
+race/tour-de-france/2025/stage-4,4,RATING Kebab,0,50,0,42
+race/tour-de-france/2025/stage-4,4,VAN PUYMBROECK Bert,55,31,60,43
 race/tour-de-france/2025/stage-5,5,RELAES Damiaan,69,274,0,1
 race/tour-de-france/2025/stage-5,5,SMET Arno,69,274,0,2
 race/tour-de-france/2025/stage-5,5,VERELST Thomas,69,273,0,3
@@ -207,12 +207,12 @@ race/tour-de-france/2025/stage-5,5,VAN DAMME Hubert,80,153,20,33
 race/tour-de-france/2025/stage-5,5,WAUTERS Stefaan,72,153,0,34
 race/tour-de-france/2025/stage-5,5,SMET Katleen,42,151,0,35
 race/tour-de-france/2025/stage-5,5,VAN RAEMDONCK Hilde,49,140,0,36
-race/tour-de-france/2025/stage-5,5,DE MEULENAER Dries,37,126,0,37
-race/tour-de-france/2025/stage-5,5,VAN GOETHEM Guy,2,122,0,38
-race/tour-de-france/2025/stage-5,5,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,38,97,0,39
-race/tour-de-france/2025/stage-5,5,VAN PUYMBROECK Bram,36,90,30,40
-race/tour-de-france/2025/stage-5,5,TAS Alex,42,84,40,41
-race/tour-de-france/2025/stage-5,5,VAN PUYMBROECK Bert,53,75,60,42
+race/tour-de-france/2025/stage-5,5,TAS Alex,78,129,40,37
+race/tour-de-france/2025/stage-5,5,DE MEULENAER Dries,37,126,0,38
+race/tour-de-france/2025/stage-5,5,VAN GOETHEM Guy,2,122,0,39
+race/tour-de-france/2025/stage-5,5,VAN PUYMBROECK Bram,36,121,30,40
+race/tour-de-france/2025/stage-5,5,VAN PUYMBROECK Bert,89,120,60,41
+race/tour-de-france/2025/stage-5,5,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,38,97,0,42
 race/tour-de-france/2025/stage-5,5,RATING Kebab,0,50,0,43
 race/tour-de-france/2025/stage-6,6,VERELST Thomas,20,293,0,1
 race/tour-de-france/2025/stage-6,6,RELAES Damiaan,12,286,0,2
@@ -249,13 +249,13 @@ race/tour-de-france/2025/stage-6,6,* G-motmans69,15,180,0,32
 race/tour-de-france/2025/stage-6,6,WAUTERS Stefaan,27,180,0,33
 race/tour-de-france/2025/stage-6,6,DE MEULENAER Dries,51,177,0,34
 race/tour-de-france/2025/stage-6,6,VAN DAMME Hubert,15,168,20,35
-race/tour-de-france/2025/stage-6,6,RELAES Lucie,4,159,0,36
-race/tour-de-france/2025/stage-6,6,VAN RAEMDONCK Hilde,8,148,0,37
-race/tour-de-france/2025/stage-6,6,VAN GOETHEM Guy,16,138,0,38
-race/tour-de-france/2025/stage-6,6,VAN PUYMBROECK Bram,42,132,30,39
-race/tour-de-france/2025/stage-6,6,VAN PUYMBROECK Bert,42,117,60,40
-race/tour-de-france/2025/stage-6,6,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,8,105,0,41
-race/tour-de-france/2025/stage-6,6,TAS Alex,10,94,40,42
+race/tour-de-france/2025/stage-6,6,VAN PUYMBROECK Bert,47,167,60,36
+race/tour-de-france/2025/stage-6,6,VAN PUYMBROECK Bram,42,163,30,37
+race/tour-de-france/2025/stage-6,6,RELAES Lucie,4,159,0,38
+race/tour-de-france/2025/stage-6,6,VAN RAEMDONCK Hilde,8,148,0,39
+race/tour-de-france/2025/stage-6,6,TAS Alex,15,144,40,40
+race/tour-de-france/2025/stage-6,6,VAN GOETHEM Guy,16,138,0,41
+race/tour-de-france/2025/stage-6,6,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,8,105,0,42
 race/tour-de-france/2025/stage-6,6,RATING Kebab,0,50,0,43
 race/tour-de-france/2025/stage-7,7,SMET Arno,101,387,0,1
 race/tour-de-france/2025/stage-7,7,RELAES Damiaan,85,371,0,2
@@ -291,14 +291,14 @@ race/tour-de-france/2025/stage-7,7,VERHULST Harry,40,252,0,31
 race/tour-de-france/2025/stage-7,7,* G-motmans69,56,236,0,32
 race/tour-de-france/2025/stage-7,7,VAN DAMME Hubert,68,236,20,33
 race/tour-de-france/2025/stage-7,7,WAUTERS Stefaan,56,236,0,34
-race/tour-de-france/2025/stage-7,7,RELAES Lucie,51,210,0,35
-race/tour-de-france/2025/stage-7,7,DE MEULENAER Dries,32,209,0,36
-race/tour-de-france/2025/stage-7,7,VAN RAEMDONCK Hilde,52,200,0,37
-race/tour-de-france/2025/stage-7,7,VAN PUYMBROECK Bram,59,191,30,38
-race/tour-de-france/2025/stage-7,7,VAN PUYMBROECK Bert,41,158,60,39
-race/tour-de-france/2025/stage-7,7,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,45,150,0,40
-race/tour-de-france/2025/stage-7,7,VAN GOETHEM Guy,3,141,0,41
-race/tour-de-france/2025/stage-7,7,TAS Alex,40,134,40,42
+race/tour-de-france/2025/stage-7,7,VAN PUYMBROECK Bert,57,224,60,35
+race/tour-de-france/2025/stage-7,7,VAN PUYMBROECK Bram,59,222,30,36
+race/tour-de-france/2025/stage-7,7,RELAES Lucie,51,210,0,37
+race/tour-de-france/2025/stage-7,7,DE MEULENAER Dries,32,209,0,38
+race/tour-de-france/2025/stage-7,7,TAS Alex,56,200,40,39
+race/tour-de-france/2025/stage-7,7,VAN RAEMDONCK Hilde,52,200,0,40
+race/tour-de-france/2025/stage-7,7,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,45,150,0,41
+race/tour-de-france/2025/stage-7,7,VAN GOETHEM Guy,3,141,0,42
 race/tour-de-france/2025/stage-7,7,RATING Kebab,0,50,0,43
 race/tour-de-france/2025/stage-8,8,SMET Arno,14,401,0,1
 race/tour-de-france/2025/stage-8,8,DECLEYRE Michiel,32,400,0,2
@@ -335,12 +335,12 @@ race/tour-de-france/2025/stage-8,8,* G-motmans69,27,263,0,32
 race/tour-de-france/2025/stage-8,8,VAN DAMME Hubert,15,251,20,33
 race/tour-de-france/2025/stage-8,8,WAUTERS Stefaan,15,251,0,34
 race/tour-de-france/2025/stage-8,8,DE MEULENAER Dries,33,242,0,35
-race/tour-de-france/2025/stage-8,8,VAN RAEMDONCK Hilde,35,235,0,36
-race/tour-de-france/2025/stage-8,8,VAN PUYMBROECK Bram,35,226,30,37
-race/tour-de-france/2025/stage-8,8,RELAES Lucie,4,214,0,38
-race/tour-de-france/2025/stage-8,8,VAN PUYMBROECK Bert,35,193,60,39
-race/tour-de-france/2025/stage-8,8,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,42,192,0,40
-race/tour-de-france/2025/stage-8,8,TAS Alex,34,168,40,41
+race/tour-de-france/2025/stage-8,8,VAN PUYMBROECK Bert,16,240,60,36
+race/tour-de-france/2025/stage-8,8,VAN RAEMDONCK Hilde,35,235,0,37
+race/tour-de-france/2025/stage-8,8,VAN PUYMBROECK Bram,10,232,30,38
+race/tour-de-france/2025/stage-8,8,TAS Alex,15,215,40,39
+race/tour-de-france/2025/stage-8,8,RELAES Lucie,4,214,0,40
+race/tour-de-france/2025/stage-8,8,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,42,192,0,41
 race/tour-de-france/2025/stage-8,8,VAN GOETHEM Guy,15,156,0,42
 race/tour-de-france/2025/stage-8,8,RATING Kebab,0,50,0,43
 race/tour-de-france/2025/stage-9,9,DECLEYRE Michiel,46,446,0,1
@@ -377,14 +377,14 @@ race/tour-de-france/2025/stage-9,9,DE MEULENAER Dries,48,290,0,31
 race/tour-de-france/2025/stage-9,9,LEROY Sandra,9,287,0,32
 race/tour-de-france/2025/stage-9,9,VAN LAECKE Kristiaan,9,280,0,33
 race/tour-de-france/2025/stage-9,9,VAN RAEMDONCK Hilde,40,275,0,34
-race/tour-de-france/2025/stage-9,9,VAN DAMME Hubert,15,266,20,35
-race/tour-de-france/2025/stage-9,9,WAUTERS Stefaan,15,266,0,36
-race/tour-de-france/2025/stage-9,9,VAN PUYMBROECK Bram,10,236,30,37
-race/tour-de-france/2025/stage-9,9,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,39,231,0,38
-race/tour-de-france/2025/stage-9,9,RELAES Lucie,4,218,0,39
-race/tour-de-france/2025/stage-9,9,VAN PUYMBROECK Bert,10,203,60,40
-race/tour-de-france/2025/stage-9,9,VAN GOETHEM Guy,23,179,0,41
-race/tour-de-france/2025/stage-9,9,TAS Alex,9,177,40,42
+race/tour-de-france/2025/stage-9,9,VAN PUYMBROECK Bram,40,272,30,35
+race/tour-de-france/2025/stage-9,9,VAN DAMME Hubert,15,266,20,36
+race/tour-de-france/2025/stage-9,9,WAUTERS Stefaan,15,266,0,37
+race/tour-de-france/2025/stage-9,9,VAN PUYMBROECK Bert,16,256,60,38
+race/tour-de-france/2025/stage-9,9,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,39,231,0,39
+race/tour-de-france/2025/stage-9,9,TAS Alex,15,230,40,40
+race/tour-de-france/2025/stage-9,9,RELAES Lucie,4,218,0,41
+race/tour-de-france/2025/stage-9,9,VAN GOETHEM Guy,23,179,0,42
 race/tour-de-france/2025/stage-9,9,RATING Kebab,0,50,0,43
 race/tour-de-france/2025/stage-10,10,SMET Bart,56,487,0,1
 race/tour-de-france/2025/stage-10,10,DECLEYRE Michiel,37,483,0,2
@@ -416,17 +416,17 @@ race/tour-de-france/2025/stage-10,10,VERHULST Harry,32,348,0,27
 race/tour-de-france/2025/stage-10,10,ROOMS Ben,28,344,0,28
 race/tour-de-france/2025/stage-10,10,DE MEULENAER Dries,50,340,0,29
 race/tour-de-france/2025/stage-10,10,LEROY Sandra,39,326,0,30
-race/tour-de-france/2025/stage-10,10,DE MAEYER peter,9,325,0,31
-race/tour-de-france/2025/stage-10,10,VAN LAECKE Kristiaan,39,319,0,32
-race/tour-de-france/2025/stage-10,10,* G-motmans69,13,311,0,33
-race/tour-de-france/2025/stage-10,10,WAUTERS Stefaan,43,309,0,34
-race/tour-de-france/2025/stage-10,10,VAN PUYMBROECK Bram,54,290,30,35
-race/tour-de-france/2025/stage-10,10,VAN RAEMDONCK Hilde,13,288,0,36
-race/tour-de-france/2025/stage-10,10,VAN DAMME Hubert,13,279,20,37
-race/tour-de-france/2025/stage-10,10,VAN PUYMBROECK Bert,48,251,60,38
+race/tour-de-france/2025/stage-10,10,VAN PUYMBROECK Bram,54,326,30,31
+race/tour-de-france/2025/stage-10,10,DE MAEYER peter,9,325,0,32
+race/tour-de-france/2025/stage-10,10,VAN LAECKE Kristiaan,39,319,0,33
+race/tour-de-france/2025/stage-10,10,* G-motmans69,13,311,0,34
+race/tour-de-france/2025/stage-10,10,WAUTERS Stefaan,43,309,0,35
+race/tour-de-france/2025/stage-10,10,VAN PUYMBROECK Bert,52,308,60,36
+race/tour-de-france/2025/stage-10,10,VAN RAEMDONCK Hilde,13,288,0,37
+race/tour-de-france/2025/stage-10,10,VAN DAMME Hubert,13,279,20,38
 race/tour-de-france/2025/stage-10,10,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,13,244,0,39
-race/tour-de-france/2025/stage-10,10,RELAES Lucie,17,235,0,40
-race/tour-de-france/2025/stage-10,10,TAS Alex,9,186,40,41
+race/tour-de-france/2025/stage-10,10,TAS Alex,13,243,40,40
+race/tour-de-france/2025/stage-10,10,RELAES Lucie,17,235,0,41
 race/tour-de-france/2025/stage-10,10,VAN GOETHEM Guy,0,179,0,42
 race/tour-de-france/2025/stage-10,10,RATING Kebab,44,94,0,43
 race/tour-de-france/2025/stage-11,11,SMET Bart,32,519,0,1
@@ -460,17 +460,17 @@ race/tour-de-france/2025/stage-11,11,VERHULST Harry,22,370,0,28
 race/tour-de-france/2025/stage-11,11,DE MEULENAER Dries,27,367,0,29
 race/tour-de-france/2025/stage-11,11,LEROY Sandra,26,352,0,30
 race/tour-de-france/2025/stage-11,11,DE MAEYER peter,17,342,0,31
-race/tour-de-france/2025/stage-11,11,* G-motmans69,23,334,0,32
-race/tour-de-france/2025/stage-11,11,VAN LAECKE Kristiaan,5,324,0,33
-race/tour-de-france/2025/stage-11,11,VAN PUYMBROECK Bram,28,318,30,34
-race/tour-de-france/2025/stage-11,11,WAUTERS Stefaan,9,318,0,35
-race/tour-de-france/2025/stage-11,11,VAN RAEMDONCK Hilde,19,307,0,36
-race/tour-de-france/2025/stage-11,11,VAN DAMME Hubert,9,288,20,37
-race/tour-de-france/2025/stage-11,11,VAN PUYMBROECK Bert,30,281,60,38
+race/tour-de-france/2025/stage-11,11,VAN PUYMBROECK Bram,16,342,30,32
+race/tour-de-france/2025/stage-11,11,* G-motmans69,23,334,0,33
+race/tour-de-france/2025/stage-11,11,VAN PUYMBROECK Bert,22,330,60,34
+race/tour-de-france/2025/stage-11,11,VAN LAECKE Kristiaan,5,324,0,35
+race/tour-de-france/2025/stage-11,11,WAUTERS Stefaan,9,318,0,36
+race/tour-de-france/2025/stage-11,11,VAN RAEMDONCK Hilde,19,307,0,37
+race/tour-de-france/2025/stage-11,11,VAN DAMME Hubert,9,288,20,38
 race/tour-de-france/2025/stage-11,11,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,19,263,0,39
-race/tour-de-france/2025/stage-11,11,RELAES Lucie,1,236,0,40
-race/tour-de-france/2025/stage-11,11,VAN GOETHEM Guy,35,214,0,41
-race/tour-de-france/2025/stage-11,11,TAS Alex,17,203,40,42
+race/tour-de-france/2025/stage-11,11,TAS Alex,9,252,40,40
+race/tour-de-france/2025/stage-11,11,RELAES Lucie,1,236,0,41
+race/tour-de-france/2025/stage-11,11,VAN GOETHEM Guy,35,214,0,42
 race/tour-de-france/2025/stage-11,11,RATING Kebab,5,99,0,43
 race/tour-de-france/2025/stage-12,12,DECLEYRE Michiel,106,616,0,1
 race/tour-de-france/2025/stage-12,12,SMET Bart,79,598,0,2
@@ -501,18 +501,18 @@ race/tour-de-france/2025/stage-12,12,RELAES Francis,53,438,0,26
 race/tour-de-france/2025/stage-12,12,VERHULST Harry,64,434,0,27
 race/tour-de-france/2025/stage-12,12,DE MAEYER peter,80,422,0,28
 race/tour-de-france/2025/stage-12,12,ROOMS Ben,49,422,0,29
-race/tour-de-france/2025/stage-12,12,VAN LAECKE Kristiaan,76,400,0,30
-race/tour-de-france/2025/stage-12,12,LEROY Sandra,41,393,0,31
-race/tour-de-france/2025/stage-12,12,* G-motmans69,53,387,0,32
-race/tour-de-france/2025/stage-12,12,DE MEULENAER Dries,20,387,0,33
-race/tour-de-france/2025/stage-12,12,WAUTERS Stefaan,53,371,0,34
-race/tour-de-france/2025/stage-12,12,VAN PUYMBROECK Bram,41,359,30,35
-race/tour-de-france/2025/stage-12,12,VAN RAEMDONCK Hilde,49,356,0,36
-race/tour-de-france/2025/stage-12,12,VAN PUYMBROECK Bert,64,345,60,37
+race/tour-de-france/2025/stage-12,12,VAN PUYMBROECK Bert,77,407,60,30
+race/tour-de-france/2025/stage-12,12,VAN LAECKE Kristiaan,76,400,0,31
+race/tour-de-france/2025/stage-12,12,LEROY Sandra,41,393,0,32
+race/tour-de-france/2025/stage-12,12,* G-motmans69,53,387,0,33
+race/tour-de-france/2025/stage-12,12,DE MEULENAER Dries,20,387,0,34
+race/tour-de-france/2025/stage-12,12,VAN PUYMBROECK Bram,41,383,30,35
+race/tour-de-france/2025/stage-12,12,WAUTERS Stefaan,53,371,0,36
+race/tour-de-france/2025/stage-12,12,VAN RAEMDONCK Hilde,49,356,0,37
 race/tour-de-france/2025/stage-12,12,VAN DAMME Hubert,53,341,20,38
-race/tour-de-france/2025/stage-12,12,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,21,284,0,39
-race/tour-de-france/2025/stage-12,12,RELAES Lucie,45,281,0,40
-race/tour-de-france/2025/stage-12,12,TAS Alex,40,243,40,41
+race/tour-de-france/2025/stage-12,12,TAS Alex,53,305,40,39
+race/tour-de-france/2025/stage-12,12,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,21,284,0,40
+race/tour-de-france/2025/stage-12,12,RELAES Lucie,45,281,0,41
 race/tour-de-france/2025/stage-12,12,VAN GOETHEM Guy,1,215,0,42
 race/tour-de-france/2025/stage-12,12,RATING Kebab,2,101,0,43
 race/tour-de-france/2025/stage-13,13,DECLEYRE Michiel,88,704,0,1
@@ -543,19 +543,19 @@ race/tour-de-france/2025/stage-13,13,DE MAEYER peter,77,499,0,25
 race/tour-de-france/2025/stage-13,13,VERHULST Harry,62,496,0,26
 race/tour-de-france/2025/stage-13,13,RELAES Francis,55,493,0,27
 race/tour-de-france/2025/stage-13,13,RELAES Joris,41,493,0,28
-race/tour-de-france/2025/stage-13,13,VAN LAECKE Kristiaan,66,466,0,29
-race/tour-de-france/2025/stage-13,13,ROOMS Ben,38,460,0,30
-race/tour-de-france/2025/stage-13,13,LEROY Sandra,41,434,0,31
-race/tour-de-france/2025/stage-13,13,* G-motmans69,45,432,0,32
-race/tour-de-france/2025/stage-13,13,WAUTERS Stefaan,45,416,0,33
-race/tour-de-france/2025/stage-13,13,VAN PUYMBROECK Bram,50,409,30,34
-race/tour-de-france/2025/stage-13,13,VAN PUYMBROECK Bert,62,407,60,35
+race/tour-de-france/2025/stage-13,13,VAN PUYMBROECK Bert,67,474,60,29
+race/tour-de-france/2025/stage-13,13,VAN LAECKE Kristiaan,66,466,0,30
+race/tour-de-france/2025/stage-13,13,ROOMS Ben,38,460,0,31
+race/tour-de-france/2025/stage-13,13,LEROY Sandra,41,434,0,32
+race/tour-de-france/2025/stage-13,13,VAN PUYMBROECK Bram,50,433,30,33
+race/tour-de-france/2025/stage-13,13,* G-motmans69,45,432,0,34
+race/tour-de-france/2025/stage-13,13,WAUTERS Stefaan,45,416,0,35
 race/tour-de-france/2025/stage-13,13,VAN RAEMDONCK Hilde,46,402,0,36
 race/tour-de-france/2025/stage-13,13,VAN DAMME Hubert,55,396,20,37
 race/tour-de-france/2025/stage-13,13,DE MEULENAER Dries,7,394,0,38
-race/tour-de-france/2025/stage-13,13,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,29,313,0,39
-race/tour-de-france/2025/stage-13,13,RELAES Lucie,31,312,0,40
-race/tour-de-france/2025/stage-13,13,TAS Alex,40,283,40,41
+race/tour-de-france/2025/stage-13,13,TAS Alex,45,350,40,39
+race/tour-de-france/2025/stage-13,13,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,29,313,0,40
+race/tour-de-france/2025/stage-13,13,RELAES Lucie,31,312,0,41
 race/tour-de-france/2025/stage-13,13,VAN GOETHEM Guy,1,216,0,42
 race/tour-de-france/2025/stage-13,13,RATING Kebab,6,107,0,43
 race/tour-de-france/2025/stage-14,14,DECLEYRE Michiel,83,787,0,1
@@ -584,21 +584,21 @@ race/tour-de-france/2025/stage-14,14,DE MAEYER peter,77,576,0,23
 race/tour-de-france/2025/stage-14,14,VAN RAEMDONCK Dirk,34,557,0,24
 race/tour-de-france/2025/stage-14,14,RELAES Matteo,40,552,0,25
 race/tour-de-france/2025/stage-14,14,VERHULST Harry,54,550,0,26
-race/tour-de-france/2025/stage-14,14,RELAES Francis,34,527,0,27
-race/tour-de-france/2025/stage-14,14,RELAES Joris,33,526,0,28
-race/tour-de-france/2025/stage-14,14,VAN LAECKE Kristiaan,55,521,0,29
-race/tour-de-france/2025/stage-14,14,ROOMS Ben,24,484,0,30
-race/tour-de-france/2025/stage-14,14,LEROY Sandra,35,469,0,31
-race/tour-de-france/2025/stage-14,14,VAN PUYMBROECK Bert,62,469,60,32
-race/tour-de-france/2025/stage-14,14,* G-motmans69,34,466,0,33
-race/tour-de-france/2025/stage-14,14,VAN PUYMBROECK Bram,42,451,30,34
+race/tour-de-france/2025/stage-14,14,VAN PUYMBROECK Bert,62,536,60,27
+race/tour-de-france/2025/stage-14,14,RELAES Francis,34,527,0,28
+race/tour-de-france/2025/stage-14,14,RELAES Joris,33,526,0,29
+race/tour-de-france/2025/stage-14,14,VAN LAECKE Kristiaan,55,521,0,30
+race/tour-de-france/2025/stage-14,14,ROOMS Ben,24,484,0,31
+race/tour-de-france/2025/stage-14,14,VAN PUYMBROECK Bram,42,475,30,32
+race/tour-de-france/2025/stage-14,14,LEROY Sandra,35,469,0,33
+race/tour-de-france/2025/stage-14,14,* G-motmans69,34,466,0,34
 race/tour-de-france/2025/stage-14,14,WAUTERS Stefaan,34,450,0,35
 race/tour-de-france/2025/stage-14,14,VAN RAEMDONCK Hilde,32,434,0,36
 race/tour-de-france/2025/stage-14,14,VAN DAMME Hubert,34,430,20,37
 race/tour-de-france/2025/stage-14,14,DE MEULENAER Dries,22,416,0,38
-race/tour-de-france/2025/stage-14,14,RELAES Lucie,40,352,0,39
-race/tour-de-france/2025/stage-14,14,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,17,330,0,40
-race/tour-de-france/2025/stage-14,14,TAS Alex,34,317,40,41
+race/tour-de-france/2025/stage-14,14,TAS Alex,34,384,40,39
+race/tour-de-france/2025/stage-14,14,RELAES Lucie,40,352,0,40
+race/tour-de-france/2025/stage-14,14,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,17,330,0,41
 race/tour-de-france/2025/stage-14,14,VAN GOETHEM Guy,1,217,0,42
 race/tour-de-france/2025/stage-14,14,RATING Kebab,34,141,0,43
 race/tour-de-france/2025/stage-15,15,DECLEYRE Michiel,20,807,0,1
@@ -628,20 +628,20 @@ race/tour-de-france/2025/stage-15,15,DE MAEYER peter,30,606,0,24
 race/tour-de-france/2025/stage-15,15,RELAES Matteo,21,573,0,25
 race/tour-de-france/2025/stage-15,15,VERHULST Harry,17,567,0,26
 race/tour-de-france/2025/stage-15,15,RELAES Joris,31,557,0,27
-race/tour-de-france/2025/stage-15,15,RELAES Francis,9,536,0,28
-race/tour-de-france/2025/stage-15,15,VAN LAECKE Kristiaan,14,535,0,29
-race/tour-de-france/2025/stage-15,15,* G-motmans69,54,520,0,30
-race/tour-de-france/2025/stage-15,15,VAN PUYMBROECK Bert,31,500,60,31
+race/tour-de-france/2025/stage-15,15,VAN PUYMBROECK Bert,17,553,60,28
+race/tour-de-france/2025/stage-15,15,RELAES Francis,9,536,0,29
+race/tour-de-france/2025/stage-15,15,VAN LAECKE Kristiaan,14,535,0,30
+race/tour-de-france/2025/stage-15,15,* G-motmans69,54,520,0,31
 race/tour-de-france/2025/stage-15,15,ROOMS Ben,10,494,0,32
 race/tour-de-france/2025/stage-15,15,VAN RAEMDONCK Hilde,54,488,0,33
-race/tour-de-france/2025/stage-15,15,LEROY Sandra,10,479,0,34
-race/tour-de-france/2025/stage-15,15,VAN PUYMBROECK Bram,23,474,30,35
+race/tour-de-france/2025/stage-15,15,VAN PUYMBROECK Bram,9,484,30,34
+race/tour-de-france/2025/stage-15,15,LEROY Sandra,10,479,0,35
 race/tour-de-france/2025/stage-15,15,WAUTERS Stefaan,9,459,0,36
 race/tour-de-france/2025/stage-15,15,VAN DAMME Hubert,9,439,20,37
 race/tour-de-france/2025/stage-15,15,DE MEULENAER Dries,14,430,0,38
 race/tour-de-france/2025/stage-15,15,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,72,402,0,39
-race/tour-de-france/2025/stage-15,15,RELAES Lucie,4,356,0,40
-race/tour-de-france/2025/stage-15,15,TAS Alex,23,340,40,41
+race/tour-de-france/2025/stage-15,15,TAS Alex,9,393,40,40
+race/tour-de-france/2025/stage-15,15,RELAES Lucie,4,356,0,41
 race/tour-de-france/2025/stage-15,15,VAN GOETHEM Guy,64,281,0,42
 race/tour-de-france/2025/stage-15,15,RATING Kebab,4,145,0,43
 race/tour-de-france/2025/stage-16,16,DECLEYRE Michiel,34,841,0,1
@@ -668,23 +668,23 @@ race/tour-de-france/2025/stage-16,16,VAN RAEMDONCK Dirk,29,645,0,21
 race/tour-de-france/2025/stage-16,16,DECLEYRE Simon,32,641,0,22
 race/tour-de-france/2025/stage-16,16,DE MAEYER Laurens,31,640,0,23
 race/tour-de-france/2025/stage-16,16,DE MAEYER peter,31,637,0,24
-race/tour-de-france/2025/stage-16,16,RELAES Matteo,25,598,0,25
-race/tour-de-france/2025/stage-16,16,VERHULST Harry,31,598,0,26
-race/tour-de-france/2025/stage-16,16,RELAES Joris,10,567,0,27
-race/tour-de-france/2025/stage-16,16,VAN LAECKE Kristiaan,29,564,0,28
-race/tour-de-france/2025/stage-16,16,RELAES Francis,22,558,0,29
-race/tour-de-france/2025/stage-16,16,VAN PUYMBROECK Bert,56,556,60,30
-race/tour-de-france/2025/stage-16,16,* G-motmans69,28,548,0,31
-race/tour-de-france/2025/stage-16,16,VAN PUYMBROECK Bram,67,541,30,32
+race/tour-de-france/2025/stage-16,16,VAN PUYMBROECK Bert,56,609,60,25
+race/tour-de-france/2025/stage-16,16,RELAES Matteo,25,598,0,26
+race/tour-de-france/2025/stage-16,16,VERHULST Harry,31,598,0,27
+race/tour-de-france/2025/stage-16,16,RELAES Joris,10,567,0,28
+race/tour-de-france/2025/stage-16,16,VAN LAECKE Kristiaan,29,564,0,29
+race/tour-de-france/2025/stage-16,16,RELAES Francis,22,558,0,30
+race/tour-de-france/2025/stage-16,16,VAN PUYMBROECK Bram,67,551,30,31
+race/tour-de-france/2025/stage-16,16,* G-motmans69,28,548,0,32
 race/tour-de-france/2025/stage-16,16,ROOMS Ben,10,504,0,33
 race/tour-de-france/2025/stage-16,16,LEROY Sandra,22,501,0,34
 race/tour-de-france/2025/stage-16,16,VAN RAEMDONCK Hilde,11,499,0,35
 race/tour-de-france/2025/stage-16,16,WAUTERS Stefaan,22,481,0,36
 race/tour-de-france/2025/stage-16,16,VAN DAMME Hubert,22,461,20,37
 race/tour-de-france/2025/stage-16,16,DE MEULENAER Dries,26,456,0,38
-race/tour-de-france/2025/stage-16,16,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,2,404,0,39
-race/tour-de-france/2025/stage-16,16,RELAES Lucie,14,370,0,40
-race/tour-de-france/2025/stage-16,16,TAS Alex,22,362,40,41
+race/tour-de-france/2025/stage-16,16,TAS Alex,22,415,40,39
+race/tour-de-france/2025/stage-16,16,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,2,404,0,40
+race/tour-de-france/2025/stage-16,16,RELAES Lucie,14,370,0,41
 race/tour-de-france/2025/stage-16,16,VAN GOETHEM Guy,0,281,0,42
 race/tour-de-france/2025/stage-16,16,RATING Kebab,33,178,0,43
 race/tour-de-france/2025/stage-17,17,DECLEYRE Michiel,59,900,0,1
@@ -713,21 +713,21 @@ race/tour-de-france/2025/stage-17,17,DECLEYRE Simon,32,673,0,23
 race/tour-de-france/2025/stage-17,17,DE MAEYER peter,17,654,0,24
 race/tour-de-france/2025/stage-17,17,RELAES Matteo,35,633,0,25
 race/tour-de-france/2025/stage-17,17,VERHULST Harry,31,629,0,26
-race/tour-de-france/2025/stage-17,17,RELAES Joris,35,602,0,27
-race/tour-de-france/2025/stage-17,17,VAN LAECKE Kristiaan,15,579,0,28
-race/tour-de-france/2025/stage-17,17,VAN PUYMBROECK Bert,17,573,60,29
+race/tour-de-france/2025/stage-17,17,VAN PUYMBROECK Bert,17,626,60,27
+race/tour-de-france/2025/stage-17,17,RELAES Joris,35,602,0,28
+race/tour-de-france/2025/stage-17,17,VAN LAECKE Kristiaan,15,579,0,29
 race/tour-de-france/2025/stage-17,17,* G-motmans69,24,572,0,30
 race/tour-de-france/2025/stage-17,17,RELAES Francis,10,568,0,31
-race/tour-de-france/2025/stage-17,17,VAN PUYMBROECK Bram,10,551,30,32
+race/tour-de-france/2025/stage-17,17,VAN PUYMBROECK Bram,10,561,30,32
 race/tour-de-france/2025/stage-17,17,ROOMS Ben,33,537,0,33
 race/tour-de-france/2025/stage-17,17,LEROY Sandra,10,511,0,34
 race/tour-de-france/2025/stage-17,17,VAN RAEMDONCK Hilde,9,508,0,35
 race/tour-de-france/2025/stage-17,17,WAUTERS Stefaan,10,491,0,36
 race/tour-de-france/2025/stage-17,17,VAN DAMME Hubert,10,471,20,37
 race/tour-de-france/2025/stage-17,17,DE MEULENAER Dries,1,457,0,38
-race/tour-de-france/2025/stage-17,17,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,2,406,0,39
-race/tour-de-france/2025/stage-17,17,RELAES Lucie,4,374,0,40
-race/tour-de-france/2025/stage-17,17,TAS Alex,10,372,40,41
+race/tour-de-france/2025/stage-17,17,TAS Alex,10,425,40,39
+race/tour-de-france/2025/stage-17,17,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,2,406,0,40
+race/tour-de-france/2025/stage-17,17,RELAES Lucie,4,374,0,41
 race/tour-de-france/2025/stage-17,17,VAN GOETHEM Guy,16,297,0,42
 race/tour-de-france/2025/stage-17,17,RATING Kebab,15,193,0,43
 race/tour-de-france/2025/stage-18,18,DECLEYRE Michiel,98,998,0,1
@@ -756,11 +756,11 @@ race/tour-de-france/2025/stage-18,18,DE MAEYER peter,66,720,0,23
 race/tour-de-france/2025/stage-18,18,VERELST Thomas,23,710,0,24
 race/tour-de-france/2025/stage-18,18,VERHULST Harry,71,700,0,25
 race/tour-de-france/2025/stage-18,18,RELAES Matteo,43,676,0,26
-race/tour-de-france/2025/stage-18,18,RELAES Francis,65,633,0,27
-race/tour-de-france/2025/stage-18,18,RELAES Joris,22,624,0,28
-race/tour-de-france/2025/stage-18,18,VAN LAECKE Kristiaan,44,623,0,29
-race/tour-de-france/2025/stage-18,18,VAN PUYMBROECK Bram,65,616,30,30
-race/tour-de-france/2025/stage-18,18,VAN PUYMBROECK Bert,41,614,60,31
+race/tour-de-france/2025/stage-18,18,VAN PUYMBROECK Bert,41,667,60,27
+race/tour-de-france/2025/stage-18,18,RELAES Francis,65,633,0,28
+race/tour-de-france/2025/stage-18,18,VAN PUYMBROECK Bram,65,626,30,29
+race/tour-de-france/2025/stage-18,18,RELAES Joris,22,624,0,30
+race/tour-de-france/2025/stage-18,18,VAN LAECKE Kristiaan,44,623,0,31
 race/tour-de-france/2025/stage-18,18,* G-motmans69,35,607,0,32
 race/tour-de-france/2025/stage-18,18,ROOMS Ben,37,574,0,33
 race/tour-de-france/2025/stage-18,18,LEROY Sandra,35,546,0,34
@@ -768,9 +768,9 @@ race/tour-de-france/2025/stage-18,18,VAN RAEMDONCK Hilde,22,530,0,35
 race/tour-de-france/2025/stage-18,18,WAUTERS Stefaan,35,526,0,36
 race/tour-de-france/2025/stage-18,18,VAN DAMME Hubert,35,506,20,37
 race/tour-de-france/2025/stage-18,18,DE MEULENAER Dries,41,498,0,38
-race/tour-de-france/2025/stage-18,18,RELAES Lucie,66,440,0,39
-race/tour-de-france/2025/stage-18,18,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,17,423,0,40
-race/tour-de-france/2025/stage-18,18,TAS Alex,35,407,40,41
+race/tour-de-france/2025/stage-18,18,TAS Alex,35,460,40,39
+race/tour-de-france/2025/stage-18,18,RELAES Lucie,66,440,0,40
+race/tour-de-france/2025/stage-18,18,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,17,423,0,41
 race/tour-de-france/2025/stage-18,18,VAN GOETHEM Guy,0,297,0,42
 race/tour-de-france/2025/stage-18,18,RATING Kebab,3,196,0,43
 race/tour-de-france/2025/stage-19,19,DECLEYRE Michiel,75,1073,0,1
@@ -798,12 +798,12 @@ race/tour-de-france/2025/stage-19,19,DE MAEYER Laurens,51,775,0,22
 race/tour-de-france/2025/stage-19,19,VAN RAEMDONCK Dirk,31,762,0,23
 race/tour-de-france/2025/stage-19,19,VERHULST Harry,50,750,0,24
 race/tour-de-france/2025/stage-19,19,VERELST Thomas,35,745,0,25
-race/tour-de-france/2025/stage-19,19,RELAES Matteo,32,708,0,26
-race/tour-de-france/2025/stage-19,19,VAN LAECKE Kristiaan,59,682,0,27
-race/tour-de-france/2025/stage-19,19,VAN PUYMBROECK Bert,56,670,60,28
+race/tour-de-france/2025/stage-19,19,VAN PUYMBROECK Bert,56,723,60,26
+race/tour-de-france/2025/stage-19,19,RELAES Matteo,32,708,0,27
+race/tour-de-france/2025/stage-19,19,VAN LAECKE Kristiaan,59,682,0,28
 race/tour-de-france/2025/stage-19,19,RELAES Francis,30,663,0,29
-race/tour-de-france/2025/stage-19,19,RELAES Joris,34,658,0,30
-race/tour-de-france/2025/stage-19,19,VAN PUYMBROECK Bram,36,652,30,31
+race/tour-de-france/2025/stage-19,19,VAN PUYMBROECK Bram,36,662,30,30
+race/tour-de-france/2025/stage-19,19,RELAES Joris,34,658,0,31
 race/tour-de-france/2025/stage-19,19,* G-motmans69,30,637,0,32
 race/tour-de-france/2025/stage-19,19,ROOMS Ben,21,595,0,33
 race/tour-de-france/2025/stage-19,19,LEROY Sandra,32,578,0,34
@@ -811,8 +811,8 @@ race/tour-de-france/2025/stage-19,19,VAN RAEMDONCK Hilde,34,564,0,35
 race/tour-de-france/2025/stage-19,19,WAUTERS Stefaan,32,558,0,36
 race/tour-de-france/2025/stage-19,19,VAN DAMME Hubert,30,536,20,37
 race/tour-de-france/2025/stage-19,19,DE MEULENAER Dries,17,515,0,38
-race/tour-de-france/2025/stage-19,19,RELAES Lucie,41,481,0,39
-race/tour-de-france/2025/stage-19,19,TAS Alex,30,437,40,40
+race/tour-de-france/2025/stage-19,19,TAS Alex,30,490,40,39
+race/tour-de-france/2025/stage-19,19,RELAES Lucie,41,481,0,40
 race/tour-de-france/2025/stage-19,19,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,11,434,0,41
 race/tour-de-france/2025/stage-19,19,VAN GOETHEM Guy,0,297,0,42
 race/tour-de-france/2025/stage-19,19,RATING Kebab,35,231,0,43
@@ -841,12 +841,12 @@ race/tour-de-france/2025/stage-20,20,DE MAEYER Laurens,21,796,0,22
 race/tour-de-france/2025/stage-20,20,VERELST Thomas,35,780,0,23
 race/tour-de-france/2025/stage-20,20,VAN RAEMDONCK Dirk,17,779,0,24
 race/tour-de-france/2025/stage-20,20,VERHULST Harry,16,766,0,25
-race/tour-de-france/2025/stage-20,20,RELAES Matteo,18,726,0,26
-race/tour-de-france/2025/stage-20,20,RELAES Francis,56,719,0,27
-race/tour-de-france/2025/stage-20,20,VAN LAECKE Kristiaan,19,701,0,28
-race/tour-de-france/2025/stage-20,20,VAN PUYMBROECK Bert,16,686,60,29
-race/tour-de-france/2025/stage-20,20,RELAES Joris,12,670,0,30
-race/tour-de-france/2025/stage-20,20,VAN PUYMBROECK Bram,14,666,30,31
+race/tour-de-france/2025/stage-20,20,VAN PUYMBROECK Bert,16,739,60,26
+race/tour-de-france/2025/stage-20,20,RELAES Matteo,18,726,0,27
+race/tour-de-france/2025/stage-20,20,RELAES Francis,56,719,0,28
+race/tour-de-france/2025/stage-20,20,VAN LAECKE Kristiaan,19,701,0,29
+race/tour-de-france/2025/stage-20,20,VAN PUYMBROECK Bram,14,676,30,30
+race/tour-de-france/2025/stage-20,20,RELAES Joris,12,670,0,31
 race/tour-de-france/2025/stage-20,20,* G-motmans69,10,647,0,32
 race/tour-de-france/2025/stage-20,20,ROOMS Ben,11,606,0,33
 race/tour-de-france/2025/stage-20,20,LEROY Sandra,10,588,0,34
@@ -854,8 +854,8 @@ race/tour-de-france/2025/stage-20,20,VAN RAEMDONCK Hilde,18,582,0,35
 race/tour-de-france/2025/stage-20,20,WAUTERS Stefaan,10,568,0,36
 race/tour-de-france/2025/stage-20,20,VAN DAMME Hubert,14,550,20,37
 race/tour-de-france/2025/stage-20,20,DE MEULENAER Dries,1,516,0,38
-race/tour-de-france/2025/stage-20,20,RELAES Lucie,18,499,0,39
-race/tour-de-france/2025/stage-20,20,TAS Alex,10,447,40,40
+race/tour-de-france/2025/stage-20,20,TAS Alex,10,500,40,39
+race/tour-de-france/2025/stage-20,20,RELAES Lucie,18,499,0,40
 race/tour-de-france/2025/stage-20,20,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,11,445,0,41
 race/tour-de-france/2025/stage-20,20,VAN GOETHEM Guy,6,303,0,42
 race/tour-de-france/2025/stage-20,20,RATING Kebab,21,252,0,43
@@ -885,11 +885,11 @@ race/tour-de-france/2025/stage-21,21,VERELST Thomas,26,806,0,23
 race/tour-de-france/2025/stage-21,21,VAN RAEMDONCK Dirk,24,803,0,24
 race/tour-de-france/2025/stage-21,21,VERHULST Harry,22,788,0,25
 race/tour-de-france/2025/stage-21,21,RELAES Matteo,32,758,0,26
-race/tour-de-france/2025/stage-21,21,RELAES Francis,30,749,0,27
-race/tour-de-france/2025/stage-21,21,VAN PUYMBROECK Bert,44,730,60,28
+race/tour-de-france/2025/stage-21,21,VAN PUYMBROECK Bert,14,753,60,27
+race/tour-de-france/2025/stage-21,21,RELAES Francis,30,749,0,28
 race/tour-de-france/2025/stage-21,21,VAN LAECKE Kristiaan,26,727,0,29
-race/tour-de-france/2025/stage-21,21,VAN PUYMBROECK Bram,56,722,30,30
-race/tour-de-france/2025/stage-21,21,RELAES Joris,48,718,0,31
+race/tour-de-france/2025/stage-21,21,RELAES Joris,48,718,0,30
+race/tour-de-france/2025/stage-21,21,VAN PUYMBROECK Bram,26,702,30,31
 race/tour-de-france/2025/stage-21,21,* G-motmans69,24,671,0,32
 race/tour-de-france/2025/stage-21,21,LEROY Sandra,44,632,0,33
 race/tour-de-france/2025/stage-21,21,ROOMS Ben,18,624,0,34
@@ -897,8 +897,8 @@ race/tour-de-france/2025/stage-21,21,VAN RAEMDONCK Hilde,42,624,0,35
 race/tour-de-france/2025/stage-21,21,WAUTERS Stefaan,14,582,0,36
 race/tour-de-france/2025/stage-21,21,VAN DAMME Hubert,26,576,20,37
 race/tour-de-france/2025/stage-21,21,DE MEULENAER Dries,30,546,0,38
-race/tour-de-france/2025/stage-21,21,RELAES Lucie,6,505,0,39
-race/tour-de-france/2025/stage-21,21,TAS Alex,44,491,40,40
+race/tour-de-france/2025/stage-21,21,TAS Alex,14,514,40,39
+race/tour-de-france/2025/stage-21,21,RELAES Lucie,6,505,0,40
 race/tour-de-france/2025/stage-21,21,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,42,487,0,41
 race/tour-de-france/2025/stage-21,21,VAN GOETHEM Guy,8,311,0,42
 race/tour-de-france/2025/stage-21,21,RATING Kebab,25,277,0,43
@@ -927,10 +927,10 @@ final,22,DE MAEYER Laurens,392,1220,0,22
 final,22,VERELST Thomas,332,1138,0,23
 final,22,VERHULST Harry,343,1131,0,24
 final,22,VAN LAECKE Kristiaan,387,1114,0,25
-final,22,VAN PUYMBROECK Bert,355,1085,60,26
-final,22,VAN PUYMBROECK Bram,324,1046,30,27
-final,22,RELAES Matteo,277,1035,0,28
-final,22,RELAES Joris,312,1030,0,29
+final,22,VAN PUYMBROECK Bert,355,1108,60,26
+final,22,RELAES Matteo,277,1035,0,27
+final,22,RELAES Joris,312,1030,0,28
+final,22,VAN PUYMBROECK Bram,324,1026,30,29
 final,22,RELAES Francis,240,989,0,30
 final,22,VAN RAEMDONCK Dirk,180,983,0,31
 final,22,ROOMS Ben,280,904,0,32
@@ -941,7 +941,7 @@ final,22,RELAES Lucie,313,818,0,36
 final,22,WAUTERS Stefaan,190,772,0,37
 final,22,VAN DAMME Hubert,182,758,20,38
 final,22,DE MEULENAER Dries,193,739,0,39
-final,22,TAS Alex,188,679,40,40
+final,22,TAS Alex,188,702,40,40
 final,22,VANDENBROUCKE-VAN RAEMDONCK Sofia en Ann,107,594,0,41
 final,22,RATING Kebab,97,374,0,42
 final,22,VAN GOETHEM Guy,0,311,0,43
